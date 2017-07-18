@@ -2,5 +2,13 @@ body{
 	background-color: black;
 	font-size: 16px;
 	font-family: Georgia, serif;
-	color: white;
+	color: GoldenRod  ;
+}
+
+section{
+	margin-left: 20px;
+}
+
+#content_start{
+	margin-top: 50px;
 }

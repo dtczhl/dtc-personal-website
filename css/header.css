@@ -1,4 +1,4 @@
-nav{
+head{
 	position: fixed; /* fix the navigator on top of brower */
 }
 
@@ -11,5 +11,5 @@ nav ul li{
 nav ul li a{
 	text-decoration: none;
 	font-size: 180%;
-	color: ForestGreen;
+	color: SeaGreen;
 }

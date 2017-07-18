@@ -14,7 +14,7 @@
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
 		
 		<link rel="stylesheet" href="css/theme.css" />
-		<link rel="stylesheet" href="css/navigator.css" />
+		<link rel="stylesheet" href="css/header.css" />
 		<link rel="stylesheet" href="css/footer.css" />
 		
 		<link rel="stylesheet" href="css/resources.css" />
@@ -23,7 +23,7 @@
 	
 	<body>
 		
-		<?php include 'navigator.php'; ?>
+		<?php include 'header.php'; ?>
 		
 		<?php include 'footer.php'; ?>
 		

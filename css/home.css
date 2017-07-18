@@ -2,3 +2,26 @@
 	font-size: 105%;
 	font-style: italic; 
 }
+
+section{
+	font-size: 110%;
+}
+
+.education_table, .work_table, .intern_table{
+	border-spacing: 10px 5px;
+	margin-top: -15px;
+	padding-left: 10px;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: LightGray;
+	padding-top: 5px;
+}
+
+.university_row, .company_row{
+	height: 30px;
+	font-style: italic;
+	vertical-align: top;
+}
+
+
+
