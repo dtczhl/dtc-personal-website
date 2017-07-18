@@ -1,0 +1,15 @@
+nav{
+	position: fixed; /* fix the navigator on top of brower */
+}
+
+nav ul li{
+	display: inline-block;
+	margin-right: 20px;
+	text-align: left;
+}
+
+nav ul li a{
+	text-decoration: none;
+	font-size: 200%;
+	color: ForestGreen;
+}
