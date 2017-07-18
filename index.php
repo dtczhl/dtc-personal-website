@@ -18,6 +18,8 @@
 		
 		<link rel="stylesheet" href="css/theme.css" />
 		<link rel="stylesheet" href="css/navigator.css" />
+		<link rel="stylesheet" href="css/footer.css" />
+		
 		<link rel="stylesheet" href="css/home.css" />
 		
 	</head>
@@ -25,6 +27,7 @@
 	<body>
 		
 		<?php include 'navigator.php'; ?>
+		
 		
 		<?php include 'footer.php'; ?>
 		

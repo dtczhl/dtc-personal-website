@@ -1,0 +1,10 @@
+footer{
+	display: inline;
+	border-top-style: solid;
+	border-top-width: 1px;
+	color: DarkGray;
+	margin-left: 50px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 2px;
+}
