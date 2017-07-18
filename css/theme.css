@@ -2,13 +2,32 @@ body{
 	background-color: black;
 	font-size: 16px;
 	font-family: Georgia, serif;
-	color: GoldenRod  ;
+	color: DarkCyan;
 }
 
 section{
-	margin-left: 20px;
+	margin-left: 30px;
 }
 
 #content_start{
-	margin-top: 50px;
+	margin-top: 150px;
+}
+
+.main_wrapper{
+	position: relative;
+	top: 50px;
+}
+
+.bar_top{ /* horizontal bar at the top */
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: DarkGray;
+}
+
+.header_title{
+	color: CadetBlue;
+}
+
+.hide_credit{
+	display: none;
 }

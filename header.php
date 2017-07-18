@@ -1,7 +1,7 @@
 <?php
 
 echo <<<EOL
-		<header>
+<header>
 			<nav>
 				<ul>
 					<li id="nav_home"> <a href="index.php" class="nav"> Home <a></li>

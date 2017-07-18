@@ -29,8 +29,8 @@
 		<?php include 'header.php'; ?>
 		
 		<section id="content_start">
-			<h1 class="education_title"> Education </h1>
-			<table class="education_table">
+			<h1 class="education_title header_title"> Education </h1>
+			<table class="education_table bar_top">
 				<tr class="degree_row"> <!-- PhD -->
 					<td> Ph.D., </td>
 					<td> 2016.09 - Present, </td>
@@ -65,8 +65,8 @@
 		</section>
 		
 		<section>
-			<h1 class="work_title"> Work Experience </h1>
-			<table class="work_table">
+			<h1 class="work_title header_title"> Work Experience </h1>
+			<table class="work_table bar_top">
 				<tr class="work_row"> <!-- NTU -->
 					<td> Project Officer, </td>
 					<td> 2014.08 - 2016.06, </td>
@@ -81,8 +81,8 @@
 		</section>
 		
 		<section>
-			<h1 class="intern_title"> Internship </h1>
-			<table class="intern_table">
+			<h1 class="intern_title header_title"> Internship </h1>
+			<table class="intern_table bar_top">
 				<tr class="intern_row"> <!-- simula -->
 					<td> Summer Intern, </td>
 					<td> Pending, </td>
@@ -96,7 +96,18 @@
 			</table>
 		</section>
 		
+		<section>
+			<h1 class="research_title header_title"> Research Topics </h1>
+			<p class="research_block bar_top"> Mobile Systems &amp; Applications; 3G/4G/5G; Internet of Things
+		</section>
 		
+		<section>
+			<h1 class="contact_title header_title"> Contact Me </h1>
+			<ul class="contact_list bar_top">
+				<li> <span class="contact_label"> Email: </span> huanle.zhang.cn AT ieee DOT org </li>
+				<li> <span class="contact_label"> Address: </span> 2106 Watershed Sciences, Davis, USA </li>
+			</ul>
+		</section>
 		
 		<?php include 'footer.php'; ?>
 		

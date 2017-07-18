@@ -1,15 +1,31 @@
 head{
+}
+
+nav ul {
+	display: inline-block;
 	position: fixed; /* fix the navigator on top of brower */
+	top: 10px;	
+	padding-bottom: 20px;
+	width: 100%;
+	z-index: 99;
 }
 
 nav ul li{
 	display: inline-block;
-	margin-right: 20px;
-	text-align: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	text-align: center;
+	border-right-style: dotted;
+	border-right-width: 1px;
+	border-right-color: DarkGray;
+}
+
+nav ul li:last-of-type{ /* last navigator, do not need solid border */
+	border-right-style: none;
 }
 
 nav ul li a{
 	text-decoration: none;
-	font-size: 180%;
+	font-size: 200%;
 	color: SeaGreen;
 }

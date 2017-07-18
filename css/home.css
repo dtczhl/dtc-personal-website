@@ -7,21 +7,53 @@ section{
 	font-size: 110%;
 }
 
+
+.education_title, .work_title, .intern_title, .research_title, .contact_title{ /* category title */
+	
+}
+
+/* table based education, work experience, internship only*/
 .education_table, .work_table, .intern_table{
 	border-spacing: 10px 5px;
 	margin-top: -15px;
 	padding-left: 10px;
-	border-top-style: solid;
-	border-top-width: 1px;
-	border-top-color: LightGray;
 	padding-top: 5px;
 }
 
+/* table based education, work experience, internship only*/
 .university_row, .company_row{
+	margin-left: 15px;
 	height: 30px;
 	font-style: italic;
 	vertical-align: top;
 }
 
+/* <p> based research topics only */
+.research_block{
+	display: inline-block;
+	margin-top: -15px;
+	padding-top: 15px;
+	padding-left: 25px;
+	padding-right: 20px;
+	vertical-align: top;
+}
+
+/* list based contact me only */
+.contact_list{
+	display: inline-block;
+	list-style-type: none;
+	margin-top: -20px;
+	padding-top: 10px;
+	padding-right: 10px;
+}
+
+.contact_list li{
+	margin-left: -15px;
+	height: 30px;
+}
+
+.contact_label{ /* label for contact list */
+	color: DarkKhaki;
+}
 
 

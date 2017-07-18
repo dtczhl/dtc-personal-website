@@ -2,3 +2,103 @@
 	font-size: 105%;
 	font-style: italic; 
 }
+
+section{
+	font-size: 105%;
+	max-width: 1000px;
+}
+
+.conference_list{
+	counter-reset: li;
+	display: inline-block;
+	margin-top: -15px;
+	padding-top: 15px;
+	list-style-type: none;
+}
+
+.conference_list li{
+	counter-increment: li;
+	line-height: 150%;
+}
+
+.conference_list li::before{
+	content: counter(li) " . ";
+	color: DarkKhaki;
+	font-size: 120%;
+}
+
+/* publisher abbrevation */
+.publisher_abbr{
+	color: DarkViolet;
+}
+
+/* add [] */
+.publisher_abbr::before{
+	content: "[";
+	color: Maroon;
+	font-weight: bold;
+}
+.publisher_abbr::after{
+	content: "] ";
+	color: Maroon;
+	font-weight: bold;
+}
+
+/* author */
+.author{
+	color: BurlyWood;
+}
+
+/* me author */
+.meAuthor{
+	font-style: italic;
+	border-bottom-style: dotted;
+	border-bottom-width: 1px;
+}
+
+/* paper title */
+.paper_title{
+	margin-left: 30px;
+	line-height: 30px;
+	display: block;
+	font-style: italic;
+	font-size: 110%;
+}
+
+/* publisher */
+.publisher{
+	margin-left: 30px;
+}
+
+.publisher, .page_number, .conference_location, .date{
+	font-size: 95%;
+	color: DarkGray;
+	vertical-align: text-top;
+}
+
+.page_number::before{
+	content: ", pp. ";
+	font-style: italic;
+}
+
+.conference_location::before, .date::before{
+	content: ", ";
+}
+
+.download{
+	margin-left: 30px;
+	margin-top: 10px;
+	padding-bottom: 15px;
+	vertical-align: text-bottom;
+}
+
+.pdf, .slides, .video, .award{
+	text-decoration: none;
+	color: DarkSlateBlue;
+	margin-right: 10px;
+}
+
+.award_title{
+	padding-left: 1px;
+	color: red;
+}
