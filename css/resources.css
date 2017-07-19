@@ -22,9 +22,10 @@
 }
 
 .github{
-	margin-left: 10px;
+	margin-left: 20px;
 	display: inline-block;
 	vertical-align: middle;
+	text-decoration: none;
 }
 
 .android_list{
