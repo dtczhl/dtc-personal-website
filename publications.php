@@ -70,7 +70,7 @@
 					 <span class="date"> 2013 </span>
 					 <div class="download">
 						<a href="publication/conference/analysis_globecom_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-						<a href="publication/conference/analysis_globecom_13/student_travel_grant" target="_blank" ref="author" class="award"> <span class="award_title">Student Travel Grant</span></a>
+						<a href="publication/conference/analysis_globecom_13/student_travel_grant.jpg" target="_blank" ref="author" class="award"> <span class="award_title">Student Travel Grant</span></a>
 					 </div> <!-- donwload resources -->
 				</li>
 				
