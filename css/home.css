@@ -26,6 +26,7 @@ section{
 	height: 30px;
 	font-style: italic;
 	vertical-align: top;
+	color: DarkGray;
 }
 
 /* <p> based research topics only */
@@ -53,6 +54,11 @@ section{
 }
 
 .contact_label{ /* label for contact list */
+	color: DarkKhaki;
+}
+
+/* let first element hightlight */
+table tr td:first-of-type{
 	color: DarkKhaki;
 }
 

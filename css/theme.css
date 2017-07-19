@@ -13,10 +13,6 @@ section{
 	margin-top: 150px;
 }
 
-.main_wrapper{
-	position: relative;
-	top: 50px;
-}
 
 .bar_top{ /* horizontal bar at the top */
 	border-top-style: solid;

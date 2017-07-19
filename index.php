@@ -27,6 +27,7 @@
 	<body>
 		
 		<?php include 'header.php'; ?>
+
 		
 		<section id="content_start">
 			<h1 class="education_title header_title"> Education </h1>
@@ -108,7 +109,8 @@
 				<li> <span class="contact_label"> Address: </span> 2106 Watershed Sciences, Davis, USA </li>
 			</ul>
 		</section>
-		
+	
+	
 		<?php include 'footer.php'; ?>
 		
 	</body>

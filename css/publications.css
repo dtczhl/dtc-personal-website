@@ -8,20 +8,40 @@ section{
 	max-width: 1000px;
 }
 
-.conference_list{
+.conference_list, .journal_list{
 	counter-reset: li;
 	display: inline-block;
 	margin-top: -15px;
 	padding-top: 15px;
+	padding-right: 15px;
 	list-style-type: none;
 }
 
-.conference_list li{
+.review_list, .member_list{
+	display: inline-block;
+	padding-right: 15px;
+	margin-top: -15px;
+	padding-top: 15px;
+	list-style-type: none;
+	padding-bottom: 15px;
+}
+
+.review_list li, .member_list li{
+	line-height: 150%;
+}
+
+.review_list li::before, .member_list li::before{
+	content: " * ";
+	color: DarkKhaki;
+	font-size: 120%;
+}
+
+.conference_list li, .journal_list li{
 	counter-increment: li;
 	line-height: 150%;
 }
 
-.conference_list li::before{
+.conference_list li::before, .journal_list li::before{
 	content: counter(li) " . ";
 	color: DarkKhaki;
 	font-size: 120%;
@@ -70,14 +90,33 @@ section{
 	margin-left: 30px;
 }
 
-.publisher, .page_number, .conference_location, .date{
+.publisher, .page_number, .conference_location, .date, .vol_number, .issue_number, .doi{
 	font-size: 95%;
 	color: DarkGray;
 	vertical-align: text-top;
 }
 
+.review_date, .member_date{
+	color: DarkGray;
+}
+
 .page_number::before{
 	content: ", pp. ";
+	font-style: italic;
+}
+
+.vol_number::before{
+	content: ", vol. ";
+	font-style: italic;
+}
+
+.issue_number::before{
+	content: ", no. ";
+	font-style: italic;
+}
+
+.doi::before{
+	content: ", DOI: ";
 	font-style: italic;
 }
 
@@ -101,4 +140,8 @@ section{
 .award_title{
 	padding-left: 1px;
 	color: red;
+}
+
+.review_name::after, .member_name::after{
+	content: ": ";
 }

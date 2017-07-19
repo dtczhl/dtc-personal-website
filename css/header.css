@@ -2,12 +2,16 @@ head{
 }
 
 nav ul {
+	margin-top: 0px;
 	display: inline-block;
 	position: fixed; /* fix the navigator on top of brower */
-	top: 10px;	
+	top: 0px;	
+	left: 0px;
+	padding-top: 20px;
 	padding-bottom: 20px;
 	width: 100%;
 	z-index: 99;
+	background-color: black;
 }
 
 nav ul li{

@@ -113,6 +113,87 @@
 			</ol>
 		</section>
 		
+		
+		<section>
+			<h1 class="journal_title header_title"> Journal Papers </h1>
+			<ol class="journal_list bar_top">
+				
+				<li> <span class="publisher_abbr">TON'17</span> 
+					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
+				     <span class="paper_title"> Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference </span> 
+					 <span class="publisher"> IEEE/ACM Transactions on Networking </span> 
+					 <span class="vol_number"> 25 </span>
+					 <span class="issue_number"> 2 </span>
+					 <span class="page_number"> 820-833 </span> 
+					 <span class="date"> 2017 </span>
+					 <div class="download">
+						<a href="publication/journal/pando_ton_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+				<li> <span class="publisher_abbr">IJCS'14</span> 
+					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, and Haili Shi </span> 
+				     <span class="paper_title"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span> 
+					 <span class="publisher"> International Journal of Communication Systems </span> 
+					 <span class="doi"> 10.1002/dac.2851 </span>
+					 <span class="date"> 2014 </span>
+					 <div class="download">
+						<a href="publication/journal/analysis_ijcs_14/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+				<li> <span class="publisher_abbr">AISS'13</span> 
+					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yu Fu, and Niangeng Guo </span>
+				     <span class="paper_title"> OFDMA Femtocell Gateway Scheduling based on Coloring </span> 
+					 <span class="publisher"> Advances in Information Sciences and Service Sciences </span> 
+					 <span class="vol_number"> 5 </span>
+					 <span class="issue_number"> 12 </span>
+					 <span class="page_number"> 192-203 </span> 
+					 <span class="date"> 2013 </span>
+					 <div class="download">
+						<a href="publication/journal/ofdma_aiss_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+			</ol>
+		</section>
+		
+		
+		<section>
+			<h1 class="review_title header_title"> Reviewer </h1>
+			<ul class="review_list bar_top">
+				<li> 
+					<span class="review_name"> EURASIP Journal on Wireless Communications and Networking (JWCN) </span> 
+					<span class="review_date"> 2015 </span>
+				</li>
+				<li> 
+					<span class="review_name"> IEEE Global Communications Conference (IEEE GLOBECOM) </span> 
+					<span class="review_date"> 2014 </span>
+				</li>
+				<li> 
+					<span class="review_name"> IEEE Internet of Things Journal (IEEE IoT) </span> 
+					<span class="review_date"> 2013, 2014 </span>
+				</li>
+			</ul>
+		</section>
+		
+		<section>
+			<h1 class="member_title header_title"> Membership </h1>
+			<ul class="member_list bar_top">
+			
+				<li> 
+					<span class="member_name"> IEEE Member </span> 
+					<span class="member_date"> 2013-Present </span>
+				</li>
+
+				<li> 
+					<span class="member_name"> IEEE ComSoc SPCE </span> 
+					<span class="member_date">  2016-Present </span>
+				</li>
+			</ul>
+			
+		</section>
+		
 		<!-- Use icons from Internet. Below are the credits. -->
 		<div class="hide_credit">
 			<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="http://www.flaticon.com" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
