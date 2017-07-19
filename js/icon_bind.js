@@ -27,7 +27,7 @@ $(function(){
 	// github icon
 	var github_class = $('.github'); 
     jQuery.each(github_class, function(){
-		$(this).prepend('<img src="image/icon/github.png" width="100" alt="github icon" />');
+		$(this).prepend('<span style="font-size:120%; color:MediumBlue;"> GitHub </span>');
     });
 	
 });
