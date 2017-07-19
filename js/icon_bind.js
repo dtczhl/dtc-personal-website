@@ -21,7 +21,13 @@ $(function(){
 	// award icon
 	var award_class = $('.award'); 
     jQuery.each(award_class, function(){
-		$(this).prepend('<img src="image/icon/award.png" width="28" height="28" alt="slides icon" />');
+		$(this).prepend('<img src="image/icon/award.png" width="28" height="28" alt="award icon" />');
+    });
+	
+	// github icon
+	var github_class = $('.github'); 
+    jQuery.each(github_class, function(){
+		$(this).prepend('<img src="image/icon/github.png" width="100" alt="github icon" />');
     });
 	
 });

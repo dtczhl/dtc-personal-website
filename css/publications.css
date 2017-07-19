@@ -49,23 +49,24 @@ section{
 
 /* publisher abbrevation */
 .publisher_abbr{
-	color: DarkViolet;
+	color: DarkMagenta;
 }
 
 /* add [] */
 .publisher_abbr::before{
 	content: "[";
-	color: Maroon;
+	color: DarkOliveGreen;
 	font-weight: bold;
 }
 .publisher_abbr::after{
 	content: "] ";
-	color: Maroon;
+	color: DarkOliveGreen;
 	font-weight: bold;
 }
 
 /* author */
 .author{
+	margin-left: 10px;
 	color: BurlyWood;
 }
 
@@ -139,7 +140,7 @@ section{
 
 .award_title{
 	padding-left: 1px;
-	color: red;
+	color: DarkOrange;
 }
 
 .review_name::after, .member_name::after{
