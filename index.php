@@ -34,7 +34,7 @@
 			<table class="education_table bar_top">
 				<tr class="degree_row"> <!-- PhD -->
 					<td> Ph.D., </td>
-					<td> 2016.09 - Present, </td>
+					<td> 2016.09 - Now, </td>
 					<td> Computer &amp; Information Science </td>
 					<td>  </td>
 				</tr>
@@ -86,7 +86,7 @@
 			<table class="intern_table bar_top">
 				<tr class="intern_row"> <!-- simula -->
 					<td> Summer Intern, </td>
-					<td> Pending, </td>
+					<td> 2017.07 - Now, </td>
 					<td> Communication Systems </td>
 					<td>  </td>
 				</tr>
