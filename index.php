@@ -86,7 +86,7 @@
 			<table class="intern_table bar_top">
 				<tr class="intern_row"> <!-- simula -->
 					<td> Summer Intern, </td>
-					<td> 2017.07 - Now, </td>
+					<td> 2017.07 - 2017.09, </td>
 					<td> Communication Systems </td>
 					<td>  </td>
 				</tr>
