@@ -92,7 +92,7 @@
 				</tr>
 				<tr class="company_row">
 					<td> </td>
-					<td colspan="3"> Simula School of Research &amp; Innovation, Norway </td>
+					<td colspan="3"> Simula Research Laboratory, Norway </td>
 				</tr> <!-- end of simula -->
 			</table>
 		</section>
