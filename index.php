@@ -99,7 +99,7 @@
 		
 		<section>
 			<h1 class="research_title header_title"> Research Topics </h1>
-			<p class="research_block bar_top"> Mobile Systems &amp; Applications; 3G/4G/5G; Internet of Things
+			<p class="research_block bar_top"> AR/VR Systems; Mobile Systems &amp; Applications; 3G/4G/5G; Internet of Things
 		</section>
 		
 		<section>
