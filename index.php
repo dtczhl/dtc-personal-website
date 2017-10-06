@@ -14,7 +14,6 @@
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
 		
 		<script src="js/jquery-3.2.1.js"></script>
-		<script src="js/include_html.js"></script>
 		
 		<link rel="stylesheet" href="css/theme.css" />
 		<link rel="stylesheet" href="css/header.css" />
