@@ -13,7 +13,10 @@
 			echo "dtcResponse=1;";
 			exit("IP address string too long\n");
 		} else {
-			echo "dtcResponse=0;";
+			$IPs = explode(" ", $IPs_str);
+			foreach($IPs as $IP){
+				echo "dtcResponse=0;";
+			}
 		}
 
 	}
