@@ -59,7 +59,7 @@
 				
 				<li>
 					<span class="project_name"> Website Template </span>
-					<span class="project_description"> Source code of this <span style="color: DarkMagenta;">Ugly</span> website :) </span>
+					<span class="project_description"> Source code of my <span style="color: DarkMagenta;">Ugly</span> website :) </span>
 					<a href="https://github.com/dtczhl/Personal-website.git" target="_blank" ref="author" class="github"></a>
 				</li>
 				
