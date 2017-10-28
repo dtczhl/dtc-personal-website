@@ -52,7 +52,7 @@
 					<td>  </td>
 				</tr>
 				<tr class="university_row">
-					<td> </td>
+					<td class="duration"> (3 yr) </td>
 					<td colspan="3"> University of Electronic Science &amp; Technology of China </td>
 				</tr> 
 				<tr class="supervisor_row">
@@ -66,7 +66,7 @@
 					<td>  </td>
 				</tr>
 				<tr class="university_row">
-					<td> </td>
+					<td class="duration"> (4 yr) </td>
 					<td colspan="3"> Hangzhou Dianzi University, China </td>
 				</tr> 
 				<tr class="supervisor_row">
@@ -86,11 +86,11 @@
 					<td>  </td>
 				</tr>
 				<tr class="company_row">
-					<td> (Research Assistant)</td>
+					<td class="supplement"> (Research Assistant)</td>
 					<td colspan="3"> Nanyang Technological University, Singapore </td>
 				</tr> 
 				<tr class="supervisor_row">
-					<td></td>
+					<td class="duration"> (2 yr) </td>
 					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Prof.</i> <span class="supervisor_name"> Mo Li </span> </span> </td>
 				</tr> <!-- end of NTU -->
 			</table>
@@ -106,7 +106,7 @@
 					<td>  </td>
 				</tr>
 				<tr class="company_row">
-					<td> </td>
+					<td class="duration"> (2 mo) </td>
 					<td colspan="3"> Simula Research Laboratory, Norway </td>
 				</tr> 
 				<tr class="supervisor_row">
