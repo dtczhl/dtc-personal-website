@@ -46,6 +46,10 @@ section{
 	text-align: center;
 }
 
+.work_table .duration{
+	font-size: 105%;
+}
+
 /* supplement for research assistant */
 .supplement{
 	font-style: normal;
