@@ -15,11 +15,13 @@
 		} else {
 			$IPs = explode(" ", $IPs_str);
 			foreach($IPs as $IP){
-				echo "dtcResponse=0;";
+				# upload to website
 			}
+			echo "dtcResponse=0;";
+			exit;
 		}
 
 	}
-	print_r($data);
-	
+	# print_r($data);
+	# echo "OK!!!";
 ?>
