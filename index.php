@@ -40,6 +40,10 @@
 				<tr class="university_row">
 					<td> </td>
 					<td colspan="3"> University of California, Davis, USA </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Prof.</i> <span class="supervisor_name"> Prasant Mohapatra </span> </span> </td>
 				</tr> <!-- end of PhD -->
 				<tr class="degree_row"> <!-- Master -->
 					<td> M.S., </td>
@@ -50,6 +54,10 @@
 				<tr class="university_row">
 					<td> </td>
 					<td colspan="3"> University of Electronic Science &amp; Technology of China </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Prof.</i> <span class="supervisor_name"> Keping Long </span>, <i>Prof.</i> <span class="supervisor_name"> Jian Liu </span> </span> </td>
 				</tr> <!-- end of Master -->
 				<tr class="degree_row"> <!-- BS -->
 					<td> B.S., </td>
@@ -60,6 +68,10 @@
 				<tr class="university_row">
 					<td> </td>
 					<td colspan="3"> Hangzhou Dianzi University, China </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Prof.</i> <span class="supervisor_name"> Na Ying </span> </span> </td>
 				</tr> <!-- end of BS -->
 			</table>
 		</section>
@@ -76,6 +88,10 @@
 				<tr class="company_row">
 					<td> (Research Assistant)</td>
 					<td colspan="3"> Nanyang Technological University, Singapore </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Prof.</i> <span class="supervisor_name"> Mo Li </span> </span> </td>
 				</tr> <!-- end of NTU -->
 			</table>
 		</section>
@@ -92,8 +108,17 @@
 				<tr class="company_row">
 					<td> </td>
 					<td colspan="3"> Simula Research Laboratory, Norway </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> <i>Dr.</i> <span class="supervisor_name"> Ahmed Elmokashfi </span> </span> </td>
 				</tr> <!-- end of simula -->
 			</table>
+		</section>
+		
+		<section>
+			<h1 class="teaching_title header_title"> Teaching Assistant </h1>
+			<p class="teaching_block bar_top"> ECS 60: Data Structure and Programming. 2017 Fall Quarter at UC Davis
 		</section>
 		
 		<section>

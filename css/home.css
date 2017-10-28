@@ -8,7 +8,7 @@ section{
 }
 
 
-.education_title, .work_title, .intern_title, .research_title, .contact_title{ /* category title */
+.education_title, .work_title, .intern_title, .research_title, .teaching_title, .contact_title{ /* category title */
 	
 }
 
@@ -23,14 +23,23 @@ section{
 /* table based education, work experience, internship only*/
 .university_row, .company_row{
 	margin-left: 15px;
-	height: 30px;
 	font-style: italic;
 	vertical-align: top;
+	color: LightBlue;
+}
+
+/* supervisor row */
+.supervisor_row{
 	color: DarkGray;
+	font-size: 95%;
+}
+
+.supervisor_name{
+	font-size:120%;
 }
 
 /* <p> based research topics only */
-.research_block{
+.research_block, .teaching_block{
 	display: inline-block;
 	margin-top: -15px;
 	padding-top: 15px;
