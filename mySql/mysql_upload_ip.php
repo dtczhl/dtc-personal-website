@@ -28,17 +28,23 @@ function mysql_upload_ip($ip, $msg) {
 	$timeNow = date('Y-m-d H:i:s');
 
 	$ip = $ip . " "; // add a space after each ip	
-	$query = "INSERT INTO ip_table (ip, message, timestamp) " . 
-			"VALUES ('$ip', '$msg', '$timeNow')";
+//	$query = "INSERT INTO ip_table (ip, message, timestamp) " . 
+//			"VALUES ('$ip', '$msg', '$timeNow')";
+
+	$stmt = $mySqli->prepare("INSERT INTO ip_table (ip, message, timestamp) VALUES(?, ?, ?)");
+	$stmt->bind_param('sss', $ip, $msg, $timeNow);
 	
-	if (mysqli_query($mySqli, $query)){
+	
+	//	if (mysqli_query($mySqli, $query)){
+	if ($stmt->execute()){
 		$ret = $ret . "Records inserted successfully.\n";
 	} else {
 		 exit("ERROR: Could not be ableto execute $query. " . 
 					mysqli_error($mySqli));
 	}
-	
-	mysqli_close($mySqli);
+
+	$stmt->close();
+	$mySqli->close();
 
 	return "OK";
 }

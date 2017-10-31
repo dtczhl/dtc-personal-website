@@ -20,7 +20,7 @@
 	require_once('../mySql/_account.php');
 
 	require_once('../mySql/mysql_upload_ip.php');
-	
+
 	if (array_key_exists('your_IPs', $data) and
 			array_key_exists('your_message', $data) ){
 		$IPs_str = $data['your_IPs'];
