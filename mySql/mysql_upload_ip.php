@@ -14,6 +14,7 @@ function mysql_upload_ip($ip, $msg) {
 	global $password;
 
 	$dbName = "dtczhl_interface";
+	$tableName = "ip_table";
 
 	$ret = "";
 
@@ -27,15 +28,16 @@ function mysql_upload_ip($ip, $msg) {
 	
 	$timeNow = date('Y-m-d H:i:s');
 
-	$ip = $ip . " "; // add a space after each ip	
-//	$query = "INSERT INTO ip_table (ip, message, timestamp) " . 
-//			"VALUES ('$ip', '$msg', '$timeNow')";
+	// $ip = $ip . " "; // add a space after each ip	
 
-	$stmt = $mySqli->prepare("INSERT INTO ip_table (ip, message, timestamp) VALUES(?, ?, ?)");
+	$stmt = $mySqli->prepare("DELETE FROM " . $tableName . " WHERE message=?");
+	$stmt->bind_param('s', $msg);
+	$stmt->execute();
+//	$stmt->close();
+
+	$stmt = $mySqli->prepare("INSERT INTO " . $tableName . " (ip, message, timestamp) VALUES(?, ?, ?)");
 	$stmt->bind_param('sss', $ip, $msg, $timeNow);
 	
-	
-	//	if (mysqli_query($mySqli, $query)){
 	if ($stmt->execute()){
 		$ret = $ret . "Records inserted successfully.\n";
 	} else {

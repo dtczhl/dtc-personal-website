@@ -27,28 +27,27 @@
 		$message = $data['your_message'];
 	
 		if (strlen($IPs_str) > $ip_str_max_len){
-			# 10 IP address should be enough 
+			// 10 IP address should be enough 
 			echo "dtcResponse=1;";
 			exit("IP address string too long\n");
 		}
 
 		if (strlen($message) > $message_max_len){
-			# message too long
+			// message too long
 			echo "dtcResponse=3;";
 			exit("Message string too long\n");
 		}
 
-		$IPs = explode(" ", $IPs_str);
-		foreach($IPs as $IP){
-			# upload to website
-			if (mysql_upload_ip($IP, $message) != 'OK'){
-				echo "dtcResponse=2;";
-				exit("mysql upload ip error\n");
-			}
+		// upload to website
+		if (mysql_upload_ip($IPs_str, $message) != 'OK'){
+			echo "dtcResponse=2;";
+			exit("mysql upload ip error\n");
 		}
+
+
 		echo "dtcResponse=0;";
 		exit("Done!\n");
 	}
-	# print_r($data);
-	# echo "OK!!!";
+	// print_r($data);
+	// echo "OK!!!";
 ?>

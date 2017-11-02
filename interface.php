@@ -6,7 +6,7 @@
 		
 		<meta charset="UTF-8">
 		<meta name="description" content="Homepage">
-		<meta name="keywords" content="Huanle Zhang, Biography, Homepage">
+		<meta name="keywords" content="Huanle Zhang, IP, interface">
 		<meta name="author" content="Huanle Zhang">
 		<meta http-equiv="refresh" content="60"> <!-- refresh every 60s -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
