@@ -1,0 +1,43 @@
+#nav_interface{
+	font-size: 105%;
+	font-style: italic;
+}
+
+/* group information */
+.ip_div {
+	display: inline-block;
+}
+
+/* description words */
+.ip_description {
+	font-size: 105%;
+	color: LightGray;
+}
+
+/* ip table */
+.ip_table {
+	border: 2px solid white;
+	display: inline-block;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+
+.ip_table th {
+	border-left: 1px solid white;
+}
+
+.ip_header_row th:first-child {
+	border-left: none;
+}
+
+.ip_table td {
+	border-left: 1px solid white;
+	border-top: 1px solid white;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.ip_row td:first-child{
+	border-left: none;
+}
