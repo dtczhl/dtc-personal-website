@@ -66,6 +66,16 @@
 			</ul>
 		</section>
 		
+		<section>
+			<h1 class="android_title header_title"> Tools </h1>
+			<ul class="android_list bar_top">
+				<li>
+					<span class="project_name"> IP Uploader </span>
+					<span class="project_description"> Upload and show your IPs on this website </span>
+					<a href="https://github.com/dtczhl/dtc-show-ip.git" target="_blank" ref="author" class="github"></a>
+				</li>
+		</section>
+		
 		<!-- Use icons from Internet. Below are the credits. -->
 		<div class="hide_credit">
 		</div>
