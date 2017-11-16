@@ -58,7 +58,7 @@
 				die("Connection failed: " . $mySqli->connect_error);
 			}
 			
-			$result = $mySqli->query('SELECT * FROM ' . $tableName);
+			$result = $mySqli->query('SELECT * FROM ' . $tableName . ' ORDER BY message');
 			if ($result->num_rows > 0){
 				while ($row = $result->fetch_assoc()){
 					echo '				';	
