@@ -117,6 +117,12 @@
 		<section>
 			<h1 class="journal_title header_title"> Journal Papers </h1>
 			<ol class="journal_list bar_top">
+			
+				<li> <span class="publisher_abbr">TMC</span> 
+					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
+				     <span class="paper_title"> An Acoustic-based Encounter Profiling System </span> 
+					 <span class="publisher"> IEEE Transactions on Mobile Computing </span> 
+				</li>
 				
 				<li> <span class="publisher_abbr">TON'17</span> 
 					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
