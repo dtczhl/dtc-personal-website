@@ -118,10 +118,14 @@
 			<h1 class="journal_title header_title"> Journal Papers </h1>
 			<ol class="journal_list bar_top">
 			
-				<li> <span class="publisher_abbr">TMC</span> 
+				<li> <span class="publisher_abbr">TMC'17</span> 
 					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
 				     <span class="paper_title"> An Acoustic-based Encounter Profiling System </span> 
 					 <span class="publisher"> IEEE Transactions on Mobile Computing </span> 
+					 <span class="date"> 2017 </span>
+					 <div class="download">
+						<a href="publication/journal/dopenc_tmc_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
 				</li>
 				
 				<li> <span class="publisher_abbr">TON'17</span> 
