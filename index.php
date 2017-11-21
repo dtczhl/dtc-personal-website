@@ -130,7 +130,7 @@
 			<h1 class="contact_title header_title"> Contact Me </h1>
 			<ul class="contact_list bar_top">
 				<li> <span class="contact_label"> Email: </span> huanle.zhang.cn AT ieee DOT org </li>
-				<li> <span class="contact_label"> Address: </span> 2106 Watershed Sciences, Davis, USA </li>
+				<li> <span class="contact_label"> Address: </span> 2106 Watershed Sciences, Davis, CA, USA </li>
 			</ul>
 		</section>
 	
