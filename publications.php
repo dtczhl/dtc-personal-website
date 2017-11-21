@@ -121,7 +121,8 @@
 				<li> <span class="publisher_abbr">TMC'17</span> 
 					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
 				     <span class="paper_title"> An Acoustic-based Encounter Profiling System </span> 
-					 <span class="publisher"> IEEE Transactions on Mobile Computing </span> 
+					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					 <span class="doi"> 10.1109/TMC.2017.2776915 </span>
 					 <span class="date"> 2017 </span>
 					 <div class="download">
 						<a href="publication/journal/dopenc_tmc_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
