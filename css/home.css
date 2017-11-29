@@ -62,7 +62,7 @@ section{
 }
 
 .supervisor_name a{
-	text-decoration: none;
+	text-decoration: none!important;
 	color: #b3602a; /* dark orange */
 }
 
