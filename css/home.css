@@ -55,8 +55,14 @@ section{
 	font-style: normal;
 }
 
+/* supervisor name */
 .supervisor_name{
 	font-size:120%;
+	color: #b3602a; /* dark orange */
+}
+
+.supervisor_name a{
+	text-decoration: none;
 	color: #b3602a; /* dark orange */
 }
 
