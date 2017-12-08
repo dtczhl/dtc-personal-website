@@ -90,6 +90,11 @@ section{
 	height: 30px;
 }
 
+.contact_list li a{
+	text-decoration: none!important;
+	color: DarkCyan;
+}
+
 .contact_label{ /* label for contact list */
 	color: DarkKhaki;
 }
