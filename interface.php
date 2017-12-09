@@ -32,7 +32,7 @@
 			
 			<!-- display -->
 			<h1 class="header_title"> Show IP Address </h1>
-			<p class="ip_description"> Good for embedded devices without monitors. Display the IP addresses of your devices at this website. Download shell script at my <a href="https://github.com/dtczhl/dtc-show-ip" target="_balnk">Github</a> </p> 
+			<p class="ip_description"> Good for embedded devices without monitors. Display IP addresses of your devices on this website. Download the shell script at my <a href="https://github.com/dtczhl/dtc-show-ip" target="_balnk">Github</a> </p> 
 			<table class="ip_table">
 				<tr class="ip_header_row">
 					<th class="ip_header"> Description </th>
