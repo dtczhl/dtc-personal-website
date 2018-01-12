@@ -20,13 +20,14 @@
 		<link rel="stylesheet" href="css/footer.css" />
 		
 		<link rel="stylesheet" href="css/interface.css" />
+		<link rel="stylesheet" href="css/donation.css" />
 		
 	</head>
 	
 	<body>
 		
 		<?php include 'header.php'; ?>
-
+		<?php include 'donation.php'; ?>
 		
 		<section id="content_start">
 			

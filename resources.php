@@ -18,6 +18,7 @@
 		<link rel="stylesheet" href="css/footer.css" />
 		
 		<link rel="stylesheet" href="css/resources.css" />
+		<link rel="stylesheet" href="css/donation.css" />
 		
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script> 
@@ -27,6 +28,7 @@
 	<body>
 		
 		<?php include 'header.php'; ?>
+		<?php include 'donation.php'; ?>
 		
 		<section id="content_start">
 			<h1 class="android_title header_title"> Android </h1>

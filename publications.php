@@ -18,6 +18,7 @@
 		<link rel="stylesheet" href="css/footer.css" />
 		
 		<link rel="stylesheet" href="css/publications.css" />
+		<link rel="stylesheet" href="css/donation.css" />
 		
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script> 
@@ -27,6 +28,7 @@
 	<body>
 		
 		<?php include 'header.php'; ?>
+		<?php include 'donation.php'; ?>
 		
 <div class="main_wrapper">
 		
