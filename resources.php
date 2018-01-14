@@ -30,6 +30,8 @@
 		<?php include 'header.php'; ?>
 		<?php include 'donation.php'; ?>
 		
+		<!-- class names are confusing. E.g, android_***. Need fix someday -->
+		
 		<section id="content_start">
 			<h1 class="android_title header_title"> Android </h1>
 			<ul class="android_list bar_top">
@@ -67,6 +69,16 @@
 				
 			</ul>
 		</section>
+		
+		<section>
+			<h1 class="android_title header_title"> Systems </h1>
+			<ul class="android_list bar_top">
+				<li>
+					<span class="project_name"> Bare Metal OS </span>
+					<span class="project_description"> Useful for strict time-control research projects (adapted from ECS 251) </span>
+					<a href="https://github.com/dtczhl/raspberry-bare-metal" target="_blank" ref="author" class="github"></a>
+				</li>
+		</section>	
 		
 		<section>
 			<h1 class="android_title header_title"> Tools </h1>
