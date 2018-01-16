@@ -4,7 +4,7 @@ echo "\r\n";
 echo <<<EOL
 
 <div class="donation">
-	<p class="donation_description"> (: For Fun :) </p>
+	<p class="donation_description"> &#9925; For Fun &#9749; </p>
 	<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank _top">
 		<input type="hidden" name="cmd" value="_s-xclick">
 		<input type="hidden" name="hosted_button_id" value="ZB5P5CKASJ2JL">
