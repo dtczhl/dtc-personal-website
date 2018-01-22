@@ -141,9 +141,16 @@
 				<li> <span class="contact_label"> LinkedIn: </span> <a href="https://www.linkedin.com/in/huanle-zhang-24b745a6/" rel ="external" target="_blank"> https://www.linkedin.com/in/huanle-zhang-24b745a6/ </a> </li>
 				<li> <span class="contact_label"> Google Scholar: </span> <a href="https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en" rel="external" target="_blank"> https://scholar.google.com/citations?user=Xm4NYnsAAAAJ </a> </li>
 				<li> <span class="contact_label"> Address: </span> 2106 Watershed Sciences, Davis, CA, USA </li>
+				<li> <a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img src="./image/icon/cv.png" width="60"/> </a> </li>
 			</ul>
+			
 		</section>
-	
+		
+		
+		<!-- Use icons from Internet. Below are the credits. -->
+		<div class="hide_credit">
+			<div>Icons made by <a href="http://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+		</div>
 	
 		<?php include 'footer.php'; ?>
 		
