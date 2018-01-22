@@ -2,3 +2,4 @@
 
 # do not upload '_' leading files in mySql folder
 mySql/_*
+.DS_Store
