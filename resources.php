@@ -8,7 +8,7 @@
 		<meta name="description" content="Resources">
 		<meta name="keywords" content="Huanle Zhang, Resources">
 		<meta name="author" content="Huanle Zhang">
-		<meta http-equiv="refresh" content="60"> <!-- refresh every 60s -->
+		<meta http-equiv="refresh" content="600"> <!-- refresh every 10 min -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
@@ -60,6 +60,12 @@
 		<section>
 			<h1 class="android_title header_title"> Website </h1>
 			<ul class="android_list bar_top">
+				
+				<li>
+					<span class="project_name"> Google Citation </span>
+					<span class="project_description"> Add Google citation count information to your web page </span>
+					<a href="https://github.com/dtczhl/google-citation-helper" target="_blank" ref="author" class="github"></a>
+				</li>
 				
 				<li>
 					<span class="project_name"> Website Template </span>
