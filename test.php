@@ -8,13 +8,12 @@
 		<meta name="description" content="Homepage">
 		<meta name="keywords" content="Huanle Zhang, Biography, Homepage">
 		<meta name="author" content="Huanle Zhang">
-		<meta http-equiv="refresh" content="60"> <!-- refresh every 60s -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
 		
 		<script src="js/jquery-3.2.1.js"></script>
-		<script src="js/include_html.js"></script>
+		<!-- <script src="js/include_html.js"></script> -->
 		
 		<link rel="stylesheet" href="css/theme.css" />
 		<link rel="stylesheet" href="css/header.css" />
@@ -26,13 +25,13 @@
 	
 	<body>
 		
-		<?php include 'header.php'; ?>
+	
 
+		<script src="google-citation-helper/dtcGoogleCitationHelper.js"></script>
 		
-		<span color="white">abc</span>
-	
-	
-		<?php include 'footer.php'; ?>
+		<script>
+			dtcGoogleCitationCount('https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en');
+		</script>
 		
 	</body>
 
