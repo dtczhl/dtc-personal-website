@@ -5,7 +5,7 @@
 
 section{
 	font-size: 105%;
-	max-width: 1000px;
+	max-width: 1400px;
 }
 
 .conference_list, .journal_list{
@@ -15,6 +15,14 @@ section{
 	padding-top: 15px;
 	padding-right: 15px;
 	list-style-type: none;
+}
+
+.conference_list{
+	width: 1000px;
+}
+
+.journal_list{
+	width: 900px;
 }
 
 .review_list, .member_list{
@@ -145,4 +153,31 @@ section{
 
 .review_name::after, .member_name::after{
 	content: ": ";
+}
+
+/* dtcGoogleCitation */
+.citation{
+	float: right;
+	text-align: center;
+	border-style: solid;
+	border-width: 1px;
+	border-color: LightGray;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin-top:10px;
+	color: Grey;
+}
+
+.citation>p{
+	font-size: 90%;
+	margin-top: 8px;
+	margin-bottom: 0px;
+}
+
+.citation_count{
+	text-align: center;
+	font-size: 20px;
+	color: LightGray;
+	padding-bottom: 0px;
 }
