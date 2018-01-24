@@ -31,6 +31,13 @@
 		<?php include 'header.php'; ?>
 		<?php include 'donation.php'; ?>
 		
+		<div class="note">
+			<p> Citation count from Google Scholar. Click 
+				<a href="https://github.com/dtczhl/google-citation-helper" target="_blank"> <span> HERE </span> </a> 
+				to get my code of extracting and showing citation info </p>
+			<p> <b> *undefined </b> means Google Scholar haven't included that paper yet  </p>
+		</div>
+		
 <div class="main_wrapper">
 		
 		<section id="content_start">

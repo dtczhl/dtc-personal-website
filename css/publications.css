@@ -181,3 +181,20 @@ section{
 	color: LightGray;
 	padding-bottom: 0px;
 }
+
+/* note about citation */
+.note{
+	position: fixed;
+	right: 20px;
+	top: 300px;
+	width: 160px;
+	color: RosyBrown;
+}
+
+.note a{
+	text-decoration: none;
+}
+
+.note a span{
+	color: blue;
+}
