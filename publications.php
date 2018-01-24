@@ -35,7 +35,7 @@
 			<p> Citation count from Google Scholar. Click 
 				<a href="https://github.com/dtczhl/google-citation-helper" target="_blank"> <span> HERE </span> </a> 
 				to get my code of extracting and showing citation info </p>
-			<p> <b> *undefined </b> means Google Scholar haven't included that paper yet  </p>
+			<p> <b> *undefined </b> means Google Scholar hasn't included that paper yet  </p>
 		</div>
 		
 <div class="main_wrapper">
