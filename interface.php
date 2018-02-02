@@ -65,9 +65,9 @@
 					echo '				';	
 					echo '<tr class="ip_row">' . "\r\n";
 					echo '				  ';
-					echo '	<td class="ip_message"> ' . $row['message'] . ' </td>' . "\r\n";
+					echo '	<td class="ip_message"> ' . htmlentities($row['message']) . ' </td>' . "\r\n";
 					echo '				  ';
-					echo '	<td class="ip_ip"> ' . str_replace(" ", ";&nbsp &nbsp", $row['ip']) . ' </td>' . "\r\n";
+					echo '	<td class="ip_ip"> ' . str_replace(" ", ";&nbsp &nbsp", htmlentities($row['ip'])) . ' </td>' . "\r\n";
 					echo '				  ';
 					echo '	<td class="ip_timestamp"> ' . $row['timestamp'] . ' </td>' . "\r\n";
 					echo '				';
