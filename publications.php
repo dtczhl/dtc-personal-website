@@ -45,7 +45,7 @@
 			<ol class="conference_list bar_top">
 			
 				<li> <span class="publisher_abbr">MobiCom'16</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li, and Prasant Mohapatra</span> 
 				     <span class="paper_title dtcGooglePaperTitle"> DopEnc: Acoustic-based Encounter Profiling Using Smartphones</span> 
 					 <span class="publisher"> ACM Conference on Mobile Computing and Networking </span> 
@@ -60,7 +60,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">SenSys'15</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks</span> 
 					 <span class="publisher"> ACM Conference on Embedded Networked Sensor Systems </span> 
@@ -74,7 +74,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">Globecom'13</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yupeng Jia, and Yulu Ma </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Femtocell Coverage Fraction and Isolated Probability using Stochastic Geometry</span> 
 					 <span class="publisher"> IEEE Global Communications Conference </span> 
@@ -88,7 +88,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">CCT'13</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Yu Fu, and Jian Liu </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> Optimal Transmission Distance of Mean Progress and Mean Transport in Device-to-device Networks</span> 
 					 <span class="publisher"> International Conference on Cyberspace Technology </span> 
@@ -101,7 +101,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">MINES'13</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, and Niangeng Guo </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> A Tractable Framework for Power Consumption in Femtocell Networks</span> 
 					 <span class="publisher"> International Conference on Multimedia Information Networking and Security </span> 
@@ -114,7 +114,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">SEIS'13</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, and Jian Liu </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> Policy on Downlink Access of Femtocell Based on OFDMA in Dense Employment Residential Environment </span> 
 					 <span class="publisher"> International Conference on Software Engineering and Information System </span> 
@@ -135,7 +135,7 @@
 			<ol class="journal_list bar_top">
 			
 				<li> <span class="publisher_abbr">TMC'17</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span> 
 					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
@@ -147,7 +147,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">TON'17</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference </span> 
 					 <span class="publisher"> IEEE/ACM Transactions on Networking </span> 
@@ -161,7 +161,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">IJCS'14</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, and Haili Shi </span> 
 				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span> 
 					 <span class="publisher"> International Journal of Communication Systems </span> 
@@ -173,7 +173,7 @@
 				</li>
 				
 				<li> <span class="publisher_abbr">AISS'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCicationCount"> 0 </span> </div>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yu Fu, and Niangeng Guo </span>
 				     <span class="paper_title dtcGooglePaperTitle"> OFDMA Femtocell Gateway Scheduling based on Coloring </span> 
 					 <span class="publisher"> Advances in Information Sciences and Service Sciences </span> 
