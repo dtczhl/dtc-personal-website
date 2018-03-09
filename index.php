@@ -14,6 +14,7 @@
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
 		
 		<script src="js/jquery-3.2.1.js"></script>
+		<script src="js/showCourseEvaluationComments.js"></script>
 		
 		<link rel="stylesheet" href="css/theme.css" />
 		<link rel="stylesheet" href="css/header.css" />
@@ -125,7 +126,10 @@
 		
 		<section>
 			<h1 class="teaching_title header_title"> Teaching Assistant </h1>
-			<p class="teaching_block bar_top"> ECS 60: Data Structure and Programming. 2017 Fall Quarter at UC Davis
+			<div class="ta_div">
+				<p class="teaching_block bar_top"> <span class="tag_highlight"> ECS 60:</span> <span class="course_name">Data Structure and Programming.</span> 2017 Fall Quarter at UC Davis </p>
+				<button type="button" class="course_evaluation" onclick="showECS60EvaluationComments()"> Student Evaluation Comments </button>
+			</div>
 		</section>
 		
 		<section>

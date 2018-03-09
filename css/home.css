@@ -99,9 +99,44 @@ section{
 	color: DarkKhaki;
 }
 
+.tag_highlight{ /* ECS etc */
+	color: DarkKhaki;
+}
+
+.course_evaluation{
+	display:block;
+	font-size: 90%;
+	margin-left: 150px;
+	margin-top: -10px;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.course_name{
+	color: LightBlue;
+}
+
 /* let first element hightlight */
 table tr td:first-of-type{
 	color: DarkKhaki;
 }
 
 
+/* course evaluation comments */
+.window_course_evaluation_div{
+	color: black;
+	padding: 20px;
+	overflow-y: scroll;
+    overflow-x: hidden;
+	background-color: white;
+	font-size: 120%;
+}
+.window_course_evaluation_div li{
+	margin-top: 10px;
+}
+.window_course_evaluation_div button{
+	display: block;
+	margin: 0 auto;
+	font-size: 150%;
+	color: red;
+}
