@@ -104,12 +104,15 @@ section{
 }
 
 .course_evaluation{
+	border-radius: 10px;
 	display:block;
 	font-size: 90%;
 	margin-left: 150px;
 	margin-top: -10px;
 	padding-top: 1px;
 	padding-bottom: 1px;
+	background-color: LightGray;
+	cursor: pointer;
 }
 
 .course_name{
@@ -128,7 +131,7 @@ table tr td:first-of-type{
 	padding: 20px;
 	overflow-y: scroll;
     overflow-x: hidden;
-	background-color: white;
+	background-color: LightGray;
 	font-size: 120%;
 }
 .window_course_evaluation_div li{
@@ -139,4 +142,5 @@ table tr td:first-of-type{
 	margin: 0 auto;
 	font-size: 150%;
 	color: red;
+	cursor: pointer;
 }
