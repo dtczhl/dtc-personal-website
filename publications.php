@@ -34,7 +34,7 @@
 		<div class="note">
 			<p> Citation count from Google Scholar. Click 
 				<a href="https://github.com/dtczhl/google-citation-helper" target="_blank"> <span> HERE </span> </a> 
-				to get my code of extracting and showing citation info </p>
+				to get my code of extracting and showing real-time citation information </p>
 			<p> <b> *undefined </b> means Google Scholar hasn't included that paper </p>
 		</div>
 		
