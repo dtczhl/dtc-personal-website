@@ -8,7 +8,6 @@
 		<meta name="description" content="Homepage">
 		<meta name="keywords" content="Huanle Zhang, Biography, Homepage">
 		<meta name="author" content="Huanle Zhang">
-		<meta http-equiv="refresh" content="600"> <!-- refresh every 10 min -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
@@ -106,6 +105,22 @@
 		<section>
 			<h1 class="intern_title header_title"> Internship </h1>
 			<table class="intern_table bar_top">
+				<tr class="intern_row"> <!-- msra -->
+					<td> Spring Intern, </td>
+					<td> 2018.03 - 2018.06, </td>
+					<td> Intelligent Cloud and Edge </td>
+					<td> </td>
+				</tr>
+				<tr class="company_row">
+					<td class="duration"> (12 wk) </td>
+					<td colspan="3"> Microsoft Research Asia, China </td>
+				</tr> 
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor"> 
+						<i>Dr.</i> <span class="supervisor_name"> <a href="https://www.microsoft.com/en-us/research/people/yunliu" rel="external" target="_blank"> Yunxin Liu </a></span> </span> </td>
+				</tr> <!-- end of simula -->
+
 				<tr class="intern_row"> <!-- simula -->
 					<td> Summer Intern, </td>
 					<td> 2017.07 - 2017.09, </td>

@@ -59,7 +59,7 @@ function showECS60EvaluationComments(){
     var height = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight ? document.documentElement.clientHeight : screen.height;
 
     var left = ((width / 2) - (w / 2)) + dualScreenLeft;
-    var top = ((height / 2) - (h / 2)) + dualScreenTop;
+    var top = ((height *2 / 3) - (h / 2)) + dualScreenTop;
 	
 	var newMainDiv = document.createElement('div');
 	newMainDiv.id = "window_ecs60_ucdavis";
