@@ -60,7 +60,6 @@
 				<tr class="supervisor_row">
 					<td></td>
 					<td colspan="3"> Supervisor: <span class="supervisor"> 
-						<i>Prof.</i> <span class="supervisor_name"> <a href="http://scce.ustb.edu.cn/article.action?categoryId=29&boardaId=104&facultyId=505" rel="external" target="_blank"> Keping Long </a> </span>, 
 						<i>Prof.</i> <span class="supervisor_name"> <a href="http://scce.ustb.edu.cn/article.action?categoryId=29&boardaId=104&facultyId=544" rel="external" target="_blank"> Jian Liu </a></span> </span> </td>
 				</tr> <!-- end of Master -->
 				<tr class="degree_row"> <!-- BS -->
