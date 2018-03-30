@@ -39,19 +39,19 @@
 				<li>
 					<span class="project_name"> Frequency Player </span>
 					<span class="project_description"> Emitting sounds with specified frequencies </span>
-					<a href="https://github.com/dtczhl/frequency-player.git" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-frequency-player.git" target="_blank" ref="author" class="github"></a>
 				</li>
 				
 				<li>
 					<span class="project_name"> Doppler Illustrator </span>
 					<span class="project_description"> Illustrating Doppler effect using sounds </span>
-					<a href="https://github.com/dtczhl/doppler-illustrator.git" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-doppler-illustrator.git" target="_blank" ref="author" class="github"></a>
 				</li>
 				
 				<li>
 					<span class="project_name"> Acoustic Spectrumer </span>
 					<span class="project_description"> Showing spectrum of ambient sounds </span>
-					<a href="https://github.com/dtczhl/acoustic-spectrumer.git" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-acoustic-spectrumer.git" target="_blank" ref="author" class="github"></a>
 				</li>
 				
 			</ul>
@@ -64,13 +64,13 @@
 				<li>
 					<span class="project_name"> Google Citation </span>
 					<span class="project_description"> Add Google citation count information to your web page </span>
-					<a href="https://github.com/dtczhl/google-citation-helper" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank" ref="author" class="github"></a>
 				</li>
 				
 				<li>
 					<span class="project_name"> Website Template </span>
 					<span class="project_description"> Source code of my <span style="color: DarkMagenta;">Ugly</span> website :) </span>
-					<a href="https://github.com/dtczhl/Personal-website.git" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-personal-website.git" target="_blank" ref="author" class="github"></a>
 				</li>
 				
 			</ul>
@@ -82,7 +82,7 @@
 				<li>
 					<span class="project_name"> Bare Metal OS </span>
 					<span class="project_description"> Useful for strict time-control research projects (adapted from ECS 251) </span>
-					<a href="https://github.com/dtczhl/raspberry-bare-metal" target="_blank" ref="author" class="github"></a>
+					<a href="https://github.com/dtczhl/dtc-raspberry-bare-metal" target="_blank" ref="author" class="github"></a>
 				</li>
 		</section>	
 		
