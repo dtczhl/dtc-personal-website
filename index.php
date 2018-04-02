@@ -65,7 +65,7 @@
 				<tr class="degree_row"> <!-- BS -->
 					<td> B.S., </td>
 					<td> 2007.09 - 2011.06, </td>
-					<td> Communication Engineering, </td>
+					<td> Communication Engineering </td>
 					<td>  </td>
 				</tr>
 				<tr class="university_row">
