@@ -35,7 +35,7 @@
 				<tr class="degree_row"> <!-- PhD -->
 					<td> Ph.D., </td>
 					<td> 2016.09 - Now, </td>
-					<td> Computer &amp; Information Science </td>
+					<td> Computer &amp; Information Sciences </td>
 					<td>  </td>
 				</tr>
 				<tr class="university_row">
