@@ -104,6 +104,23 @@
 		<section>
 			<h1 class="intern_title header_title"> Internship </h1>
 			<table class="intern_table bar_top">
+				<tr class="intern_row"> <!-- bell -->
+					<td> Summer Intern, </td>
+					<td> 2018.06 - 20.18.08, </td>
+					<td> Internet of Things </td>
+					<td> </td>
+				</tr>
+				<tr class="company_row">
+					<td class="duration"> (10 wk) </td>
+					<td colspan="3"> Nokia Bell Laboratory, USA </td>
+				</tr>
+				<tr class="supervisor_row">
+					<td></td>
+					<td colspan="3"> Supervisor: <span class="supervisor">
+						<i>Dr.</i> <span class="supervisor_name"> <a href="https://www.bell-labs.com/usr/sarit.mukherjee" rel="external" target="_blank"> Sarit Mukherjee </a></span>,&nbsp;&nbsp;  
+						<i>Dr.</i> <span class="supervisor_name"> <a href="https://www.bell-labs.com/usr/fang.hao" rel="external" target="_blank"> Fang Hao </a></span> 
+					</span> </td>
+				</tr>
 				<tr class="intern_row"> <!-- msra -->
 					<td> Spring Intern, </td>
 					<td> 2018.03 - 2018.06, </td>
