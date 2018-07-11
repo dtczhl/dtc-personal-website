@@ -37,6 +37,12 @@
 			<ul class="android_list bar_top">
 				
 				<li>
+					<span class="project_name"> BLE Learning </span>
+					<span class="project_description"> Beginner codes for BLE applications </span>
+					<a href="https://github.com/dtczhl/dtc-ble-scanner" target="_blank" rel="author" class="github"> </a>
+				</li>
+
+				<li>
 					<span class="project_name"> Frequency Player </span>
 					<span class="project_description"> Emitting sounds with specified frequencies </span>
 					<a href="https://github.com/dtczhl/dtc-frequency-player.git" target="_blank" ref="author" class="github"></a>
@@ -79,6 +85,13 @@
 		<section>
 			<h1 class="android_title header_title"> Systems </h1>
 			<ul class="android_list bar_top">
+
+				<li>
+					<span class="project_name"> VR WiFi Support </span>
+					<span class="project_description"> Goal: High throughput, low latency WiFi system for VR applications </span>
+					<a href="https://github.com/dtczhl/dtc-openwrt" target="_blank" ref="author" class="github"></a>
+				</li>
+
 				<li>
 					<span class="project_name"> Bare Metal OS </span>
 					<span class="project_description"> Useful for strict time-control research projects (adapted from ECS 251) </span>
