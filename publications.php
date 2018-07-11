@@ -1,3 +1,12 @@
+<?php 
+	require "libs/Mobile_Detect.php";
+	$mobileDetect = new Mobile_Detect;
+	if ( $mobileDetect->isMobile() && !$mobileDetect->isTablet() ) {
+		header('Location: mobilePhone.php');
+		exit();
+	}
+?>
+
 <!DOCTYPE html>
 <html>
 
