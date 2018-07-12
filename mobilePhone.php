@@ -12,10 +12,10 @@ echo <<<EOL
 
 	<body>
 		<h1> Oops! </h1>
-		<h1> No idea of how to design mobile-friendly websites </h1>
+		<h1> I don't have time to design mobile-friendly websites </h1>
 
 		<h1> Access denied from mobile phones once and for all </h1>
-		<h1> Please use PCs :( </h1>
+		<h1> Please use Desktops, Laptops or Tablets :( </h1>
 		
 	</body>
 
