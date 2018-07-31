@@ -36,7 +36,7 @@
 	<body>
 		
 		<?php include 'header.php'; ?>
-		<?php include 'donation.php'; ?>
+		<!-- <?php include 'donation.php'; ?> -->
 		
 		<section id="content_start">
 			<h1 class="education_title header_title"> Education </h1>
@@ -121,7 +121,7 @@
 				</tr>
 				<tr class="company_row">
 					<td class="duration"> (10 wk) </td>
-					<td colspan="3"> Nokia Bell Laboratory, USA </td>
+					<td colspan="3"> Bell Laboratory, USA </td>
 				</tr>
 				<tr class="supervisor_row">
 					<td></td>

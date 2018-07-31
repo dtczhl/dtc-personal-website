@@ -17,7 +17,6 @@
 		<meta name="description" content="Resources">
 		<meta name="keywords" content="Huanle Zhang, Resources">
 		<meta name="author" content="Huanle Zhang">
-		<meta http-equiv="refresh" content="600"> <!-- refresh every 10 min -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
@@ -37,7 +36,7 @@
 	<body>
 		
 		<?php include 'header.php'; ?>
-		<?php include 'donation.php'; ?>
+		<!-- <?php include 'donation.php'; ?>  -->
 		
 		<!-- class names are confusing. E.g, android_***. Need fix someday -->
 		
