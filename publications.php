@@ -48,10 +48,82 @@
 		
 <div class="main_wrapper">
 		
+		
 		<section id="content_start">
-			<h1 class="conference_title header_title"> Conference Papers </h1>
-			<ol class="conference_list bar_top">
+			<h1 class="journal_title header_title"> Journal Papers </h1>
+			<ol class="journal_list bar_top">
+
+				<li> <span class="publisher_abbr">TMC</span>
+					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Mo Li, Kaishun Wu and Prasant Mohapatra </span>
+					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights (Accepted) </span>
+					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					<div class="download">
+						<a href="none" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
 			
+				<li> <span class="publisher_abbr">TMC'18</span> 
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
+				     <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span> 
+					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					 <span class="vol_number"> 17 </span>
+					 <span class="issue_number"> 8 </span>
+					 <span class="page_number"> 1750-1763 </span>
+					 <span class="date"> 2018 </span>
+					 <div class="download">
+						<a href="publication/journal/dopenc_tmc_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+				<li> <span class="publisher_abbr">TON'17</span> 
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
+				     <span class="paper_title dtcGooglePaperTitle"> Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference </span> 
+					 <span class="publisher"> IEEE/ACM Transactions on Networking </span> 
+					 <span class="vol_number"> 25 </span>
+					 <span class="issue_number"> 2 </span>
+					 <span class="page_number"> 820-833 </span> 
+					 <span class="date"> 2017 </span>
+					 <div class="download">
+						<a href="publication/journal/pando_ton_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+				<li> <span class="publisher_abbr">IJCS'14</span> 
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, and Haili Shi </span> 
+				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span> 
+					 <span class="publisher"> International Journal of Communication Systems </span> 
+					 <span class="doi"> 10.1002/dac.2851 </span>
+					 <span class="date"> 2014 </span>
+					 <div class="download">
+						<a href="publication/journal/analysis_ijcs_14/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+				<li> <span class="publisher_abbr">AISS'13</span>
+					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yu Fu, and Niangeng Guo </span>
+				     <span class="paper_title dtcGooglePaperTitle"> OFDMA Femtocell Gateway Scheduling based on Coloring </span> 
+					 <span class="publisher"> Advances in Information Sciences and Service Sciences </span> 
+					 <span class="vol_number"> 5 </span>
+					 <span class="issue_number"> 12 </span>
+					 <span class="page_number"> 192-203 </span> 
+					 <span class="date"> 2013 </span>
+					 <div class="download">
+						<a href="publication/journal/ofdma_aiss_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+					 </div> <!-- donwload resources -->
+				</li>
+				
+			</ol>
+		</section>
+		
+		<section>
+		<h1 class="conference_title header_title"> Conference Papers </h1>
+			<ol class="conference_list bar_top">
+
 				<li> <span class="publisher_abbr">MobiCom'16</span> 
 					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li, and Prasant Mohapatra</span> 
@@ -136,69 +208,6 @@
 				
 			</ol>
 		</section>
-		
-		
-		<section>
-			<h1 class="journal_title header_title"> Journal Papers </h1>
-			<ol class="journal_list bar_top">
-			
-				<li> <span class="publisher_abbr">TMC'18</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span> 
-				     <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span> 
-					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
-					 <span class="vol_number"> 17 </span>
-					 <span class="issue_number"> 8 </span>
-					 <span class="page_number"> 1750-1763 </span>
-					 <span class="date"> 2018 </span>
-					 <div class="download">
-						<a href="publication/journal/dopenc_tmc_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
-				</li>
-				
-				<li> <span class="publisher_abbr">TON'17</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span>, and Mo Li </span> 
-				     <span class="paper_title dtcGooglePaperTitle"> Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference </span> 
-					 <span class="publisher"> IEEE/ACM Transactions on Networking </span> 
-					 <span class="vol_number"> 25 </span>
-					 <span class="issue_number"> 2 </span>
-					 <span class="page_number"> 820-833 </span> 
-					 <span class="date"> 2017 </span>
-					 <div class="download">
-						<a href="publication/journal/pando_ton_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
-				</li>
-				
-				<li> <span class="publisher_abbr">IJCS'14</span> 
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, and Haili Shi </span> 
-				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span> 
-					 <span class="publisher"> International Journal of Communication Systems </span> 
-					 <span class="doi"> 10.1002/dac.2851 </span>
-					 <span class="date"> 2014 </span>
-					 <div class="download">
-						<a href="publication/journal/analysis_ijcs_14/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
-				</li>
-				
-				<li> <span class="publisher_abbr">AISS'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yu Fu, and Niangeng Guo </span>
-				     <span class="paper_title dtcGooglePaperTitle"> OFDMA Femtocell Gateway Scheduling based on Coloring </span> 
-					 <span class="publisher"> Advances in Information Sciences and Service Sciences </span> 
-					 <span class="vol_number"> 5 </span>
-					 <span class="issue_number"> 12 </span>
-					 <span class="page_number"> 192-203 </span> 
-					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/journal/ofdma_aiss_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
-				</li>
-				
-			</ol>
-		</section>
-		
 		
 		<section>
 			<h1 class="review_title header_title"> Reviewer </h1>
