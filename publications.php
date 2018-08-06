@@ -56,10 +56,10 @@
 				<li> <span class="publisher_abbr">TMC</span>
 					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Mo Li, Kaishun Wu and Prasant Mohapatra </span>
-					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights (Accepted) </span>
+					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights </span>
 					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
 					<div class="download">
-						<a href="none" target="_blank" ref="author" class="pdf"></a>
+						<a href="publication/journal/strlight_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 					 </div> <!-- donwload resources -->
 				</li>
 			
