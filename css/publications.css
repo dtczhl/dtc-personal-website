@@ -18,11 +18,11 @@ section{
 }
 
 .conference_list{
-	width: 1000px;
+	width: 1080px;
 }
 
 .journal_list{
-	width: 900px;
+	width: 980px;
 }
 
 .review_list, .member_list{
@@ -74,8 +74,8 @@ section{
 
 /* author */
 .author{
-	margin-left: 10px;
-	color: BurlyWood;
+	margin-left: 30px;
+	display: block;
 }
 
 /* me author */
@@ -87,11 +87,10 @@ section{
 
 /* paper title */
 .paper_title{
-	margin-left: 30px;
-	line-height: 30px;
-	display: block;
+	margin-left: 10px;
 	font-style: italic;
 	font-size: 110%;
+	color: BurlyWood;
 }
 
 /* publisher */
