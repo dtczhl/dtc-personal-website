@@ -43,7 +43,7 @@
 			<p> Citation count from Google Scholar. Click 
 				<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank"> <span> HERE </span> </a> 
 				to get my code of extracting and showing real-time citation information </p>
-			<p> <b> *undefined </b> means Google Scholar hasn't included that paper </p>
+			<p> <b> NA </b> means Google Scholar hasn't included that paper </p>
 		</div>
 		
 <div class="main_wrapper">
