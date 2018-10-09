@@ -11,11 +11,11 @@ echo <<<EOL
 	</head>
 
 	<body>
-		<h1> Oops! </h1>
-		<h1> I don't have time to design mobile-friendly websites </h1>
+		<h1 style="font-size:68px;"> Hey there! A phone user. My CV is here </h1>
 
-		<h1> Access denied from mobile phones once and for all </h1>
-		<h1> Please use Desktops, Laptops or Tablets :( </h1>
+        <a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img src="./image/icon/cv.png" width="400" /></a>
+
+		<h1 style="font-size:68px"> For more details, please visit my website using Desktops, Laptops or Tablets :) </h1>
 		
 	</body>
 
