@@ -1,6 +1,6 @@
 #nav_publications{
 	font-size: 105%;
-	font-style: italic; 
+	font-style: italic;
 }
 
 section{
@@ -183,11 +183,13 @@ section{
 
 /* note about citation */
 .note{
-	position: fixed;
-	right: 20px;
-	top: 300px;
-	width: 160px;
 	color: RosyBrown;
+}
+
+.note p{
+	display: inline-block;
+	padding-left: 15px;
+	margin-left: 15px;
 }
 
 .note a{
