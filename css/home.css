@@ -1,6 +1,6 @@
 #nav_home{
 	font-size: 105%;
-	font-style: italic; 
+	font-style: italic;
 }
 
 section{
@@ -9,7 +9,7 @@ section{
 
 
 .education_title, .work_title, .intern_title, .research_title, .teaching_title, .contact_title{ /* category title */
-	
+
 }
 
 /* table based education, work experience, internship only*/
@@ -28,12 +28,12 @@ section{
 	margin-left: 15px;
 	font-style: italic;
 	vertical-align: top;
-	color: LightBlue;
+	color: Black;
 }
 
 /* supervisor row */
 .supervisor_row{
-	color: DarkGray;
+	color: Black;
 	vertical-align: top;
 	font-size: 95%;
 	height: 40px;
@@ -92,15 +92,15 @@ section{
 
 .contact_list li a{
 	text-decoration: none!important;
-	color: DarkCyan;
+	color: Black;
 }
 
 .contact_label{ /* label for contact list */
-	color: DarkKhaki;
+	color: Black;
 }
 
 .tag_highlight{ /* ECS etc */
-	color: DarkKhaki;
+	color: Black;
 }
 
 .course_evaluation{
@@ -116,12 +116,12 @@ section{
 }
 
 .course_name{
-	color: LightBlue;
+	color: Black;
 }
 
-/* let first element hightlight */
+/* let first element hightlight: label*/
 table tr td:first-of-type{
-	color: DarkKhaki;
+	color: Black;
 }
 
 

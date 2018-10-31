@@ -1,8 +1,8 @@
 body{
-	background-color: black;
+	background-color: Azure;
 	font-size: 16px;
 	font-family: Georgia, serif;
-	color: DarkCyan;
+	color: Black;
 }
 
 section{
@@ -16,12 +16,12 @@ section{
 
 .bar_top{ /* horizontal bar at the top */
 	border-top-style: solid;
-	border-top-width: 1px;
+	border-top-width: 2px;
 	border-top-color: DarkGray;
 }
 
 .header_title{
-	color: CadetBlue;
+	color: Black;
 }
 
 .hide_credit{

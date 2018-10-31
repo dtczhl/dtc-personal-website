@@ -159,7 +159,7 @@
 					 </div> <!-- donwload resources -->
 				</li>
 
-				<li> <span class="publisher_abbr">Globecom'13</span>
+				<li> <span class="publisher_abbr">GLOBECOM'13</span>
 					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Femtocell Coverage Fraction and Isolated Probability using Stochastic Geometry</span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yupeng Jia and Yulu Ma </span>
