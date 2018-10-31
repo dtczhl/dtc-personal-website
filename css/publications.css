@@ -8,13 +8,22 @@ section{
 	max-width: 1400px;
 }
 
+.conference_title, .journal_title, .review_title {
+	margin-top: 40px;
+}
+
 .conference_list, .journal_list{
 	counter-reset: li;
 	display: inline-block;
-	margin-top: -15px;
-	padding-top: 15px;
+	margin-top: -10px;
 	padding-right: 15px;
 	list-style-type: none;
+}
+
+.conference_list li, .journal_list li {
+	margin-top: 10px;
+	border-width: 1px;
+	border-bottom-style: solid;
 }
 
 .conference_list{
@@ -28,10 +37,9 @@ section{
 .review_list, .member_list{
 	display: inline-block;
 	padding-right: 15px;
+	margin-left: -20px;
 	margin-top: -15px;
-	padding-top: 15px;
 	list-style-type: none;
-	padding-bottom: 15px;
 }
 
 .review_list li, .member_list li{

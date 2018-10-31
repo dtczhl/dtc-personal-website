@@ -7,92 +7,91 @@ section{
 	font-size: 110%;
 }
 
-
-.education_title, .work_title, .intern_title, .research_title, .teaching_title, .contact_title{ /* category title */
-
-}
-
-/* table based education, work experience, internship only*/
-.education_table, .work_table, .intern_table{
-	border-spacing: 10px 5px;
-	margin-top: -15px;
-	padding-left: 10px;
-	padding-top: 5px;
-}
-
-.degree_row{
-}
-
-/* table based education, work experience, internship only*/
-.university_row, .company_row{
-	margin-left: 15px;
-	font-style: italic;
-	vertical-align: top;
-	color: Black;
-}
-
-/* supervisor row */
-.supervisor_row{
-	color: Black;
-	vertical-align: top;
-	font-size: 95%;
-	height: 40px;
-}
-
-/* duration */
-.duration{
-	font-style: normal;
-	font-size: 90%;
-	text-align: center;
-}
-
-.work_table .duration{
-	font-size: 105%;
-}
-
-/* supplement for research assistant */
-.supplement{
-	font-style: normal;
-}
-
-/* supervisor name */
-.supervisor_name{
-	font-size:120%;
-	color: #b3602a; /* dark orange */
-}
-
-.supervisor_name a{
-	text-decoration: none!important;
-	color: #b3602a; /* dark orange */
-}
-
-/* <p> based research topics only */
-.research_block, .teaching_block{
+.edu_block_wrapper, .work_block_wrapper, .intern_block_wrapper {
 	display: inline-block;
-	margin-top: -15px;
-	padding-top: 15px;
-	padding-left: 25px;
-	padding-right: 20px;
-	vertical-align: top;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.edu_block_left {
+	margin-top: 20px;
+	width: 80px;
+	text-align: center;
+	float: left;
+}
+
+.work_block_left {
+	margin-top: 20px;
+	width: 120px;
+	text-align: center;
+	float: left;
+}
+
+.intern_block_left {
+	margin-top: 20px;
+	width: 130px;
+	text-align: center;
+	float: left;
+}
+
+.edu_title, .work_title, .intern_title {
+}
+
+.edu_period, .work_period, .intern_period {
+	display: block;
+	margin-top: 2px;
+}
+
+.edu_block_right, .work_block_right, .intern_block_right {
+	float: left;
+	margin-left: 20px;
+}
+
+.edu_time, .work_time, .intern_time {
+
+}
+
+.edu_research, .work_research, .intern_research {
+	margin-left: 10px;
+}
+
+.edu_institution, .work_institution, .intern_institution {
+	display: block;
+	font-style: italic;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.edu_supervisor_modifier, .work_supervisor_modifier, .intern_supervisor_modifier {
+	font-size: 95%;
+}
+
+.edu_supervisor_link, .work_supervisor_link, .intern_supervisor_link {
+	margin-left: 5px;
+	text-decoration: none!important;
+}
+
+.header_title{
+	margin-bottom: 0px;
 }
 
 /* list based contact me only */
 .contact_list{
 	display: inline-block;
 	list-style-type: none;
-	margin-top: -20px;
-	padding-top: 10px;
-	padding-right: 10px;
+	margin-top: 5px;
 }
 
 .contact_list li{
-	margin-left: -15px;
 	height: 30px;
+	margin-left: -20px;
 }
 
 .contact_list li a{
 	text-decoration: none!important;
-	color: Black;
 }
 
 .contact_label{ /* label for contact list */
@@ -101,46 +100,4 @@ section{
 
 .tag_highlight{ /* ECS etc */
 	color: Black;
-}
-
-.course_evaluation{
-	border-radius: 10px;
-	display:block;
-	font-size: 90%;
-	margin-left: 150px;
-	margin-top: -10px;
-	padding-top: 1px;
-	padding-bottom: 1px;
-	background-color: LightGray;
-	cursor: pointer;
-}
-
-.course_name{
-	color: Black;
-}
-
-/* let first element hightlight: label*/
-table tr td:first-of-type{
-	color: Black;
-}
-
-
-/* course evaluation comments */
-.window_course_evaluation_div{
-	color: black;
-	padding: 20px;
-	overflow-y: scroll;
-    overflow-x: hidden;
-	background-color: FloralWhite;
-	font-size: 120%;
-}
-.window_course_evaluation_div li{
-	margin-top: 10px;
-}
-.window_course_evaluation_div button{
-	display: block;
-	margin: 0 auto;
-	font-size: 150%;
-	color: red;
-	cursor: pointer;
 }

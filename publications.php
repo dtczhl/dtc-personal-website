@@ -1,10 +1,12 @@
 <?php
+/*
 	require "libs/Mobile_Detect.php";
 	$mobileDetect = new Mobile_Detect;
 	if ( $mobileDetect->isMobile() && !$mobileDetect->isTablet() ) {
 		header('Location: mobilePhone.php');
 		exit();
 	}
+	*/
 ?>
 
 <!DOCTYPE html>
@@ -42,8 +44,9 @@
 <div class="main_wrapper">
 
 		<section id="content_start">
-			<h1 class="journal_title header_title"> Journal Papers </h1>
-			<ol class="journal_list bar_top">
+
+			<h1 class="journal_title"> Journal Papers </h1>
+			<ol class="journal_list">
 
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
@@ -113,8 +116,8 @@
 		</section>
 
 		<section>
-		<h1 class="conference_title header_title"> Conference Papers </h1>
-			<ol class="conference_list bar_top">
+		<h1 class="conference_title"> Conference Papers </h1>
+			<ol class="conference_list">
 
 				<li> <span class="publisher_abbr">ICPADS'18</span>
 					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
@@ -216,8 +219,8 @@
 		</section>
 
 		<section>
-			<h1 class="review_title header_title"> Reviewer </h1>
-			<ul class="review_list bar_top">
+			<h1 class="review_title"> Reviewer </h1>
+			<ul class="review_list">
 				<li>
 					<span class="review_name"> EURASIP Journal on Wireless Communications and Networking (JWCN) </span>
 					<span class="review_date"> 2015 </span>
@@ -234,8 +237,8 @@
 		</section>
 
 		<section>
-			<h1 class="member_title header_title"> Membership </h1>
-			<ul class="member_list bar_top">
+			<h1 class="member_title"> Membership </h1>
+			<ul class="member_list">
 
 				<li>
 					<span class="member_name"> IEEE Member </span>
