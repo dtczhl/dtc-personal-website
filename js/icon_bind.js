@@ -32,7 +32,7 @@ $(function(){
 
 	var githubIcon_class = $('.githubIcon');
 	jQuery.each(githubIcon_class, function(){
-		$(this).prepend('<img src="image/icon/github.png" width="30" height="30" alt="GitHub icon" />');
+		$(this).prepend('<img src="image/icon/github.png" width="50" alt="GitHub icon" />');
 	});
 
 
