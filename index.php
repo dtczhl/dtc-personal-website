@@ -177,7 +177,7 @@
 			</ul>
 
 			<div>
-				<a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img src="./image/icon/cv.png" width="120"/> </a>
+				<a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img src="./image/icon/cv.png" width="80"/> </a>
 			</div>
 		</section>
 
