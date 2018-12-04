@@ -129,6 +129,7 @@
 					 <span class="date"> 2018 </span>
 					 <div class="download">
 						<a href="publication/conference/wifi_icpads_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						<a href="publication/conference/wifi_icpads_18/slides.pdf" target="_blank" ref="author" class="slides"></a>
 						<a href="https://github.com/dtczhl/dtc-openwrt" target="_blank" rel="author" class="githubIcon"></a>
 					 </div> <!-- donwload resources -->
 				</li>
