@@ -48,6 +48,15 @@
 			<h1 class="journal_title"> Journal Papers </h1>
 			<ol class="journal_list">
 
+				<li> <span class="publisher_abbr">arXiv</span>
+					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video At Home </span>
+					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
+					<div class="download">
+						<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" style="text-decoration:none"> arXiv:1812.01777 </a>
+					</div> <!-- donwload resources -->
+				</li>
+
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights </span>
