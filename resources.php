@@ -54,7 +54,7 @@
 						<span class="android_project_description"> Beginner codes for BLE applications </span>
 					</div>
 					<div class="android_block_right">
-						<a class="android_link" href="https://github.com/dtczhl/dtc-ble-scanner" target="_blank" rel="author"> GitHub </a>
+						<a class="android_link" href="https://github.com/huanlezhang1342/dtc-android-ble" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
@@ -66,7 +66,7 @@
 						<span class="android_project_description"> Emitting sounds with specified frequencies </span>
 					</div>
 					<div class="android_block_right">
-						<a class="android_link" href="https://github.com/dtczhl/dtc-frequency-player.git" target="_blank" rel="author"> GitHub </a>
+						<a class="android_link" href="https://github.com/huanlezhang1342/dtc-frequency-player.git" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
@@ -78,7 +78,7 @@
 						<span class="android_project_description"> Illustrating Doppler effect using sounds </span>
 					</div>
 					<div class="android_block_right">
-						<a class="android_link" href="https://github.com/dtczhl/dtc-doppler-illustrator.git" target="_blank" rel="author"> GitHub </a>
+						<a class="android_link" href="https://github.com/huanlezhang1342/dtc-doppler-illustrator.git" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
@@ -90,7 +90,7 @@
 						<span class="android_project_description"> Showing spectrum of ambient sounds </span>
 					</div>
 					<div class="android_block_right">
-						<a class="android_link" href="https://github.com/dtczhl/dtc-acoustic-spectrumer.git" target="_blank" rel="author"> GitHub </a>
+						<a class="android_link" href="https://github.com/huanlezhang1342/dtc-acoustic-spectrumer.git" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 		</section>
@@ -106,7 +106,7 @@
 						<span class="web_project_description"> Add Google citation count information to your web page </span>
 					</div>
 					<div class="web_block_right">
-						<a class="web_link" href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank" rel="author"> GitHub </a>
+						<a class="web_link" href="https://github.com/huanlezhang1342/dtc-google-citation-helper" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
@@ -118,7 +118,7 @@
 						<span class="web_project_description"> Source code of this Ugly website :) </span>
 					</div>
 					<div class="web_block_right">
-						<a class="web_link" href="https://github.com/dtczhl/dtc-personal-website.git" target="_blank" rel="author"> GitHub </a>
+						<a class="web_link" href="https://github.com/huanlezhang1342/dtc-personal-website.git" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 		</section>
@@ -135,7 +135,7 @@
 						<span class="system_project_description"> Goal: High throughput, low latency WiFi system for VR applications </span>
 					</div>
 					<div class="system_block_right">
-						<a class="system_link" href="https://github.com/dtczhl/dtc-openwrt" target="_blank" rel="author"> GitHub </a>
+						<a class="system_link" href="https://github.com/huanlezhang1342/dtc-openwrt" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
@@ -147,7 +147,7 @@
 						<span class="system_project_description"> Useful for strict time-control research projects (adapted from ECS 251) </span>
 					</div>
 					<div class="system_block_right">
-						<a class="system_link" href="https://github.com/dtczhl/dtc-raspberry-bare-metal" target="_blank" rel="author"> GitHub </a>
+						<a class="system_link" href="https://github.com/huanlezhang1342/dtc-raspberry-bare-metal" target="_blank" rel="author"> GitHub </a>
 					</div>
 			</div>
 
