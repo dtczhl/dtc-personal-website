@@ -128,6 +128,19 @@
 		<h1 class="conference_title"> Conference Papers </h1>
 			<ol class="conference_list">
 
+				<li> <span class="publisher_abbr">HotMobile'19</span>
+					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<span class="paper_title dtcGooglePaperTitle"> AIDE: Augmented Onboarding of IoT Devices at Ease </span>
+					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee and Prasant Mohapatra</span>
+					<span class="publisher"> ACM Workshop on Mobile Computing Systems and Applications </span>
+					<span class="page_number"> 1-6 </span>
+					<span class="conference_location"> Santa Cruz, USA </span>
+					<span class="date"> 2019 </span>
+					<div class="download">
+					 <a href="publication/conference/wifi_icpads_18/paper.pdf" target="_blank" ref="author" class="void"></a>
+					</div> <!-- donwload resources -->
+				</li>
+
 				<li> <span class="publisher_abbr">ICPADS'18</span>
 					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
 					 <span class="paper_title dtcGooglePaperTitle"> WiFi and Multiple Interfaces: Adequate for Virtual Reality? </span>

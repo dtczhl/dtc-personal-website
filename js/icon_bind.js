@@ -24,6 +24,11 @@ $(function(){
 		$(this).prepend('<img src="image/icon/award.png" width="28" height="28" alt="award icon" />');
     });
 
+  var award_class = $('.void');
+    jQuery.each(award_class, function(){
+		$(this).prepend('<div width="28" height="28" />');
+    });
+
 	// github icon
 	var github_class = $('.github');
     jQuery.each(github_class, function(){
