@@ -119,7 +119,7 @@
 							<span class="intern_research"> Internet of Things </span>
 							<span class="intern_institution"> Bell Labs, USA </span>
 							<span class="intern_supervisor_modifier"> Supervisor: <i>Dr.</i> </span>
-							<a class="intern_supervisor_link" href="https://www.linkedin.com/in/mostafa-uddin/" rel="external" target="_blank"> Mostafa Uddin </a>
+							<a class="intern_supervisor_link" href="https://mostafau.github.io/" rel="external" target="_blank"> Mostafa Uddin </a>
 							<span class="intern_supervisor_modifier"> <i>, Dr.</i> </span>
 							<a class="intern_supervisor_link" href="https://www.bell-labs.com/usr/fang.hao" rel="external" target="_blank"> Fang Hao </a>
 							<span class="intern_supervisor_modifier"> <i>, Dr.</i> </span>
