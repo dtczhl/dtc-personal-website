@@ -242,6 +242,16 @@
 		</section>
 
 		<section>
+			<h1 class="patent_title"> Patent </h1>
+			<ul class="patent_list">
+				<li>
+					<span style="font-size:110%;"> AIDE: Augmented Onboarding of IoT Devices at Ease</span> (Nokia Patent Pending)
+					<span class="author"> Fang Hao (25%), Sarit Mukherjee (25%), Mostafa Uddin (25%), <span class="meAuthor">Huanle Zhang</span> (25%) </span>
+				</li>
+			</ul>
+		</section>
+
+		<section>
 			<h1 class="review_title"> Reviewer </h1>
 			<ul class="review_list">
 				<li>

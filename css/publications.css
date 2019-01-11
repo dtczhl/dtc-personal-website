@@ -12,7 +12,7 @@ section{
 	margin-top: 40px;
 }
 
-.conference_list, .journal_list{
+.conference_list, .journal_list {
 	counter-reset: li;
 	display: inline-block;
 	margin-top: -10px;
@@ -34,7 +34,7 @@ section{
 	width: 980px;
 }
 
-.review_list, .member_list{
+.patent_list, .review_list, .member_list{
 	display: inline-block;
 	padding-right: 15px;
 	margin-left: -20px;
@@ -42,11 +42,11 @@ section{
 	list-style-type: none;
 }
 
-.review_list li, .member_list li{
+.patent_list li, .review_list li, .member_list li{
 	line-height: 150%;
 }
 
-.review_list li::before, .member_list li::before{
+.patent_list li::before, .review_list li::before, .member_list li::before{
 	content: " * ";
 	color: DarkKhaki;
 	font-size: 120%;
