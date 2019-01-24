@@ -40,6 +40,7 @@ section{
 
 .block_img {
 	float: left;
+	display: inline-block;
 	margin-right: 5px;
 	margin-bottom: -10px;
 }

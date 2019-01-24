@@ -50,7 +50,7 @@
 					<span class="block_period"> (3 years) </span>
 				</div>
 				<div class="block_right">
-					<a href="https://www.uestc.edu.cn/index.html" target="_blank"><img src="./image/institution/uestc.png" width="75" class="block_img" style="margin-top:-6px;"/></a>
+					<a href="https://www.uestc.edu.cn/index.html" target="_blank"><img src="./image/institution/uestc.png" width="75" class="block_img" style="margin-top:-3px;"/></a>
 					<span class="block_time"> 2011.09 - 2014.06, </span>
 					<span class="block_research"> Communication &amp; Information System </span>
 					<span class="block_institution"> University of Electronic Science &amp; Technology of China </span>
@@ -135,7 +135,7 @@
 							<span class="block_period"> (2 months) </span>
 						</div>
 						<div class="block_right">
-							<a href="https://www.simula.no/" target="_blank"><img src="./image/institution/simula.png" width="120" class="block_img" style="margin-top:10px;"/></a>
+							<a href="https://www.simula.no/" target="_blank"><img src="./image/institution/simula.png" width="110" class="block_img" style="margin-top:4px;"/></a>
 							<span class="block_time"> 2017.07 - 2017.09, </span>
 							<span class="block_research"> Communication Systems </span>
 							<span class="block_institution"> Simula Research Laboratory, Norway </span>

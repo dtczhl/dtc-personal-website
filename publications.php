@@ -37,7 +37,7 @@
 
 				<li> <span class="publisher_abbr">arXiv</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -52,7 +52,7 @@
 
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -67,12 +67,13 @@
 
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
 							<a href="publication/journal/dopenc_tmc_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="https://github.com/dtczhl/dtc-doppler-illustrator" target="_blank" rel="author" class="github"></a>
 						</div>
 					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span>
@@ -86,7 +87,7 @@
 
 				<li> <span class="publisher_abbr">TON'17</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -105,7 +106,7 @@
 
 				<li> <span class="publisher_abbr">IJCS'14</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -122,7 +123,7 @@
 
 				<li> <span class="publisher_abbr">AISS'13</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -148,7 +149,7 @@
 
 				<li> <span class="publisher_abbr">HotMobile'19</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -166,7 +167,7 @@
 
 				<li> <span class="publisher_abbr">ICPADS'18</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -186,13 +187,14 @@
 
 				<li> <span class="publisher_abbr">MobiCom'16</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
 							<a href="publication/conference/dopenc_mobicom_16/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 							<a href="publication/conference/dopenc_mobicom_16/slides.pptx" target="_blank" ref="author" class="slides"></a>
+							<a href="https://github.com/dtczhl/dtc-doppler-illustrator" target="_blank" rel="author" class="github"></a>
 							<a href="https://www.youtube.com/watch?v=HJAMjpLhizE" target="_blank" ref="external" class="video"></a>
 						</div>
 					</div>
@@ -206,7 +208,7 @@
 
 				<li> <span class="publisher_abbr">SenSys'15 <span style="color:red;">(Best Paper Award)</span></span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -224,7 +226,7 @@
 
 				<li> <span class="publisher_abbr">GLOBECOM'13 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -242,7 +244,7 @@
 
 				<li> <span class="publisher_abbr">CCT'13</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -260,7 +262,7 @@
 
 				<li> <span class="publisher_abbr">MINES'13</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -278,7 +280,7 @@
 
 				<li> <span class="publisher_abbr">SEIS'13</span>
 					<div class="block_right">
-						<div class="citation_div">
+						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
