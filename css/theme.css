@@ -1,5 +1,5 @@
 body{
-	background-color: Azure;
+	background-color: white;
 	font-size: 16px;
 	font-family: Georgia, serif;
 	color: Black;
@@ -10,18 +10,13 @@ section{
 }
 
 #content_start{
-	margin-top: 150px;
+	margin-top: 80px;
 }
-
 
 .bar_top{ /* horizontal bar at the top */
 	border-top-style: solid;
 	border-top-width: 2px;
 	border-top-color: DarkGray;
-}
-
-.header_title{
-	color: Black;
 }
 
 .hide_credit{

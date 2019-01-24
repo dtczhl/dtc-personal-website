@@ -1,5 +1,4 @@
 <?php
-
 echo <<< EOL
 
 		<footer>
@@ -11,5 +10,4 @@ echo <<< EOL
 		</footer>
 
 EOL;
-
 ?>

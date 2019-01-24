@@ -4,11 +4,11 @@ head{
 nav ul {
 	margin-top: 0px;
 	display: inline-block;
-	position: fixed; /* fix the navigator on top of brower */
+	position: fixed; /* fix the navigator on top of browser */
 	top: 0px;
 	left: 0px;
-	padding-top: 20px;
-	padding-bottom: 15px;
+	padding-top: 5px;
+	padding-bottom: 5px;
 	width: 100%;
 	z-index: 99;
 	background-color: black;
@@ -30,6 +30,6 @@ nav ul li:last-of-type{ /* last navigator, do not need solid border */
 
 nav ul li a{
 	text-decoration: none;
-	font-size: 200%;
+	font-size: 180%;
 	color: Beige;
 }

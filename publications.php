@@ -1,14 +1,3 @@
-<?php
-/*
-	require "libs/Mobile_Detect.php";
-	$mobileDetect = new Mobile_Detect;
-	if ( $mobileDetect->isMobile() && !$mobileDetect->isTablet() ) {
-		header('Location: mobilePhone.php');
-		exit();
-	}
-	*/
-?>
-
 <!DOCTYPE html>
 <html>
 
@@ -28,7 +17,6 @@
 		<link rel="stylesheet" href="css/footer.css" />
 
 		<link rel="stylesheet" href="css/publications.css" />
-		<link rel="stylesheet" href="css/donation.css" />
 
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script>
@@ -39,36 +27,54 @@
 	<body>
 
 		<?php include 'header.php'; ?>
-		<!-- <?php include 'donation.php'; ?> -->
 
 <div class="main_wrapper">
 
 		<section id="content_start">
 
-			<h1 class="journal_title"> Journal Papers </h1>
-			<ol class="journal_list">
+			<h1 class="header_title"> Article Papers </h1>
+			<ol class="paper_list">
 
 				<li> <span class="publisher_abbr">arXiv</span>
-					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video At Home </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
-					<div class="download">
-						<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" style="text-decoration:none"> arXiv:1812.01777 </a>
-					</div> <!-- donwload resources -->
+					<span class="publisher"> arXiv:1812.01777 </span>
 				</li>
 
 				<li> <span class="publisher_abbr">TMC'18</span>
-					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/journal/strlight_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Mo Li, Kaishun Wu and Prasant Mohapatra </span>
 					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
-					<div class="download">
-						<a href="publication/journal/strlight_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">TMC'18</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/journal/dopenc_tmc_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span>
 					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span>
 					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
@@ -76,13 +82,18 @@
 					 <span class="issue_number"> 8 </span>
 					 <span class="page_number"> 1750-1763 </span>
 					 <span class="date"> 2018 </span>
-					 <div class="download">
-						<a href="publication/journal/dopenc_tmc_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">TON'17</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/journal/pando_ton_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> Pando: Fountain-Enabled Fast Data Dissemination with Constructive Interference </span>
 					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span> and Mo Li </span>
 					 <span class="publisher"> IEEE/ACM Transactions on Networking </span>
@@ -90,25 +101,35 @@
 					 <span class="issue_number"> 2 </span>
 					 <span class="page_number"> 820-833 </span>
 					 <span class="date"> 2017 </span>
-					 <div class="download">
-						<a href="publication/journal/pando_ton_17/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">IJCS'14</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/journal/analysis_ijcs_14/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
+				   <span class="paper_title dtcGooglePaperTitle"> Analysis of Accessing to the Nearest and to the Strongest Base Station in Femtocell Networks </span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu and Haili Shi </span>
 					 <span class="publisher"> International Journal of Communication Systems </span>
 					 <span class="doi"> 10.1002/dac.2851 </span>
 					 <span class="date"> 2014 </span>
-					 <div class="download">
-						<a href="publication/journal/analysis_ijcs_14/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">AISS'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/journal/ofdma_aiss_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> OFDMA Femtocell Gateway Scheduling based on Coloring </span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yu Fu and Niangeng Guo </span>
 					 <span class="publisher"> Advances in Information Sciences and Service Sciences </span>
@@ -116,174 +137,174 @@
 					 <span class="issue_number"> 12 </span>
 					 <span class="page_number"> 192-203 </span>
 					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/journal/ofdma_aiss_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 			</ol>
 		</section>
 
 		<section>
-		<h1 class="conference_title"> Conference Papers </h1>
-			<ol class="conference_list">
+		<h1 class="header_title"> Conference Papers </h1>
+			<ol class="paper_list">
 
 				<li> <span class="publisher_abbr">HotMobile'19</span>
-					<div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/aide_hotmobile_19/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 					<span class="paper_title dtcGooglePaperTitle"> AIDE: Augmented Onboarding of IoT Devices at Ease </span>
 					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee and Prasant Mohapatra</span>
 					<span class="publisher"> ACM Workshop on Mobile Computing Systems and Applications </span>
 					<span class="page_number"> 1-6 </span>
 					<span class="conference_location"> Santa Cruz, USA </span>
 					<span class="date"> 2019 </span>
-					<div class="download">
-					 <a href="publication/conference/wifi_icpads_18/paper.pdf" target="_blank" ref="author" class="void"></a>
-					</div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">ICPADS'18</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/wifi_icpads_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/conference/wifi_icpads_18/slides.pdf" target="_blank" ref="author" class="slides"></a>
+							<a href="https://github.com/dtczhl/dtc-openwrt" target="_blank" rel="author" class="github"></a>
+						</div>
+					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> WiFi and Multiple Interfaces: Adequate for Virtual Reality? </span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi and Prasant Mohapatra</span>
 					 <span class="publisher"> IEEE Conference on Parallel and Distributed Systems </span>
 					 <span class="page_number"> 1-8 </span>
 					 <span class="conference_location"> Singapore </span>
 					 <span class="date"> 2018 </span>
-					 <div class="download">
-						<a href="publication/conference/wifi_icpads_18/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-						<a href="publication/conference/wifi_icpads_18/slides.pdf" target="_blank" ref="author" class="slides"></a>
-						<a href="https://github.com/dtczhl/dtc-openwrt" target="_blank" rel="author" class="githubIcon"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">MobiCom'16</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-				     <span class="paper_title dtcGooglePaperTitle"> DopEnc: Acoustic-based Encounter Profiling Using Smartphones</span>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/dopenc_mobicom_16/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/conference/dopenc_mobicom_16/slides.pptx" target="_blank" ref="author" class="slides"></a>
+							<a href="https://www.youtube.com/watch?v=HJAMjpLhizE" target="_blank" ref="external" class="video"></a>
+						</div>
+					</div>
+				   <span class="paper_title dtcGooglePaperTitle"> DopEnc: Acoustic-based Encounter Profiling Using Smartphones</span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra</span>
 					 <span class="publisher"> ACM Conference on Mobile Computing and Networking </span>
 					 <span class="page_number"> 294-307 </span>
 					 <span class="conference_location"> New York, USA </span>
 					 <span class="date"> 2016 </span>
-					 <div class="download">
-						<a href="publication/conference/dopenc_mobicom_16/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-						<a href="https://www.youtube.com/watch?v=HJAMjpLhizE" target="_blank" ref="external" class="video"></a>
-						<a href="publication/conference/dopenc_mobicom_16/slides.pptx" target="_blank" ref="author" class="slides"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
-				<li> <span class="publisher_abbr">SenSys'15</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-				     <span class="paper_title dtcGooglePaperTitle"> When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks</span>
+				<li> <span class="publisher_abbr">SenSys'15 <span style="color:red;">(Best Paper Award)</span></span>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/when_sensys_15/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
+				   <span class="paper_title dtcGooglePaperTitle"> When Pipelines Meet Fountain: Fast Data Dissemination in Wireless Sensor Networks</span>
 					 <span class="author"> Wan Du, Jansen Christian Liando, <span class="meAuthor">Huanle Zhang</span> and Mo Li </span>
 					 <span class="publisher"> ACM Conference on Embedded Networked Sensor Systems </span>
 					 <span class="page_number"> 365-378 </span>
 					 <span class="conference_location"> Seoul, South Korea </span>
 					 <span class="date"> 2015 </span>
-					 <div class="download">
-						<a href="publication/conference/when_sensys_15/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-						<a href="publication/conference/when_sensys_15/best_paper_award.pdf" target="_blank" ref="author" class="award"> <span class="award_title">Best Paper Award</span></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
-				<li> <span class="publisher_abbr">GLOBECOM'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
-				     <span class="paper_title dtcGooglePaperTitle"> Analysis of Femtocell Coverage Fraction and Isolated Probability using Stochastic Geometry</span>
+				<li> <span class="publisher_abbr">GLOBECOM'13 <span style="color:red;">(Student Travel Grant)</span></span>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/analysis_globecom_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
+				    <span class="paper_title dtcGooglePaperTitle"> Analysis of Femtocell Coverage Fraction and Isolated Probability using Stochastic Geometry</span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu, Yupeng Jia and Yulu Ma </span>
 					 <span class="publisher"> IEEE Global Communications Conference </span>
 					 <span class="page_number"> 4699-4704 </span>
 					 <span class="conference_location"> Atlanta, USA </span>
 					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/conference/analysis_globecom_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-						<a href="publication/conference/analysis_globecom_13/student_travel_grant.jpg" target="_blank" ref="author" class="award"> <span class="award_title">Student Travel Grant</span></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">CCT'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/optimal_cct_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 				     <span class="paper_title dtcGooglePaperTitle"> Optimal Transmission Distance of Mean Progress and Mean Transport in Device-to-device Networks</span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Yu Fu and Jian Liu </span>
 					 <span class="publisher"> International Conference on Cyberspace Technology </span>
 					 <span class="page_number"> 332-337 </span>
 					 <span class="conference_location"> Beijing, China </span>
 					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/conference/optimal_cct_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">MINES'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/tractable_mines_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 				     <span class="paper_title dtcGooglePaperTitle"> A Tractable Framework for Power Consumption in Femtocell Networks</span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Jian Liu and Niangeng Guo </span>
 					 <span class="publisher"> International Conference on Multimedia Information Networking and Security </span>
 					 <span class="page_number"> 546-550 </span>
 					 <span class="conference_location"> Beijing, China </span>
 					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/conference/tractable_mines_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 				<li> <span class="publisher_abbr">SEIS'13</span>
-					 <div class="citation"> <p> Citation </p> <span class="citation_count dtcGoogleCitationCount"> 0 </span> </div>
+					<div class="block_right">
+						<div class="citation_div">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="publication/conference/policy_seis_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
 				     <span class="paper_title dtcGooglePaperTitle"> Policy on Downlink Access of Femtocell Based on OFDMA in Dense Employment Residential Environment </span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span> and Jian Liu </span>
 					 <span class="publisher"> International Conference on Software Engineering and Information System </span>
 					 <span class="page_number"> 2682-2685 </span>
 					 <span class="conference_location"> Shijiazhuang, China </span>
-					 <span class="date"> 2013 </span>
-					 <div class="download">
-						<a href="publication/conference/policy_seis_13/paper.pdf" target="_blank" ref="author" class="pdf"></a>
-					 </div> <!-- donwload resources -->
 				</li>
 
 			</ol>
 		</section>
 
 		<section>
-			<h1 class="patent_title"> Patent </h1>
-			<ul class="patent_list">
+			<h1 class="header_title"> Patent </h1>
+			<ol class="paper_list">
 				<li>
-					<span style="font-size:110%;"> Augmented Onboarding of Internet-of-Things Devices</span> (US Patent App. 16/247,797)
+					<span class="publisher_abbr">US Patent App. 16/247,797</span>
+					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
 					<span class="author"> Mostafa Uddin, Fang Hao, Sarit Mukherjee and <span class="meAuthor">Huanle Zhang</span></span>
 				</li>
-			</ul>
-		</section>
-
-		<section>
-			<h1 class="review_title"> Reviewer </h1>
-			<ul class="review_list">
-				<li>
-					<span class="review_name"> EURASIP Journal on Wireless Communications and Networking (JWCN) </span>
-					<span class="review_date"> 2015 </span>
-				</li>
-				<li>
-					<span class="review_name"> IEEE Global Communications Conference (IEEE GLOBECOM) </span>
-					<span class="review_date"> 2014 </span>
-				</li>
-				<li>
-					<span class="review_name"> IEEE Internet of Things Journal (IEEE IoT) </span>
-					<span class="review_date"> 2013, 2014 </span>
-				</li>
-			</ul>
-		</section>
-
-		<section>
-			<h1 class="member_title"> Membership </h1>
-			<ul class="member_list">
-
-				<li>
-					<span class="member_name"> IEEE Member </span>
-					<span class="member_date"> 2013-Present </span>
-				</li>
-
-				<li>
-					<span class="member_name"> IEEE ComSoc SPCE </span>
-					<span class="member_date">  2016-Present </span>
-				</li>
-			</ul>
-
+			</ol>
 		</section>
 
 		<div class="note">

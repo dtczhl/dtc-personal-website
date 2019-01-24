@@ -1,103 +1,71 @@
 #nav_home{
-	font-size: 105%;
+	font-size: 110%;
 	font-style: italic;
 }
 
 section{
-	font-size: 110%;
-}
-
-.edu_block_wrapper, .work_block_wrapper, .intern_block_wrapper {
-	display: inline-block;
-	border-width: 1px;
-	border-style: solid;
-	padding: 10px;
-	margin-top: 10px;
-	margin-left: 10px;
-}
-
-.edu_block_left {
-	margin-top: 20px;
-	width: 80px;
-	text-align: center;
-	float: left;
-}
-
-.work_block_left {
-	margin-top: 20px;
-	width: 120px;
-	text-align: center;
-	float: left;
-}
-
-.intern_block_left {
-	margin-top: 20px;
-	width: 130px;
-	text-align: center;
-	float: left;
-}
-
-.edu_title, .work_title, .intern_title {
-}
-
-.edu_period, .work_period, .intern_period {
-	display: block;
-	margin-top: 2px;
-}
-
-.edu_block_right, .work_block_right, .intern_block_right {
-	float: left;
-	margin-left: 20px;
-}
-
-.edu_time, .work_time, .intern_time {
-
-}
-
-.edu_research, .work_research, .intern_research {
-	margin-left: 10px;
-}
-
-.edu_institution, .work_institution, .intern_institution {
-	display: block;
-	font-style: italic;
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
-
-.edu_supervisor_modifier, .work_supervisor_modifier, .intern_supervisor_modifier {
 	font-size: 95%;
-}
-
-.edu_supervisor_link, .work_supervisor_link, .intern_supervisor_link {
-	margin-left: 5px;
-	text-decoration: none!important;
 }
 
 .header_title{
 	margin-bottom: 0px;
+	font-size: 110%;
 }
 
-/* list based contact me only */
-.contact_list{
+.block_wrapper {
 	display: inline-block;
-	list-style-type: none;
+	border-width: 1px;
+	border-style: solid;
+	padding: 10px;
 	margin-top: 5px;
+	margin-left: 5px;
 }
 
-.contact_list li{
-	height: 30px;
-	margin-left: -20px;
+.block_left {
+	margin-top: 12px;
+	width: 110px;
+	text-align: center;
+	float: left;
 }
 
-.contact_list li a{
+.block_period {
+	display: block;
+	margin-top: 2px;
+}
+
+.block_right {
+	float: left;
+	margin-left: 5px;
+}
+
+.block_img {
+	float: left;
+	margin-right: 5px;
+	margin-bottom: -10px;
+}
+
+.block_research {
+	margin-left: 10px;
+}
+
+.block_institution {
+	display: block;
+	font-weight: bold;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.block_advisor_modifier {
+	font-size: 95%;
+}
+
+.block_advisor_link {
+	margin-left: 5px;
 	text-decoration: none!important;
 }
 
-.contact_label{ /* label for contact list */
-	color: Black;
-}
-
-.tag_highlight{ /* ECS etc */
-	color: Black;
+.listP{
+	margin-left: 20px;
+	margin-top: 5px;
+	margin-bottom: 0px;
 }
