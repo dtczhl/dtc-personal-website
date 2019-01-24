@@ -3,19 +3,19 @@ $(function(){
 	// pdf icon
     var pdf_class = $('.pdf');
     jQuery.each(pdf_class, function(){
-		$(this).prepend('<img src="image/icon/pdf.png" width="25" height="25" alt="pdf icon" />');
+		$(this).prepend('<img title="Paper" src="image/icon/pdf.png" width="25" height="25" alt="pdf icon" />');
     });
 
 	// video icon
 	var video_class = $('.video');
     jQuery.each(video_class, function(){
-		$(this).prepend('<img style="margin-right:5px;" src="image/icon/video.png" width="22" height="22" alt="video icon" />');
+		$(this).prepend('<img title="Video" style="margin-right:5px;" src="image/icon/video.png" width="22" height="22" alt="video icon" />');
     });
 
 	// slides icon
 	var slides_class = $('.slides');
     jQuery.each(slides_class, function(){
-		$(this).prepend('<img src="image/icon/slides.png" width="25" height="25" alt="slides icon" />');
+		$(this).prepend('<img title="Slides" src="image/icon/slides.png" width="25" height="25" alt="slides icon" />');
     });
 
 	// award icon
@@ -42,7 +42,7 @@ $(function(){
 
   var githubIcon_class = $('.github');
 	jQuery.each(githubIcon_class, function(){
-		$(this).prepend('<img style="margin-right:5px;" src="image/icon/github.png" width="25" alt="GitHub icon" />');
+		$(this).prepend('<img title="Source Code" style="margin-right:5px;" src="image/icon/github.png" width="25" alt="GitHub icon" />');
 	});
 
 });
