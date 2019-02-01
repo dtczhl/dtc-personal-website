@@ -326,9 +326,9 @@
 		</section>
 
 		<div class="note">
-			<p> <b>Note</b>: Citation count from Google Scholar. Click
+			<p> <b>Note</b>: Click
 				<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank"> <span> HERE </span> </a>
-				to get my code of extracting and showing real-time citation information </p>
+				to get my code of extracting and showing real-time Google Scholar citation information </p>
 		</div>
 
 		<!-- Use icons from Internet. Below are the credits. -->
