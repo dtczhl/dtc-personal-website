@@ -147,7 +147,7 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list">
 
-				<li> <span class="publisher_abbr">HotMobile'19</span>
+				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -305,6 +305,22 @@
 					<span class="publisher_abbr">US Patent App. 16/247,797</span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
 					<span class="author"> Mostafa Uddin, Fang Hao, Sarit Mukherjee and <span class="meAuthor">Huanle Zhang</span></span>
+				</li>
+			</ol>
+		</section>
+
+		<section>
+			<h1 class="header_title"> Posters </h1>
+			<ol class="paper_list" style="width:650px;">
+				<li>
+					<div class="block_narrow_right">
+						<div class="download" style="margin-top:8px;">
+							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="pdf"></a>
+						</div>
+					</div>
+					<span class="publisher_abbr">mmW RCN workshop</span>
+					<span> Blockage-aware Deployment of 60 GHz Millimeter-wave WLANs </span>
+					<span class="author"> Zhicheng Yang, Parth H Pathak, Jianli Pan, Mo Sha, <span class="meAuthor">Huanle Zhang</span> and Prasant Mohapatra </span>
 				</li>
 			</ol>
 		</section>
