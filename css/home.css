@@ -13,7 +13,8 @@ section{
 }
 
 .block_wrapper {
-	display: inline-block;
+	display: block;
+	height:65px;
 	border-width: 1px;
 	border-style: solid;
 	padding: 10px;
@@ -21,11 +22,20 @@ section{
 	margin-left: 5px;
 }
 
-.block_left {
+.block_div_title {
+	float:left;
+	text-align:center;
 	margin-top: 12px;
-	width: 110px;
-	text-align: center;
-	float: left;
+}
+
+.block_div_image {
+	height: 60px;
+	float:left;
+	text-align:center;
+}
+
+.block_div_detail {
+	float:left
 }
 
 .block_period {
@@ -33,16 +43,12 @@ section{
 	margin-top: 2px;
 }
 
-.block_right {
-	float: left;
-	margin-left: 5px;
-}
-
 .block_img {
 	float: left;
 	display: inline-block;
-	margin-right: 5px;
-	margin-bottom: -10px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
 }
 
 .block_research {

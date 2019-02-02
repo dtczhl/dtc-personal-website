@@ -29,28 +29,32 @@
 		<section id="content_start">
 			<h1 class="header_title"> Education </h1>
 
-			<div class="block_wrapper"> <!-- PHD -->
-					<div class="block_left">
+			<div class="block_wrapper" style="width:620px;"> <!-- PHD -->
+					<div class="block_div_title" style="width:90px;">
 						<span class="block_title"> Ph.D. </span>
 						<span class="block_period"> (current) </span>
 					</div>
-					<div class="block_right">
+					<div class="block_div_image" style="width:90px;">
 						<a href="https://www.ucdavis.edu/" target="_blank"><img src="./image/institution/ucdavis.png" width="80" class="block_img" style="margin-top:-8px;"/></a>
-						<span class="block_time"> 2016.09 - Now, </span>
-						<span class="block_research"> Computer &amp; Information Sciences </span>
-						<span class="block_institution"> University of California, Davis, USA </span>
-						<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
-						<a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" rel="external" target="_blank"> Prasant Mohapatra </a>
+					</div>
+					<div class="block_div_detail" style="width:440px;">
+							<span class="block_time"> 2016.09 - Now, </span>
+							<span class="block_research"> Computer &amp; Information Sciences </span>
+							<span class="block_institution"> University of California, Davis, USA </span>
+							<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
+							<a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" rel="external" target="_blank"> Prasant Mohapatra </a>
 					</div>
 			</div>
 
-			<div class="block_wrapper"> <!-- Master -->
-				<div class="block_left">
+			<div class="block_wrapper" style="width:620px;"> <!-- Master -->
+				<div class="block_div_title" style="width:90px;">
 					<span class="block_title"> M.S. </span>
 					<span class="block_period"> (3 years) </span>
 				</div>
-				<div class="block_right">
-					<a href="https://www.uestc.edu.cn/index.html" target="_blank"><img src="./image/institution/uestc.png" width="75" class="block_img" style="margin-top:-3px;"/></a>
+				<div class="block_div_image" style="width:90px;">
+					<a href="https://www.uestc.edu.cn/index.html" target="_blank"><img src="./image/institution/uestc.png" width="75" class="block_img" style="margin-top:-6px;"/></a>
+				</div>
+				<div class="block_div_detail" style="width:440px;">
 					<span class="block_time"> 2011.09 - 2014.06, </span>
 					<span class="block_research"> Communication &amp; Information System </span>
 					<span class="block_institution"> University of Electronic Science &amp; Technology of China </span>
@@ -58,13 +62,15 @@
 				</div>
 			</div>
 
-			<div class="block_wrapper"> <!-- Bachelor -->
-				<div class="block_left">
+			<div class="block_wrapper" style="width:620px;"> <!-- Bachelor -->
+				<div class="block_div_title" style="width:90px;">
 					<span class="block_title"> B.S. </span>
 					<span class="block_period"> (4 years) </span>
 				</div>
-				<div class="block_right">
-					<a href="http://www.hdu.edu.cn/" target="_blank"><img src="./image/institution/hdu.png" width="75" class="block_img" style="margin-top:-5px;"/></a>
+				<div class="block_div_image" style="width:90px;">
+					<a href="http://www.hdu.edu.cn/" target="_blank"><img src="./image/institution/hdu.png" width="75" class="block_img" style="margin-top:-5px;margin-left:auto;margin-right:auto;"/></a>
+				</div>
+				<div class="block_div_detail" style="width:440px;">
 					<span class="block_time"> 2007.09 - 2011.06, </span>
 					<span class="block_research"> Communication Engineering </span>
 					<span class="block_institution"> Hangzhou Dianzi University, China </span>
@@ -76,13 +82,15 @@
 		<section>
 			<h1 class="header_title"> Work Experience </h1>
 
-			<div class="block_wrapper"> <!-- NTU -->
-					<div class="block_left">
+			<div class="block_wrapper" style="width:620px;"> <!-- NTU -->
+					<div class="block_div_title" style="width:100px;">
 						<span class="block_title"> Project Officer </span>
 						<span class="block_period"> (2 years) </span>
 					</div>
-					<div class="block_right">
+					<div class="block_div_image" style="width:90px;">
 						<a href="http://www.ntu.edu.sg/" target="_blank"><img src="./image/institution/ntu.png" width="75" class="block_img" style="margin-top:-14px;"/></a>
+					</div>
+					<div class="block_div_detail" style="width:430px;">
 						<span class="block_time"> 2014.08 - 2016.06, </span>
 						<span class="block_research"> School of Computer Science &amp; Engineering </span>
 						<span class="block_institution"> Nanyang Technological University, Singapore </span>
@@ -95,32 +103,40 @@
 		<section>
 				<h1 class="header_title"> Internship </h1>
 
-				<div class="block_wrapper"> <!-- Bell -->
-						<div class="block_left">
+				<div class="block_wrapper" style="width:700px;"> <!-- Bell -->
+						<div class="block_div_title" style="width:110px;">
 							<span class="block_title"> Summer Intern </span>
 							<span class="block_period"> (10 weeks) </span>
 						</div>
-						<div class="block_right">
-							<a href="https://www.bell-labs.com/" target="_blank"><img src="./image/institution/bell.png" width="120" class="block_img" style="margin-top:0px;"/></a>
+						<div class="block_div_image" style="width:150px;">
+							<a href="https://www.bell-labs.com/" target="_blank">
+								<img src="./image/institution/bell.png" width="120" class="block_img" style="margin-top:15px;margin-left:10px;"/>
+							</a>
+						</div>
+						<div class="block_div_detail" style="width:440px;">
 							<span class="block_time"> 2018.06 - 2018.08, </span>
 							<span class="block_research"> Internet of Things </span>
 							<span class="block_institution"> Bell Labs, USA </span>
-							<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
-							<a class="block_advisor_link" href="https://mostafau.github.io/" rel="external" target="_blank"> Mostafa Uddin </a>
-							<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
-							<a class="block_advisor_link" href="https://www.bell-labs.com/usr/fang.hao" rel="external" target="_blank"> Fang Hao </a>
-							<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
-							<a class="block_advisor_link" href="https://www.bell-labs.com/usr/sarit.mukherjee" rel="external" target="_blank"> Sarit Mukherjee </a>
+							<div style="width:550px;padding:0px;margin:0px;">
+								<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
+								<a class="block_advisor_link" href="https://mostafau.github.io/" rel="external" target="_blank"> Mostafa Uddin </a>
+								<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
+								<a class="block_advisor_link" href="https://www.bell-labs.com/usr/fang.hao" rel="external" target="_blank"> Fang Hao </a>
+								<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
+								<a class="block_advisor_link" href="https://www.bell-labs.com/usr/sarit.mukherjee" rel="external" target="_blank"> Sarit Mukherjee </a>
+							</div>
 						</div>
 				</div>
 
-				<div class="block_wrapper"> <!-- msra -->
-						<div class="block_left">
+				<div class="block_wrapper" style="width:700px;"> <!-- msra -->
+						<div class="block_div_title" style="width:110px;">
 							<span class="block_title"> Spring Intern </span>
 							<span class="block_period"> (12 weeks) </span>
 						</div>
-						<div class="block_right">
-							<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank"><img src="./image/institution/msra.png" width="140" class="block_img" style="margin-top:0px;"/></a>
+						<div class="block_div_image" style="width:150px;">
+							<a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-asia/" target="_blank"><img src="./image/institution/msra.png" width="140" class="block_img" style="margin-top:2px;"/></a>
+						</div>
+						<div class="block_div_detail" style="width:440px;">
 							<span class="block_time"> 2018.03 - 2018.06, </span>
 							<span class="block_research"> Intelligent Cloud and Edge </span>
 							<span class="block_institution"> Microsoft Research Asia, China </span>
@@ -129,13 +145,15 @@
 						</div>
 				</div>
 
-				<div class="block_wrapper"> <!-- simula -->
-						<div class="block_left">
+				<div class="block_wrapper" style="width:700px;"> <!-- simula -->
+						<div class="block_div_title" style="width:110px;">
 							<span class="block_title"> Summer Intern </span>
 							<span class="block_period"> (2 months) </span>
 						</div>
-						<div class="block_right">
-							<a href="https://www.simula.no/" target="_blank"><img src="./image/institution/simula.png" width="110" class="block_img" style="margin-top:4px;"/></a>
+						<div class="block_div_image" style="width:150px; ">
+							<a href="https://www.simula.no" target="_blank"><img src="./image/institution/simula.png" width="110" class="block_img" style="margin-left:18px;margin-top:10px;"/></a>
+						</div>
+						<div class="block_div_detail" style="width:440px;">
 							<span class="block_time"> 2017.07 - 2017.09, </span>
 							<span class="block_research"> Communication Systems </span>
 							<span class="block_institution"> Simula Research Laboratory, Norway </span>
