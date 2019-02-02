@@ -13,6 +13,7 @@
 		<link rel="shortcut icon" href="favicon.ico" /> <!-- Icon -->
 
 		<script src="js/jquery-3.2.1.js"></script>
+		<script src="js/icon_bind.js"></script>
 
 		<link rel="stylesheet" href="css/theme.css" />
 		<link rel="stylesheet" href="css/header.css" />
@@ -183,7 +184,9 @@
 
 
 			<div>
-				<a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/> </a>
+				<a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
+				<a href="https://github.com/dtczhl" target="_blank" ref="external"><img  style="margin-left:10px;" src="./image/icon/github.png" width="40"></a>
+				<a href="https://www.linkedin.com/in/huanle-zhang-24b745a6/" target="_blank" ref="external"><img  style="margin-left:10px; margin-bottom: -3px;" src="./image/icon/linkedin.png" width="40"></a>
 			</div>
 		</section>
 
