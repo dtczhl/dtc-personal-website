@@ -33,7 +33,7 @@
 		<section id="content_start">
 
 			<h1 class="header_title"> Article Papers </h1>
-			<ol class="paper_list">
+			<ol class="paper_list" style="width:980px;">
 
 				<li> <span class="publisher_abbr">arXiv</span>
 					<div class="block_right">
@@ -78,7 +78,7 @@
 					</div>
 					 <span class="paper_title dtcGooglePaperTitle"> An Acoustic-based Encounter Profiling System </span>
 					 <span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Pengfei Zhou, Mo Li and Prasant Mohapatra </span>
-					 <span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					 <span class="publisher">IEEE Transactions on Mobile Computing</span>
 					 <span class="vol_number"> 17 </span>
 					 <span class="issue_number"> 8 </span>
 					 <span class="page_number"> 1750-1763 </span>
@@ -145,7 +145,7 @@
 
 		<section>
 		<h1 class="header_title"> Conference Papers </h1>
-			<ol class="paper_list">
+			<ol class="paper_list" style="width:1200px;">
 
 				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
@@ -300,8 +300,12 @@
 
 		<section>
 			<h1 class="header_title"> Patent </h1>
-			<ol class="paper_list">
+			<ol class="paper_list" style="width:620px;">
 				<li>
+					<div class="block_very_narrow_right">
+						<div class="download" style="margin-top:8px;">
+						</div>
+					</div>
 					<span class="publisher_abbr">US Patent App. 16/247,797</span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
 					<span class="author"> Mostafa Uddin, Fang Hao, Sarit Mukherjee and <span class="meAuthor">Huanle Zhang</span></span>
@@ -325,7 +329,7 @@
 			</ol>
 		</section>
 
-		<div class="note">
+		<div class="note" style="width:800px;">
 			<p> <b>Note</b>: Click
 				<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank"> <span> HERE </span> </a>
 				to get my code of extracting and showing real-time Google Scholar citation information </p>

@@ -76,7 +76,7 @@ section{
 }
 
 .block_right {
-	margin-left: 20px;
+	margin-left: 0px;
 	float: right;
 	width: 180px;
 	height:60px;
@@ -85,10 +85,20 @@ section{
 }
 
 .block_narrow_right{
-	margin-left: 20px;
+	margin-left: 0px;
 	padding-right: 10px;
 	float: right;
 	width: 50px;
+	height: 40px;
+	border-right-width: 1px;
+	border-right-style: dashed;
+}
+
+.block_very_narrow_right {
+	margin-left: 0px;
+	padding-right: 10px;
+	float: right;
+	width: 1px;
 	height: 40px;
 	border-right-width: 1px;
 	border-right-style: dashed;
