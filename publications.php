@@ -300,15 +300,15 @@
 
 		<section>
 			<h1 class="header_title"> Patent </h1>
-			<ol class="paper_list" style="width:620px;">
+			<ol class="paper_list" style="width:900px;">
 				<li>
 					<div class="block_very_narrow_right">
 						<div class="download" style="margin-top:8px;">
 						</div>
 					</div>
-					<span class="publisher_abbr">US Patent App. 16/247,797</span>
+					<span class="publisher_abbr">US Patent App. 16/247,797 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
-					<span class="author"> Mostafa Uddin, Fang Hao, Sarit Mukherjee and <span class="meAuthor">Huanle Zhang</span></span>
+					<span class="author"> Fang Hao (25%),  Sarit Mukherjee (25%), Mostafa Uddin (25%) and <span class="meAuthor">Huanle Zhang</span> (25%)</span>
 				</li>
 			</ol>
 		</section>

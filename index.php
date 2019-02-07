@@ -152,7 +152,7 @@
 							<span class="block_period"> (2 months) </span>
 						</div>
 						<div class="block_div_image" style="width:150px; ">
-							<a href="https://www.simula.no" target="_blank"><img src="./image/institution/simula.png" width="110" class="block_img" style="margin-left:18px;margin-top:10px;"/></a>
+							<a href="https://www.simula.no" target="_blank"><img src="./image/institution/simula.png" width="110" class="block_img" style="margin-left:15px;margin-top:10px;"/></a>
 						</div>
 						<div class="block_div_detail" style="width:450px;">
 							<span class="block_time"> 2017.07 - 2017.09, </span>
