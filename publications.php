@@ -319,10 +319,20 @@
 				<li>
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
-							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/poster/wireless_iotdi_2019/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
-					<span class="publisher_abbr">mmW RCN workshop</span>
+					<span class="publisher_abbr">IoTDI'19</span>
+					<span> Wireless Access to Ultimate Virtual Reality 360-Degree Video </span>
+					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Zhicheng Yang and Prasant Mohapatra </span>
+				</li>
+				<li>
+					<div class="block_narrow_right">
+						<div class="download" style="margin-top:8px;">
+							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="slides"></a>
+						</div>
+					</div>
+					<span class="publisher_abbr">mmW RCN workshop'19</span>
 					<span> Blockage-aware Deployment of 60 GHz Millimeter-wave WLANs </span>
 					<span class="author"> Zhicheng Yang, Parth H Pathak, Jianli Pan, Mo Sha, <span class="meAuthor">Huanle Zhang</span> and Prasant Mohapatra </span>
 				</li>
