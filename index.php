@@ -93,7 +93,7 @@
 					</div>
 					<div class="block_div_detail" style="width:390px;">
 						<span class="block_time"> 2019.02 - present, </span>
-						<span class="block_research"> Mobile Augmented Reality (AR) </span>
+						<span class="block_research"> Mobile Augmented Reality </span>
 						<span class="block_institution"> AT&T Labs - Research, USA </span>
 						<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
 						<a class="block_advisor_link" href="https://scholar.google.com/citations?user=BhRa314AAAAJ&hl=en" rel="external" target="_blank"> Bo Han </a>
