@@ -33,7 +33,7 @@
 			<div class="block_wrapper" style="width:620px;"> <!-- PHD -->
 					<div class="block_div_title" style="width:90px;">
 						<span class="block_title"> Ph.D. </span>
-						<span class="block_period"> (current) </span>
+						<span class="block_period"> (present) </span>
 					</div>
 					<div class="block_div_image" style="width:90px;">
 						<a href="https://www.ucdavis.edu/" target="_blank"><img src="./image/institution/ucdavis.png" width="80" class="block_img" style="margin-top:-8px;"/></a>
@@ -77,6 +77,27 @@
 					<span class="block_institution"> Hangzhou Dianzi University, China </span>
 					<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span> Na Ying
 				</div>
+			</div>
+		</section>
+
+		<section>
+			<h1 class="header_title"> University Program </h1>
+
+			<div class="block_wrapper" style="width:620px;"> <!-- att -->
+				<div class="block_div_title" style="width:90px;">
+					<span class="block_title"> Member </span>
+					<span class="block_period"> (present) </span>
+				</div>
+					<div class="block_div_image" style="width:140px;">
+						<a href="https://about.att.com/sites/labs_research" target="_blank"><img src="./image/institution/att.png" width="125" class="block_img" style="margin-top:10px;"/></a>
+					</div>
+					<div class="block_div_detail" style="width:390px;">
+						<span class="block_time"> 2019.02 - present, </span>
+						<span class="block_research"> Mobile Augmented Reality (AR) </span>
+						<span class="block_institution"> AT&T Labs - Research, USA </span>
+						<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
+						<a class="block_advisor_link" href="https://scholar.google.com/citations?user=BhRa314AAAAJ&hl=en" rel="external" target="_blank"> Bo Han </a>
+					</div>
 			</div>
 		</section>
 

@@ -147,7 +147,7 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
-				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
+				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Best Demo Award, Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -155,6 +155,9 @@
 						</div>
 						<div class="download">
 							<a href="publication/conference/aide_hotmobile_19/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/conference/aide_hotmobile_19/slides.pdf" target="_blank" ref="author" class="slides"></a>
+							<a href="publication/conference/aide_hotmobile_19/poster.pdf" target="_blank" ref="author" class="poster"></a>
+							<a href="https://github.com/dtczhl/AIDE-HotMobile19" target="_blank" rel="author" class="github"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> AIDE: Augmented Onboarding of IoT Devices at Ease </span>
@@ -329,7 +332,7 @@
 				<li>
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
-							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="slides"></a>
+							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="poster"></a>
 						</div>
 					</div>
 					<span class="publisher_abbr">mmW RCN workshop'19</span>

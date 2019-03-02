@@ -6,6 +6,12 @@ $(function(){
 		$(this).prepend('<img title="Paper" src="image/icon/pdf.png" width="25" height="25" alt="pdf icon" />');
     });
 
+    // pdf icon
+    var pdf_class = $('.poster');
+    jQuery.each(pdf_class, function(){
+    $(this).prepend('<img title="Poster" src="image/icon/slides.png" width="25" height="25" alt="poster icon" />');
+    });
+
 	// video icon
 	var video_class = $('.video');
     jQuery.each(video_class, function(){
