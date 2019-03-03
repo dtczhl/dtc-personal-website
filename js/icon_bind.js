@@ -9,7 +9,7 @@ $(function(){
     // pdf icon
     var pdf_class = $('.poster');
     jQuery.each(pdf_class, function(){
-    $(this).prepend('<img title="Poster" src="image/icon/poster.png" width="25" height="25" alt="poster icon" />');
+    $(this).prepend('<img title="Poster" src="image/icon/poster.png" width="30" height="30" alt="poster icon" />');
     });
 
 	// video icon
