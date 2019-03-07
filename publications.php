@@ -147,7 +147,7 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
-				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Best Demo Award, Student Travel Grant)</span></span>
+				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Best Demo Runner-up Award, Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -163,7 +163,7 @@
 					<span class="paper_title dtcGooglePaperTitle"> AIDE: Augmented Onboarding of IoT Devices at Ease </span>
 					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee and Prasant Mohapatra</span>
 					<span class="publisher"> ACM Workshop on Mobile Computing Systems and Applications </span>
-					<span class="page_number"> 1-6 </span>
+					<span class="page_number"> 123-128 </span>
 					<span class="conference_location"> Santa Cruz, USA </span>
 					<span class="date"> 2019 </span>
 				</li>
@@ -340,6 +340,13 @@
 					<span class="author"> Zhicheng Yang, Parth H Pathak, Jianli Pan, Mo Sha, <span class="meAuthor">Huanle Zhang</span> and Prasant Mohapatra </span>
 				</li>
 			</ol>
+		</section>
+
+		<section>
+			<h1 class="header_title"> Invited Talks </h1>
+			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
+				<li> Mobile Support for Deep-Learning based Augmented Reality, UC Merced, Host: Wan Du </li>
+			</ul>
 		</section>
 
 		<div class="note" style="width:800px;">
