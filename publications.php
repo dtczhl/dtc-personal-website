@@ -322,7 +322,7 @@
 				<li>
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
-							<a href="publication/poster/wireless_iotdi_2019/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="#" target="_blank" onclick="return false;" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="publisher_abbr">IoTDI'19</span>
