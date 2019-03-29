@@ -349,6 +349,16 @@
 			</ul>
 		</section>
 
+		<section>
+			<h1 class="header_title"> Reviewer </h1>
+			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
+				<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
+				<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
+				<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
+				<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>
+			</ul>
+		</section>
+
 		<div class="note" style="width:800px;">
 			<p> <b>Note</b>: Click
 				<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank"> <span> HERE </span> </a>
