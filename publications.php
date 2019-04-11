@@ -50,6 +50,21 @@
 					<span class="publisher"> arXiv:1812.01777 </span>
 				</li>
 
+				<li> <span class="publisher_abbr">TMC'19</span>
+					<div class="block_right">
+						<div class="citation_div" title="Realtime Citation Count">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<a href="#" ref="author" class="pdf"></a>
+						</div>
+					</div>
+					<span class="paper_title dtcGooglePaperTitle"> High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation </span>
+					<span class="author"> Pengfei Hu, Parth H. Pathak, <span class="meAuthor">Huanle Zhang</span>, Zhicheng Yang and Prasant Mohapatra </span>
+					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
+				</li>
+
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
