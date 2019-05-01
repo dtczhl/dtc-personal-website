@@ -45,7 +45,7 @@
 							<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
-					<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video At Home </span>
+					<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video at Home </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
 					<span class="publisher"> arXiv:1812.01777 </span>
 				</li>
@@ -198,7 +198,7 @@
 					 <span class="paper_title dtcGooglePaperTitle"> WiFi and Multiple Interfaces: Adequate for Virtual Reality? </span>
 					 <span class="author"> <span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi and Prasant Mohapatra</span>
 					 <span class="publisher"> IEEE Conference on Parallel and Distributed Systems </span>
-					 <span class="page_number"> 1-8 </span>
+					 <span class="page_number"> 220-227 </span>
 					 <span class="conference_location"> Singapore </span>
 					 <span class="date"> 2018 </span>
 				</li>
