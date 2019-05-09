@@ -125,6 +125,27 @@
 		<section>
 				<h1 class="header_title"> Internship </h1>
 
+				<div class="block_wrapper" style="width:710px;"> <!-- at&t -->
+						<div class="block_div_title" style="width:110px;">
+							<span class="block_title"> Summer Intern </span>
+							<span class="block_period"> (10 weeks) </span>
+						</div>
+						<div class="block_div_image" style="width:150px;">
+							<a href="https://about.att.com/sites/labs_research" target="_blank">
+								<img src="./image/institution/att.png" width="120" class="block_img" style="margin-top:15px;margin-left:10px;"/>
+							</a>
+						</div>
+						<div class="block_div_detail" style="width:450px;">
+							<span class="block_time"> 2019.06 - 2019.08, </span>
+							<span class="block_research"> Mobile Immersive Computing </span>
+							<span class="block_institution"> AT&T Labs, USA </span>
+							<div style="width:550px;padding:0px;margin:0px;">
+								<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
+								<a class="block_advisor_link" href="https://scholar.google.com/citations?user=BhRa314AAAAJ&hl=en" rel="external" target="_blank"> Bo Han </a>
+							</div>
+						</div>
+				</div>
+
 				<div class="block_wrapper" style="width:710px;"> <!-- Bell -->
 						<div class="block_div_title" style="width:110px;">
 							<span class="block_title"> Summer Intern </span>
@@ -140,7 +161,7 @@
 							<span class="block_research"> Internet of Things </span>
 							<span class="block_institution"> Bell Labs, USA </span>
 							<div style="width:550px;padding:0px;margin:0px;">
-								<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
+								<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 								<a class="block_advisor_link" href="https://mostafau.github.io/" rel="external" target="_blank"> Mostafa Uddin </a>
 								<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
 								<a class="block_advisor_link" href="https://www.bell-labs.com/usr/fang.hao" rel="external" target="_blank"> Fang Hao </a>
@@ -162,7 +183,7 @@
 							<span class="block_time"> 2018.03 - 2018.06, </span>
 							<span class="block_research"> Intelligent Cloud and Edge </span>
 							<span class="block_institution"> Microsoft Research Asia, China </span>
-							<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
+							<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 							<a class="block_advisor_link" href="https://www.microsoft.com/en-us/research/people/yunliu" rel="external" target="_blank"> Yunxin Liu </a>
 						</div>
 				</div>
@@ -179,7 +200,7 @@
 							<span class="block_time"> 2017.07 - 2017.09, </span>
 							<span class="block_research"> Communication Systems </span>
 							<span class="block_institution"> Simula Research Laboratory, Norway </span>
-							<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
+							<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 							<a class="block_advisor_link" href="https://www.simula.no/people/ahmed" rel="external" target="_blank"> Ahmed Elmokashfi </a>
 						</div>
 				</div>
