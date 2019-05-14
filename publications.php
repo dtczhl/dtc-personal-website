@@ -333,8 +333,18 @@
 
 		<section>
 			<h1 class="header_title"> Posters </h1>
-			<ol class="paper_list" style="width:800px;">
-				<li>
+			<ol class="paper_list" style="width:850px;">
+				<li>  <!-- uc davis -->
+					<div class="block_narrow_right">
+						<div class="download" style="margin-top:8px;">
+							<a href="publication/poster/non-invasive_ucdavis_2019/poster.pdf" target="_blank" ref="author" class="poster"></a>
+						</div>
+					</div>
+					<span class="publisher_abbr">UC Davis World Food Center</span>
+					<span> Non-invasive Soluable Sugar Content Estimation using Millimeter-wave </span>
+					<span class="author">Z. Yang, P. H. Pathak, M. Wu, T. Zhu, J. Gan, <span class="meAuthor">H. Zhang</span>, J. Zheng and P. Mohapatra</span>
+				</li>
+				<li>  <!-- iotdi -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
 							<a href="publication/poster/wireless_iotdi_2019/paper.pdf" target="_blank" ref="author" class="pdf"></a>
@@ -345,7 +355,7 @@
 					<span> Wireless Access to Ultimate Virtual Reality 360-Degree Video </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Zhicheng Yang and Prasant Mohapatra </span>
 				</li>
-				<li>
+				<li>  <!-- mmW RCN workshop -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
 							<a href="publication/poster/blockage_mmwrcn_2019/poster.pdf" target="_blank" ref="author" class="poster"></a>
