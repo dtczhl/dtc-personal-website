@@ -57,7 +57,7 @@
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
-							<a href="#" ref="author" class="pdf"></a>
+							<a href="publication/journal/colorbars_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation </span>
@@ -333,11 +333,12 @@
 
 		<section>
 			<h1 class="header_title"> Posters </h1>
-			<ol class="paper_list" style="width:750px;">
+			<ol class="paper_list" style="width:800px;">
 				<li>
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
-							<a href="#" target="_blank" onclick="return false;" ref="author" class="pdf"></a>
+							<a href="publication/poster/wireless_iotdi_2019/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/poster/wireless_iotdi_2019/poster.pdf" target="_blank" ref="author" class="poster"></a>
 						</div>
 					</div>
 					<span class="publisher_abbr">IoTDI'19</span>
