@@ -340,7 +340,7 @@
 							<a href="publication/poster/non-invasive_ucdavis_2019/poster.pdf" target="_blank" ref="author" class="poster"></a>
 						</div>
 					</div>
-					<span class="publisher_abbr">UC Davis World Food Center</span>
+					<span class="publisher_abbr">UC Davis World Food Center'19</span>
 					<span> Non-invasive Soluable Sugar Content Estimation using Millimeter-wave </span>
 					<span class="author">Z. Yang, P. H. Pathak, M. Wu, T. Zhu, J. Gan, <span class="meAuthor">H. Zhang</span>, J. Zheng and P. Mohapatra</span>
 				</li>
@@ -371,7 +371,7 @@
 		<section>
 			<h1 class="header_title"> Invited Talks </h1>
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
-				<li> Mobile Support for Deep-Learning based Augmented Reality, UC Merced, Host: Wan Du </li>
+				<li> Mobile Support for Deep-Learning based Augmented Reality, UC Merced, Host: Wan Du, 2019 </li>
 			</ul>
 		</section>
 
