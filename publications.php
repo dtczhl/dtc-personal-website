@@ -65,19 +65,23 @@
 					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
 				</li>
 
-				<li> <span class="publisher_abbr">TMC'18</span>
+				<li> <span class="publisher_abbr">TMC'19</span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
-							<a href="publication/journal/strlight_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/journal/strlight_tmc_19/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> StrLight: An Imperceptible Visible Light Communication System with String Lights </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Wan Du, Mo Li, Kaishun Wu and Prasant Mohapatra </span>
 					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					<span class="vol_number"> 18 </span>
+					<span class="issue_number"> 7 </span>
+					<span class="page_number"> 1674-1687 </span>
+					<span class="date"> 2019 </span>
 				</li>
 
 				<li> <span class="publisher_abbr">TMC'18</span>
@@ -378,6 +382,7 @@
 		<section>
 			<h1 class="header_title"> Reviewer </h1>
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
+				<li> IEEE Transactions on Services Computing (IEEE TSC): 2019 </li>
 				<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
 				<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
 				<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
