@@ -142,6 +142,8 @@
 							<div style="width:550px;padding:0px;margin:0px;">
 								<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 								<a class="block_advisor_link" href="https://scholar.google.com/citations?user=BhRa314AAAAJ&hl=en" rel="external" target="_blank"> Bo Han </a>
+								<span class="block_advisor_modifier"> <i>, Dr.</i> </span>
+								<a class="block_advisor_link" href="https://scholar.google.com/citations?user=edO9JxQAAAAJ&hl=en" rel="external" target="_blank"> Cheuk Yiu Ip </a>
 							</div>
 						</div>
 				</div>
