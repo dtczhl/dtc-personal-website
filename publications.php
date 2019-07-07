@@ -337,7 +337,7 @@
 
 		<section>
 			<h1 class="header_title"> Posters </h1>
-			<ol class="paper_list" style="width:850px;">
+			<ol class="paper_list" style="width:900px;">
 				<li>  <!-- uc davis -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
