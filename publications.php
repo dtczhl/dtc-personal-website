@@ -20,7 +20,7 @@
 
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script>
-		<script src="dtc-google-citation-helper/dtcGoogleCitationHelper.js"></script>
+		<script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script>
 
 	</head>
 
@@ -31,6 +31,11 @@
 <div class="main_wrapper">
 
 		<section id="content_start">
+
+			<p style="font-size:150%; width:900px;">
+				Total Citations: <span class="dtcGoogleCitationsAll"> -0 </span>, &nbsp;&nbsp;
+				h-index: <span class="dtcGoogleHIndexAll"> -0 </span>, &nbsp;&nbsp;
+				i10-index: <span class="dtcGoogleI10IndexAll"> -0 </span> </p>
 
 			<h1 class="header_title"> Article Papers </h1>
 			<ol class="paper_list" style="width:980px;">
@@ -337,7 +342,7 @@
 
 		<section>
 			<h1 class="header_title"> Posters </h1>
-			<ol class="paper_list" style="width:900px;">
+			<ol class="paper_list" style="width:950px;">
 				<li>  <!-- uc davis -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
@@ -393,8 +398,8 @@
 
 		<div class="note" style="width:800px;">
 			<p> <b>Note</b>: Click
-				<a href="https://github.com/dtczhl/dtc-google-citation-helper" target="_blank"> <span> HERE </span> </a>
-				to get my code of extracting and showing real-time Google Scholar citation information </p>
+				<a href="https://github.com/dtczhl/dtc-google-scholar-helper" target="_blank"> <span> HERE </span> </a>
+				to get my code of extracting and showing real-time Google Scholar information </p>
 		</div>
 
 		<!-- Use icons from Internet. Below are the credits. -->
@@ -408,7 +413,7 @@
 </div> <!-- end of main wrapper -->
 
 		<script>
-			dtcGoogleCitationCount('https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en');
+			dtcGoogleScholarHelper('https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en');
 		</script>
 
 		<?php include 'footer.php'; ?>
