@@ -32,7 +32,7 @@
 
 		<section id="content_start">
 
-			<p style="font-size:150%; width:900px;">
+			<p style="font-size:150%; width:900px;" title="Realtime Statistics from Google Scholar">
 				Total Citations: <span class="dtcGoogleCitationsAll"> -0 </span>, &nbsp;&nbsp;
 				h-index: <span class="dtcGoogleHIndexAll"> -0 </span>, &nbsp;&nbsp;
 				i10-index: <span class="dtcGoogleI10IndexAll"> -0 </span> </p>
