@@ -42,8 +42,8 @@ $(function(){
 		$(this).prepend("<span style=\"color:Blue;\"> GitHub </span>");
     });
 
-	var githubIconClass = $(".githubIconText");
-	jQuery.each(githubIconClass, function(){
+	var githubIconTextClass = $(".githubIconText");
+	jQuery.each(githubIconTextClass, function(){
 		$(this).prepend("<img src=\"image/icon/github.png\" width=\"50\" alt=\"GitHub icon\" />");
 	});
 
