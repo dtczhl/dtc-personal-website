@@ -86,8 +86,5 @@ section{
 	border-bottom-style: solid;
 	border-bottom-width: 1px;
 	border-bottom-color: DarkGray;
-	padding-left: 5px;
-	padding-right: 10px;
-	padding-bottom: 5px;
-	padding-top: 10px;
+	padding: 10px 10px 5px 5px;
 }
