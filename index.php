@@ -221,7 +221,7 @@
 
 		<section style="width:700px;">
 			<h1 class="header_title"> Contact Me </h1>
-			<p class="listP"> Email: huanle.zhang.cn AT ieee DOT org </p>
+			<p class="listP"> Email: dtczhang AT ucdavis.edu </p>
 			<p class="listP"> Lab Office: Room 2106, Watershed Science Research Center, Davis, CA 95616, USA </p>
 
 

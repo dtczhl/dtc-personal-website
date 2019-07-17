@@ -1,7 +1,7 @@
 <?php
 echo <<< EOL
 
-		<footer>
+		<footer style="width:350px;">
 			<script type="text/javascript">
 				var today = new Date();
 				var year = today.getFullYear();
