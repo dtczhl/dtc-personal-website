@@ -8,7 +8,4 @@ source code for my website
 
 ## Notes
 
-In `Publications` page, to show Google Scholar information, you need to download my [dtc-google-scholar-helper](https://github.com/dtczhl/dtc-google-scholar-helper), and move it to the root directory. Then, make a change to the `dtcGoogleScholarHelper.js`:
-```javascript
-pathToDtcGoogleScholarHelperPhp: "dtc-google-scholar-helper/dtcGoogleScholarHelper.php"
-```
+ To show Google Scholar information in the `Publications` page,, you need to download my [dtc-google-scholar-helper](https://github.com/dtczhl/dtc-google-scholar-helper)
