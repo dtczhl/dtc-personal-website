@@ -30,8 +30,8 @@
 <div class="main_wrapper">
 
 	<section id="content_start" style="width:600px;margin-bottom:50px;">
-      <p> The nominal human hearing range is [20 Hz, 20 KHz]. However, and sadly, when getting older, we are gradulay losing the ability to hear high-frequency sounds. Try it to see what is the highest frequency that you can still hear now. </p>
-      <input type="range" min="1" max="20000" value="50" class="slider" id="freqSlider" style="width:80%;">
+      <p> <scan style="color:red;"> Noise Alert! </scan> The nominal human hearing range is [20 Hz, 20 KHz]. However, when getting older, we are gradulay losing the ability to hear high-frequency sounds. Try it to see what is the highest frequency that you can still hear now :( </p>
+      <input type="range" min="1" max="20000" value="1" class="slider" id="freqSlider" style="width:80%;">
       <p> Audio Frequency (Hz): <scan id="freqValue">-0</scan> </p>
       <button type="button" onclick="dtcWebAudioFrequencyPlay(true)" id="freqStart"> Start </button>
       <button type="button" onclick="dtcWebAudioFrequencyPlay(false)" id="freqStop" disabled> Stop </button>
