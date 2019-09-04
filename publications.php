@@ -40,21 +40,6 @@
 			<h1 class="header_title"> Article Papers </h1>
 			<ol class="paper_list" style="width:980px;">
 
-				<li> <span class="publisher_abbr">arXiv</span>
-					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
-							<p class="citation_label"> Citation </p>
-							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-						</div>
-						<div class="download">
-							<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
-						</div>
-					</div>
-					<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video at Home </span>
-					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
-					<span class="publisher"> arXiv:1812.01777 </span>
-				</li>
-
 				<li> <span class="publisher_abbr">TMC'19</span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
@@ -323,6 +308,44 @@
 				</li>
 
 			</ol>
+		</section>
+
+		<section>
+			<h1 class="header_title"> Papers Under Review </h1>
+				<ol class="paper_list" style="width:1200px;">
+
+					<li> <span class="publisher_abbr">AAAI</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> All Points Are Not Equal – Accelerating 3D Segmentation with Point Cloud Simplification </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, Cheuk Yiu Ip, and Prasant Mohapatra </span>
+						<span class="publisher"> AAAI Conference on Artificial Intelligence </span>
+					</li>
+
+					<li> <span class="publisher_abbr">arXiv</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video at Home </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
+						<span class="publisher"> arXiv:1812.01777 </span>
+					</li>
+
+				</ol>
+			</h1>
 		</section>
 
 		<section>
