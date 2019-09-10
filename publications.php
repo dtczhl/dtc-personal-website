@@ -324,7 +324,7 @@
 								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
 							</div>
 						</div>
-						<span class="paper_title dtcGooglePaperTitle"> All Points Are Not Equal – Accelerating 3D Segmentation with Point Cloud Simplification </span>
+						<span class="paper_title dtcGooglePaperTitle"> About 3D Semantic Segmentation </span>
 						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, Cheuk Yiu Ip, and Prasant Mohapatra </span>
 						<span class="publisher"> AAAI Conference on Artificial Intelligence </span>
 					</li>

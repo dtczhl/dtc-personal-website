@@ -8,4 +8,4 @@ source code for my website
 
 ## Notes
 
- To show Google Scholar information in the `Publications` page,, you need to download my [dtc-google-scholar-helper](https://github.com/dtczhl/dtc-google-scholar-helper)
+ To show Google Scholar information in the `Publications` page, you need to download my [dtc-google-scholar-helper](https://github.com/dtczhl/dtc-google-scholar-helper)
