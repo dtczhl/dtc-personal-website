@@ -314,6 +314,21 @@
 			<h1 class="header_title"> Papers Under Review </h1>
 				<ol class="paper_list" style="width:1200px;">
 
+					<li> <span class="publisher_abbr">PerCom</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> About IoT Onboarding </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, Jiuming Chen, and Prasant Mohapatra </span>
+						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
+					</li>
+
 					<li> <span class="publisher_abbr">AAAI</span>
 						<div class="block_right">
 							<div class="citation_div" title="Realtime Citation Count">
