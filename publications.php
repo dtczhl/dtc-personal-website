@@ -325,7 +325,7 @@
 							</div>
 						</div>
 						<span class="paper_title dtcGooglePaperTitle"> About IoT Onboarding </span>
-						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, Jiuming Chen, and Prasant Mohapatra </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, and Prasant Mohapatra </span>
 						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
 					</li>
 
