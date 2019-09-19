@@ -28,6 +28,9 @@
 		<?php include 'header.php'; ?>
 
 		<section id="content_start">
+
+		<p style="font-size:20px;"> I'm plannning to graduate in early 2020. <br/>I'm looking for jobs at research labs or faculty positions. <br/>Thanks for any opportunities :) </p>
+
 			<h1 class="header_title"> Education </h1>
 
 			<div class="block_wrapper" style="width:620px;"> <!-- PHD -->
