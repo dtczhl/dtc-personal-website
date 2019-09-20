@@ -29,8 +29,8 @@
 
 		<section id="content_start">
 
-		<div style="margin-left: 20px;font-size:20px;font-weight: bold;border-style: solid;border-width: 2px;width:580px;padding:10px 10px 10px 10px;">
-			I'm plannning to graduate in early 2020. <br/> I'm looking for a job at a research lab or a faculty position. <br/>Thanks for any opportunities :)
+		<div style="margin-left: 0px;font-size:20px;font-weight: bold;border-style: solid;border-width: 2px;width:650px;padding:10px 10px 10px 10px;">
+			I'm looking for a job in a research lab or a faculty position begining 2020. <br/>Thanks for any opportunities :)
 		</div>
 
 			<h1 class="header_title"> Education </h1>

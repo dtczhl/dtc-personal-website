@@ -364,8 +364,19 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Patent </h1>
+			<h1 class="header_title"> Patents </h1>
 			<ol class="paper_list" style="width:900px;">
+
+				<li>
+					<div class="block_very_narrow_right">
+						<div class="download" style="margin-top:8px;">
+						</div>
+					</div>
+					<span class="publisher_abbr">US Patent App.</span>
+					<span>  Accelerating 3D Segmentation with Point Cloud Simplification</span>
+					<span class="author"> Bo Han, Cheuk Yiu Ip, and <span class="meAuthor">Huanle Zhang</span></span>
+				</li>
+
 				<li>
 					<div class="block_very_narrow_right">
 						<div class="download" style="margin-top:8px;">
