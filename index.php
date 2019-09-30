@@ -143,7 +143,7 @@
 						<div class="block_div_detail" style="width:450px;">
 							<span class="block_time"> 2019.06 - 2019.08, </span>
 							<span class="block_research"> Mobile Immersive Computing </span>
-							<span class="block_institution"> AT&T Labs, USA </span>
+							<span class="block_institution"> AT&T Labs - Research, Bedminster, New Jersey, USA </span>
 							<div style="width:550px;padding:0px;margin:0px;">
 								<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 								<a class="block_advisor_link" href="https://scholar.google.com/citations?user=BhRa314AAAAJ&hl=en" rel="external" target="_blank"> Bo Han </a>
@@ -166,7 +166,7 @@
 						<div class="block_div_detail" style="width:450px;">
 							<span class="block_time"> 2018.06 - 2018.08, </span>
 							<span class="block_research"> Internet of Things </span>
-							<span class="block_institution"> Bell Labs, USA </span>
+							<span class="block_institution"> Bell Labs, Holmdel, New Jersey, USA </span>
 							<div style="width:550px;padding:0px;margin:0px;">
 								<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 								<a class="block_advisor_link" href="https://mostafau.github.io/" rel="external" target="_blank"> Mostafa Uddin </a>
@@ -189,7 +189,7 @@
 						<div class="block_div_detail" style="width:450px;">
 							<span class="block_time"> 2018.03 - 2018.06, </span>
 							<span class="block_research"> Intelligent Cloud and Edge </span>
-							<span class="block_institution"> Microsoft Research Asia, China </span>
+							<span class="block_institution"> Microsoft Research Asia, Beijing, China </span>
 							<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 							<a class="block_advisor_link" href="https://www.microsoft.com/en-us/research/people/yunliu" rel="external" target="_blank"> Yunxin Liu </a>
 						</div>
@@ -206,7 +206,7 @@
 						<div class="block_div_detail" style="width:450px;">
 							<span class="block_time"> 2017.07 - 2017.09, </span>
 							<span class="block_research"> Communication Systems </span>
-							<span class="block_institution"> Simula Research Laboratory, Norway </span>
+							<span class="block_institution"> Simula Research Laboratory, Fornebu, Norway </span>
 							<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 							<a class="block_advisor_link" href="https://www.simula.no/people/ahmed" rel="external" target="_blank"> Ahmed Elmokashfi </a>
 						</div>

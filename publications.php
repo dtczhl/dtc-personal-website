@@ -156,7 +156,7 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
-				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Best Demo Runner-up Award, Student Travel Grant)</span></span>
+				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -311,59 +311,6 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Papers Under Review </h1>
-				<ol class="paper_list" style="width:1200px;">
-
-					<li> <span class="publisher_abbr">PerCom</span>
-						<div class="block_right">
-							<div class="citation_div" title="Realtime Citation Count">
-								<p class="citation_label"> Citation </p>
-								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-							</div>
-							<div class="download">
-								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
-							</div>
-						</div>
-						<span class="paper_title dtcGooglePaperTitle"> About IoT Onboarding </span>
-						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, and Prasant Mohapatra </span>
-						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
-					</li>
-
-					<li> <span class="publisher_abbr">AAAI</span>
-						<div class="block_right">
-							<div class="citation_div" title="Realtime Citation Count">
-								<p class="citation_label"> Citation </p>
-								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-							</div>
-							<div class="download">
-								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
-							</div>
-						</div>
-						<span class="paper_title dtcGooglePaperTitle"> About 3D Semantic Segmentation </span>
-						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, Cheuk Yiu Ip, and Prasant Mohapatra </span>
-						<span class="publisher"> AAAI Conference on Artificial Intelligence </span>
-					</li>
-
-					<li> <span class="publisher_abbr">arXiv</span>
-						<div class="block_right">
-							<div class="citation_div" title="Realtime Citation Count">
-								<p class="citation_label"> Citation </p>
-								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-							</div>
-							<div class="download">
-								<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
-							</div>
-						</div>
-						<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video at Home </span>
-						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
-						<span class="publisher"> arXiv:1812.01777 </span>
-					</li>
-
-				</ol>
-			</h1>
-		</section>
-
-		<section>
 			<h1 class="header_title"> Patents </h1>
 			<ol class="paper_list" style="width:900px;">
 
@@ -390,8 +337,21 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Posters </h1>
+			<h1 class="header_title"> Posters and Demos </h1>
 			<ol class="paper_list" style="width:950px;">
+
+				<li>  <!-- hotmobile -->
+					<div class="block_narrow_right">
+						<div class="download" style="margin-top:8px;">
+							<a href="publication/conference/aide_hotmobile_19/poster.pdf" target="_blank" ref="author" class="poster"></a>
+							<a href="https://github.com/dtczhl/AIDE-HotMobile19" target="_blank" rel="author" class="github"></a>
+						</div>
+					</div>
+					<span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Best Demo Runner-up Award)</span></span>
+					<span> Demo and Poster: AIDE: Augmented Onboarding of IoT Devices at Ease </span>
+					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, and Prasant Mohapatra</span>
+				</li>
+
 				<li>  <!-- uc davis -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
@@ -399,9 +359,10 @@
 						</div>
 					</div>
 					<span class="publisher_abbr">UC Davis World Food Center'19</span>
-					<span> Non-invasive Soluable Sugar Content Estimation using Millimeter-wave </span>
+					<span> Poster: Non-invasive Soluable Sugar Content Estimation using Millimeter-wave </span>
 					<span class="author">Z. Yang, P. H. Pathak, M. Wu, T. Zhu, J. Gan, <span class="meAuthor">H. Zhang</span>, J. Zheng and P. Mohapatra</span>
 				</li>
+
 				<li>  <!-- iotdi -->
 					<div class="block_narrow_right">
 						<div class="download" style="margin-top:8px;">
@@ -410,7 +371,7 @@
 						</div>
 					</div>
 					<span class="publisher_abbr">IoTDI'19</span>
-					<span> Wireless Access to Ultimate Virtual Reality 360-Degree Video </span>
+					<span> Poster: Wireless Access to Ultimate Virtual Reality 360-Degree Video </span>
 					<span class="author"><span class="meAuthor">Huanle Zhang</span>, Zhicheng Yang and Prasant Mohapatra </span>
 				</li>
 				<li>  <!-- mmW RCN workshop -->
@@ -420,7 +381,7 @@
 						</div>
 					</div>
 					<span class="publisher_abbr">mmW RCN workshop'19</span>
-					<span> Blockage-aware Deployment of 60 GHz Millimeter-wave WLANs </span>
+					<span> Poster: Blockage-aware Deployment of 60 GHz Millimeter-wave WLANs </span>
 					<span class="author"> Zhicheng Yang, Parth H Pathak, Jianli Pan, Mo Sha, <span class="meAuthor">Huanle Zhang</span> and Prasant Mohapatra </span>
 				</li>
 			</ol>
@@ -443,6 +404,89 @@
 				<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
 				<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>
 			</ul>
+		</section>
+
+		<section>
+			<h1 class="header_title"> Papers Under Review </h1>
+				<ol class="paper_list" style="width:1200px;">
+
+					<li> <span class="publisher_abbr">HotMobile</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> About Mobile Vision </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, and Prasant Mohapatra </span>
+						<span class="publisher"> ACM Conference on Mobile Computing and Networking </span>
+					</li>
+
+					<li> <span class="publisher_abbr">PerCom</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> About IoT Onboarding </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Mostafa Uddin, Fang Hao, Sarit Mukherjee, and Prasant Mohapatra </span>
+						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
+					</li>
+
+					<li> <span class="publisher_abbr">AAAI</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> About Segmentation </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, Cheuk Yiu Ip, and Prasant Mohapatra </span>
+						<span class="publisher"> AAAI Conference on Artificial Intelligence </span>
+					</li>
+
+					<li> <span class="publisher_abbr">arXiv</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a>
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> Wireless Access to Ultimate Virtual Reality 360-Degree Video at Home </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Ahmed Elmokashfi, Zhicheng Yang, and Prasant Mohapatra </span>
+						<span class="publisher"> arXiv:1812.01777 </span>
+					</li>
+
+					<li> <span class="publisher_abbr">PerCom</span>
+						<div class="block_right">
+							<div class="citation_div" title="Realtime Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> About IoT Security </span>
+						<span class="author">Tianbo Gu, Allaukik Abhishek, Hao Fu, <span class="meAuthor">Huanle Zhang</span>, and Prasant Mohapatra </span>
+						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
+					</li>
+
+				</ol>
+			</h1>
 		</section>
 
 		<div class="note" style="width:800px;">
