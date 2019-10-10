@@ -321,7 +321,7 @@
 					</div>
 					<span class="publisher_abbr">US Patent App.</span>
 					<span>  Accelerating 3D Segmentation with Point Cloud Simplification</span>
-					<span class="author"> Bo Han, Cheuk Yiu Ip, and <span class="meAuthor">Huanle Zhang</span></span>
+					<span class="author"> Bo Han, Cheuk Yiu Ip, Eric Zavesky, and <span class="meAuthor">Huanle Zhang</span></span>
 				</li>
 
 				<li>
@@ -400,6 +400,7 @@
 				<li> IEEE Transactions on Mobile Computing (IEEE TMC): 2019 </li>
 				<li> IEEE Transactions on Services Computing (IEEE TSC): 2019 </li>
 				<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
+				<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
 				<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
 				<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
 				<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>

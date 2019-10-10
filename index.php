@@ -231,7 +231,7 @@
 
 
 			<div style="width:700px;">
-				<a href="./document/cv/CV_Huanle_Zhang.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
+				<a href="./document/cv/CV_Huanle_Zhang_academic.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
 				<a href="https://github.com/dtczhl" target="_blank" ref="external"><img  style="margin-left:10px;" src="./image/icon/github.png" width="40"></a>
 				<a href="https://www.linkedin.com/in/huanle-zhang-24b745a6/" target="_blank" ref="external"><img  style="margin-left:10px; margin-bottom: -3px;" src="./image/icon/linkedin.png" width="40"></a>
 			</div>
