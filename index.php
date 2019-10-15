@@ -107,32 +107,11 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Work Experience </h1>
-
-			<div class="block_wrapper" style="width:650px;"> <!-- NTU -->
-					<div class="block_div_title" style="width:100px;">
-						<span class="block_title"> Project Officer </span>
-						<span class="block_period"> (2 years) </span>
-					</div>
-					<div class="block_div_image" style="width:90px;">
-						<a href="http://www.ntu.edu.sg/" target="_blank"><img src="./image/institution/ntu.png" width="75" class="block_img" style="margin-top:-14px;"/></a>
-					</div>
-					<div class="block_div_detail" style="width:460px;">
-						<span class="block_time"> 2014.08 - 2016.06, </span>
-						<span class="block_research"> School of Computer Science &amp; Engineering </span>
-						<span class="block_institution"> Nanyang Technological University, Singapore </span>
-						<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
-						<a class="block_advisor_link" href="http://www.ntu.edu.sg/home/limo/" rel="external" target="_blank"> Mo Li </a>
-					</div>
-			</div>
-		</section>
-
-		<section>
-				<h1 class="header_title"> Internship </h1>
+				<h1 class="header_title"> Work and Internship </h1>
 
 				<div class="block_wrapper" style="width:710px;"> <!-- at&t -->
 						<div class="block_div_title" style="width:110px;">
-							<span class="block_title"> Summer Intern </span>
+							<span class="block_title"> Research Intern </span>
 							<span class="block_period"> (10 weeks) </span>
 						</div>
 						<div class="block_div_image" style="width:150px;">
@@ -155,7 +134,7 @@
 
 				<div class="block_wrapper" style="width:710px;"> <!-- Bell -->
 						<div class="block_div_title" style="width:110px;">
-							<span class="block_title"> Summer Intern </span>
+							<span class="block_title"> Research Intern </span>
 							<span class="block_period"> (10 weeks) </span>
 						</div>
 						<div class="block_div_image" style="width:150px;">
@@ -180,7 +159,7 @@
 
 				<div class="block_wrapper" style="width:710px;"> <!-- msra -->
 						<div class="block_div_title" style="width:110px;">
-							<span class="block_title"> Spring Intern </span>
+							<span class="block_title"> Research Intern </span>
 							<span class="block_period"> (12 weeks) </span>
 						</div>
 						<div class="block_div_image" style="width:150px;">
@@ -197,7 +176,7 @@
 
 				<div class="block_wrapper" style="width:710px;"> <!-- simula -->
 						<div class="block_div_title" style="width:110px;">
-							<span class="block_title"> Summer Intern </span>
+							<span class="block_title"> Research Intern </span>
 							<span class="block_period"> (2 months) </span>
 						</div>
 						<div class="block_div_image" style="width:150px; ">
@@ -209,6 +188,25 @@
 							<span class="block_institution"> Simula Research Laboratory, Fornebu, Norway </span>
 							<span class="block_advisor_modifier"> Mentor: <i>Dr.</i> </span>
 							<a class="block_advisor_link" href="https://www.simula.no/people/ahmed" rel="external" target="_blank"> Ahmed Elmokashfi </a>
+						</div>
+				</div>
+
+				<div class="block_wrapper" style="width:710px;"> <!-- NTU -->
+						<div class="block_div_title" style="width:110px;">
+							<span class="block_title"> Project Officer </span>
+							<span class="block_period"> (2 years) </span>
+						</div>
+						<div class="block_div_image" style="width:150px;">
+							<a href="http://www.ntu.edu.sg/" target="_blank"><img src="./image/institution/ntu.png" width="75" class="block_img" style="margin-top:-14px;padding-left:30px;"/></a>
+						</div>
+						<div class="block_div_detail" style="width:450px;">
+							<span class="block_time"> 2014.08 - 2016.06, </span>
+							<span class="block_research"> School of Computer Science &amp; Engineering </span>
+							<span class="block_institution"> Nanyang Technological University, Singapore </span>
+							<div style="width:550px;padding:0px;margin:0px;">
+								<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
+								<a class="block_advisor_link" href="http://www.ntu.edu.sg/home/limo/" rel="external" target="_blank"> Mo Li </a>
+							</div>
 						</div>
 				</div>
 
