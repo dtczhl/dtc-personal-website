@@ -395,15 +395,32 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Reviewer </h1>
-			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
-				<li> IEEE Transactions on Mobile Computing (IEEE TMC): 2019 </li>
-				<li> IEEE Transactions on Services Computing (IEEE TSC): 2019 </li>
-				<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
-				<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
-				<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
-				<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
-				<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>
+			<h1 class="header_title"> Professional Services </h1>
+
+			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
+				<li> Technical Program Committee </li>
+				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> International Conference on Wireless and Mobile Communications (ICWMC): 2020</li>
+				</ol>
+			</ul>
+
+			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
+				<li> Journal Reviewer </li>
+				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> IEEE Transactions on Mobile Computing (IEEE TMC): 2019 </li>
+					<li> IEEE Transactions on Services Computing (IEEE TSC): 2019 </li>
+					<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
+					<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
+					<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
+					<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>
+				</ol>
+			</ul>
+
+			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
+				<li> Conference Reviewer </li>
+				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
+				</ol>
 			</ul>
 		</section>
 
