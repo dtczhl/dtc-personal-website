@@ -407,12 +407,12 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
-					<li> IEEE Transactions on Mobile Computing (IEEE TMC): 2019 </li>
-					<li> IEEE Transactions on Services Computing (IEEE TSC): 2019 </li>
-					<li> IEEE Transactions on Vehicular Technology (IEEE TVT): 2019 </li>
+					<li> IEEE Transactions on Mobile Computing (TMC): 2019 </li>
+					<li> IEEE Transactions on Services Computing (TSC): 2019 </li>
+					<li> IEEE Transactions on Vehicular Technology (TVT): 2019 </li>
 					<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
 					<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
-					<li> IEEE Internet of Things Journal (IEEE IoT): 2013, 2014 </li>
+					<li> IEEE Internet of Things Journal (IoT): 2013, 2014 </li>
 				</ol>
 			</ul>
 
