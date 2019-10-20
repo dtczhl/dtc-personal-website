@@ -401,6 +401,7 @@
 				<li> Technical Program Committee </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
 					<li> International Conference on Wireless and Mobile Communications (ICWMC): 2020</li>
+					<li> International Conference on Evolving Internet (INTERNET) 2020</li>
 				</ol>
 			</ul>
 
