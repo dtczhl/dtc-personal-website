@@ -413,7 +413,7 @@
 					<li> IEEE Transactions on Vehicular Technology (TVT): 2019 </li>
 					<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
 					<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
-					<li> IEEE Internet of Things Journal (IoT): 2013, 2014 </li>
+					<li> IEEE Internet of Things Journal (IoT): 2013, 2014, 2019 </li>
 				</ol>
 			</ul>
 
