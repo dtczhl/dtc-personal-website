@@ -320,8 +320,8 @@
 						</div>
 					</div>
 					<span class="publisher_abbr">US Patent App.</span>
-					<span>  Accelerating 3D Segmentation with Point Cloud Simplification</span>
-					<span class="author"> Bo Han, Cheuk Yiu Ip, Eric Zavesky, and <span class="meAuthor">Huanle Zhang</span></span>
+					<span> Method for Accelerating Three-dimensional Object Segmentation with Point Cloud Simplification </span>
+					<span class="author"> Bo Han, Cheuk Yiu Ip, <span class="meAuthor">Huanle Zhang</span> and Eric Zavesky</span>
 				</li>
 
 				<li>
@@ -331,7 +331,7 @@
 					</div>
 					<span class="publisher_abbr">US Patent App. 16/247,797 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
-					<span class="author"> Fang Hao (25%),  Sarit Mukherjee (25%), Mostafa Uddin (25%) and <span class="meAuthor">Huanle Zhang</span> (25%)</span>
+					<span class="author"> Fang Hao,  Sarit Mukherjee, Mostafa Uddin and <span class="meAuthor">Huanle Zhang</span></span>
 				</li>
 			</ol>
 		</section>
@@ -413,7 +413,7 @@
 					<li> IEEE Transactions on Vehicular Technology (TVT): 2019 </li>
 					<li> International Journal of Sensors, Wireless Communications and Control (SWCC): 2019 </li>
 					<li> EURASIP Journal on Wireless Communications and Networking (JWCN): 2015 </li>
-					<li> IEEE Internet of Things Journal (IoT): 2013, 2014, 2019 </li>
+					<li> IEEE Internet of Things Journal (IoT): 2013-14, 2019-20 </li>
 				</ol>
 			</ul>
 
@@ -429,7 +429,7 @@
 			<h1 class="header_title"> Papers Under Review </h1>
 				<ol class="paper_list" style="width:1200px;">
 
-					<li> <span class="publisher_abbr">HotMobile</span>
+					<li> <span class="publisher_abbr">XXX</span>
 						<div class="block_right">
 							<div class="citation_div" title="Realtime Citation Count">
 								<p class="citation_label"> Citation </p>
@@ -444,7 +444,7 @@
 						<span class="publisher"> ACM Conference on Mobile Computing and Networking </span>
 					</li>
 
-					<li> <span class="publisher_abbr">PerCom</span>
+					<li> <span class="publisher_abbr">XXX</span>
 						<div class="block_right">
 							<div class="citation_div" title="Realtime Citation Count">
 								<p class="citation_label"> Citation </p>
@@ -459,7 +459,7 @@
 						<span class="publisher"> IEEE International Conference on Pervasive Computing and Communications </span>
 					</li>
 
-					<li> <span class="publisher_abbr">AAAI</span>
+					<li> <span class="publisher_abbr">XXX</span>
 						<div class="block_right">
 							<div class="citation_div" title="Realtime Citation Count">
 								<p class="citation_label"> Citation </p>
@@ -489,7 +489,7 @@
 						<span class="publisher"> arXiv:1812.01777 </span>
 					</li>
 
-					<li> <span class="publisher_abbr">PerCom</span>
+					<li> <span class="publisher_abbr">XXX</span>
 						<div class="block_right">
 							<div class="citation_div" title="Realtime Citation Count">
 								<p class="citation_label"> Citation </p>
