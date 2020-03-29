@@ -156,6 +156,23 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
+				<li> <span class="publisher_abbr">WoWMoM'20</span>
+					<div class="block_right">
+						<div class="citation_div" title="Realtime Citation Count">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+						</div>
+					</div>
+					<span class="paper_title dtcGooglePaperTitle"> Towards Learning-automation IoT Attack Detection through Reinforcement Learning </span>
+					<span class="author"> Tianbo Gu, Allaukik Abhishek, Hao Fu, <span class="meAuthor">Huanle Zhang</span>, Debraj Basu and Prasant Mohapatra</span>
+					<span class="publisher"> IEEE International Symposium on A World of Wireless, Mobile and Multimedia Networks </span>
+					<span class="page_number"> 1-10 </span>
+					<span class="conference_location"> Cork, Ireland </span>
+					<span class="date"> 2020 </span>
+				</li>
+
 				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
