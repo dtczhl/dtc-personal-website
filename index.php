@@ -29,8 +29,8 @@
 
 		<section id="content_start">
 
-		<div style="margin-left: 20px;font-size:20px;font-weight: bold;border-style: solid;border-width: 2px;width:550px;padding:20px 20px 20px 20px;">
-			I am in the job market. Thanks for any opportunities :)
+		<div style="margin-left: 20px;font-size:20px;font-weight: bold;border-style: solid;border-width: 2px;width:560px;padding:20px 20px 20px 20px;">
+			I am in the job market. Thanks for any opportunity :)
 		</div>
 
 			<h1 class="header_title"> Education </h1>
