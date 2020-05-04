@@ -156,6 +156,23 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
+				<li> <span class="publisher_abbr">ICCCN'20 <span style="color:red;">(Invited Paper)</span></span>
+					<div class="block_right">
+						<div class="citation_div" title="Realtime Citation Count">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+						</div>
+					</div>
+					<span class="paper_title dtcGooglePaperTitle"> Toward Mobile 3D Vision </span>
+					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Bo Han and Prasant Mohapatra</span>
+					<span class="publisher"> IEEE International Conference on Computer Communications and Networks </span>
+					<span class="page_number"> 1-6 </span>
+					<span class="conference_location"> Honolulu, Hawaii, USA </span>
+					<span class="date"> 2020 </span>
+				</li>
+
 				<li> <span class="publisher_abbr">WoWMoM'20</span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
@@ -445,21 +462,6 @@
 		<section>
 			<h1 class="header_title"> Papers Under Review </h1>
 				<ol class="paper_list" style="width:1200px;">
-
-					<li> <span class="publisher_abbr">XXX</span>
-						<div class="block_right">
-							<div class="citation_div" title="Realtime Citation Count">
-								<p class="citation_label"> Citation </p>
-								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-							</div>
-							<div class="download">
-								<!-- <a href="https://arxiv.org/abs/1812.01777" target="_blank" ref="author" class="pdf"></a> -->
-							</div>
-						</div>
-						<span class="paper_title dtcGooglePaperTitle"> About Mobile Vision </span>
-						<span class="author"><span class="meAuthor">Huanle Zhang</span>, Bo Han, and Prasant Mohapatra </span>
-						<span class="publisher"> ACM Conference on Mobile Computing and Networking </span>
-					</li>
 
 					<li> <span class="publisher_abbr">XXX</span>
 						<div class="block_right">
