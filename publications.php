@@ -168,7 +168,7 @@
 					<span class="paper_title dtcGooglePaperTitle"> Toward Mobile 3D Vision </span>
 					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Bo Han and Prasant Mohapatra</span>
 					<span class="publisher"> IEEE International Conference on Computer Communications and Networks </span>
-					<span class="page_number"> 1-6 </span>
+					<span class="page_number"> 1-8 </span>
 					<span class="conference_location"> Honolulu, Hawaii, USA </span>
 					<span class="date"> 2020 </span>
 				</li>

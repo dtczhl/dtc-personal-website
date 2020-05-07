@@ -97,7 +97,7 @@
 						<a href="https://about.att.com/sites/labs_research" target="_blank"><img src="./image/institution/att.png" width="125" class="block_img" style="margin-top:10px;"/></a>
 					</div>
 					<div class="block_div_detail" style="width:390px;">
-						<span class="block_time"> 2019.02 - Now, </span>
+						<span class="block_time"> 2019.02 - 2020.02, </span>
 						<span class="block_research"> Mobile Augmented Reality </span>
 						<span class="block_institution"> AT&T Labs - Research, USA </span>
 						<span class="block_advisor_modifier"> Advisor: <i>Dr.</i> </span>
