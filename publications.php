@@ -163,6 +163,7 @@
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
+							<a href="publication/conference/3d_icccn_20/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> Toward Mobile 3D Vision </span>
