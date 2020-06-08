@@ -40,19 +40,23 @@
 			<h1 class="header_title"> Article Papers </h1>
 			<ol class="paper_list" style="width:980px;">
 
-				<li> <span class="publisher_abbr">TMC'19</span>
+				<li> <span class="publisher_abbr">TMC'20</span>
 					<div class="block_right">
 						<div class="citation_div" title="Realtime Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
-							<a href="publication/journal/colorbars_tmc/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/journal/colorbars_tmc_20/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> High Speed LED-to-Camera Communication using Color Shift Keying with Flicker Mitigation </span>
 					<span class="author"> Pengfei Hu, Parth H. Pathak, <span class="meAuthor">Huanle Zhang</span>, Zhicheng Yang and Prasant Mohapatra </span>
 					<span class="publisher"> IEEE Transactions on Mobile Computing </span>
+					<span class="vol_number"> 19 </span>
+					<span class="issue_number"> 7 </span>
+					<span class="page_number"> 1603-1617 </span>
+					<span class="date"> 2020 </span>
 				</li>
 
 				<li> <span class="publisher_abbr">TMC'19</span>
@@ -444,6 +448,7 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> ACM Transactions on Internet of Things (TIOT): 2020 </li>
 					<li> IEEE Transactions on Mobile Computing (TMC): 2019 </li>
 					<li> IEEE Transactions on Services Computing (TSC): 2019 </li>
 					<li> IEEE Transactions on Vehicular Technology (TVT): 2019 </li>

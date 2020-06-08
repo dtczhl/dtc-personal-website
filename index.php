@@ -29,8 +29,8 @@
 
 		<section id="content_start">
 
-		<div style="margin-left: 20px;font-size:20px;font-weight: bold;border-style: solid;border-width: 2px;width:560px;padding:20px 20px 20px 20px;">
-			I am in the job market. Thanks for any opportunity :)
+		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:560px;padding:20px 20px 20px 20px;">
+			Hello all. My name is Huanle Zhang, a 4th-year Ph.D. candidate at the University of California, Davis. My Ph.D. advisor is <span style="font-style:italic; "> Prof. </span> Prasant Mohapatra. I will graduate in September 2020, and am looking for a job. Thanks for opportunities.
 		</div>
 
 			<h1 class="header_title"> Education </h1>
@@ -229,7 +229,7 @@
 
 
 			<div style="width:700px;">
-				<a href="./document/cv/CV_Huanle_Zhang_academic.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
+				<a href="./document/cv/CV_Huanle_Zhang_full.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
 				<a href="https://github.com/dtczhl" target="_blank" ref="external"><img  style="margin-left:10px;" src="./image/icon/github.png" width="40"></a>
 				<a href="https://www.linkedin.com/in/huanle-zhang-24b745a6/" target="_blank" ref="external"><img  style="margin-left:10px; margin-bottom: -3px;" src="./image/icon/linkedin.png" width="40"></a>
 			</div>
