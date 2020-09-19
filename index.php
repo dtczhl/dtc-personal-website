@@ -30,7 +30,7 @@
 		<section id="content_start">
 
 		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:560px;padding:20px 20px 20px 20px;">
-			Hello all. My name is Huanle Zhang, a 4th-year Ph.D. candidate at the University of California, Davis. My Ph.D. advisor is <span style="font-style:italic; "> Prof. </span> Prasant Mohapatra. I will graduate in September 2020, and am looking for a job. Thanks for opportunities.
+			Hello, everyone. My name is Huanle Zhang. Have a good day!
 		</div>
 
 			<h1 class="header_title"> Education </h1>
@@ -44,7 +44,7 @@
 						<a href="https://www.ucdavis.edu/" target="_blank"><img src="./image/institution/ucdavis.png" width="80" class="block_img" style="margin-top:-8px;"/></a>
 					</div>
 					<div class="block_div_detail" style="width:440px;">
-							<span class="block_time"> 2016.09 - Now, </span>
+							<span class="block_time"> 2016.09 - 2020.12, </span>
 							<span class="block_research"> Computer &amp; Information Sciences </span>
 							<span class="block_institution"> University of California, Davis, USA </span>
 							<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
