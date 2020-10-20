@@ -29,8 +29,15 @@
 
 		<section id="content_start">
 
-		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:560px;padding:20px 20px 20px 20px;">
-			Hello, everyone. My name is Huanle Zhang. Have a good day!
+		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:600px;padding:20px 20px 20px 20px;">
+			Hello, everyone. My name is Huanle Zhang, a postdoc researcher at UC Davis, under the supervision of <i>Prof.</i><a class="block_advisor_link" href="https://www.cs.ucdavis.edu/~liu/" target="_blank"> Xin Liu</a>.
+
+			</br> </br> Current Projects
+			<div style="margin-left:20px;margin-top:-10px;">
+				<ul>
+					<li> NSF Convergence Accelerator 2020. Data-Driven Disease Control and Prevention in Veterinary Health.
+				</ul>
+			</div>
 		</div>
 
 			<h1 class="header_title"> Education </h1>
@@ -44,7 +51,7 @@
 						<a href="https://www.ucdavis.edu/" target="_blank"><img src="./image/institution/ucdavis.png" width="80" class="block_img" style="margin-top:-8px;"/></a>
 					</div>
 					<div class="block_div_detail" style="width:440px;">
-							<span class="block_time"> 2016.09 - 2020.12, </span>
+							<span class="block_time"> 2016.09 - 2020.09, </span>
 							<span class="block_research"> Computer &amp; Information Sciences </span>
 							<span class="block_institution"> University of California, Davis, USA </span>
 							<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>

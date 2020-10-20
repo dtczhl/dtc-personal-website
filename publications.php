@@ -167,6 +167,7 @@
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
+							<a href="publication/conference/slimmer_mass_20/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> Slimmer: Accelerating 3D Semantic Segmentation for Mobile Augmented Reality </span>
