@@ -30,12 +30,15 @@
 		<section id="content_start">
 
 		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:600px;padding:20px 20px 20px 20px;">
-			Hello, everyone. My name is Huanle Zhang, a postdoc researcher at UC Davis, under the supervision of <i>Prof.</i><a class="block_advisor_link" href="https://www.cs.ucdavis.edu/~liu/" target="_blank"> Xin Liu</a>.
+			Hello, everyone. My name is Huanle Zhang, a postdoc scholar at the University of California, Davis (UC Davis), under the supervision of <i>Prof.</i><a class="block_advisor_link" href="https://www.cs.ucdavis.edu/~liu/" target="_blank"> Xin Liu</a>.
+			I got my Ph.D. degree from UC Davis in September 2020, under the advisory of  <i>Prof.</i><a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" target="_blank"> Prasant Mohapatra</a>.
 
-			</br> </br> Current Projects
+		</br> </br> Ongoing Projects
 			<div style="margin-left:20px;margin-top:-10px;">
 				<ul>
 					<li> NSF Convergence Accelerator 2020. Data-Driven Disease Control and Prevention in Veterinary Health.
+						Collaborated with <i>Prof.</i> <a class="block_advisor_link" href="https://www.vetmed.ucdavis.edu/faculty/beatriz-martinez-lopez" target="_blank"> Beatriz Martinez Lopez </a> from the School of Veterinary Medicine, UC Davis,
+						and  <i>Prof.</i> <a class="block_advisor_link" href="https://vetmed.iastate.edu/users/mclavijo" target="_blank"> Maria Clavijo </a> from the School of Veterinary Medicine, ISU. </li>
 				</ul>
 			</div>
 		</div>
@@ -211,7 +214,7 @@
 		<section style="width:700px;">
 			<h1 class="header_title"> Contact Me </h1>
 			<p class="listP"> Email: dtczhang AT ucdavis.edu </p>
-			<p class="listP"> Lab Office: Room 2106, Watershed Science Research Center, Davis, CA 95616, USA </p>
+			<!-- <p class="listP"> Lab Office: Room 2106, Watershed Science Research Center, Davis, CA 95616, USA </p> -->
 
 
 			<div style="width:700px;">

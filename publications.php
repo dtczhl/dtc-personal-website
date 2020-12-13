@@ -168,12 +168,14 @@
 						</div>
 						<div class="download">
 							<a href="publication/conference/slimmer_mass_20/paper.pdf" target="_blank" ref="author" class="pdf"></a>
+							<a href="publication/conference/slimmer_mass_20/slides.pdf" target="_blank" ref="author" class="slides"></a>
+							<a href="https://youtu.be/TtFMLoaBKBE" target="_blank" ref="external" class="video"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> Slimmer: Accelerating 3D Semantic Segmentation for Mobile Augmented Reality </span>
 					<span class="author"> <span class="meAuthor">Huanle Zhang</span>, Bo Han, Cheuk Yiu Ip and Prasant Mohapatra</span>
 					<span class="publisher"> IEEE International Conference on Mobile Ad-Hoc and Smart Systems </span>
-					<span class="page_number"> 1-9 </span>
+					<span class="page_number"> 1-10 </span>
 					<span class="conference_location"> Delhi NCR, India </span>
 					<span class="date"> 2020 </span>
 				</li>
@@ -371,7 +373,7 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Patents </h1>
+			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (alphabeticallly order by last names) </span> </h1>
 			<ol class="paper_list" style="width:900px;">
 
 				<li>
@@ -381,7 +383,7 @@
 					</div>
 					<span class="publisher_abbr">US Patent App.</span>
 					<span> Method for Accelerating Three-dimensional Object Segmentation with Point Cloud Simplification </span>
-					<span class="author"> Bo Han, Cheuk Yiu Ip, <span class="meAuthor">Huanle Zhang</span> and Eric Zavesky</span>
+					<span class="author"> Bo Han, Cheuk Yiu Ip, Huanle Zhang and Eric Zavesky</span>
 				</li>
 
 				<li>
@@ -391,7 +393,7 @@
 					</div>
 					<span class="publisher_abbr">US Patent App. 16/247,797 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
-					<span class="author"> Fang Hao,  Sarit Mukherjee, Mostafa Uddin and <span class="meAuthor">Huanle Zhang</span></span>
+					<span class="author"> Fang Hao,  Sarit Mukherjee, Mostafa Uddin and Huanle Zhang</span>
 				</li>
 			</ol>
 		</section>
@@ -460,8 +462,9 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Technical Program Committee </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc): 2021 </li>
 					<li> International Conference on Wireless and Mobile Communications (ICWMC): 2020</li>
-					<li> International Conference on Evolving Internet (INTERNET) 2020</li>
+					<li> International Conference on Evolving Internet (INTERNET): 2020</li>
 				</ol>
 			</ul>
 
