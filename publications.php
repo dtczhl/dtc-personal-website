@@ -20,6 +20,7 @@
 
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script>
+		<script src="js/format_publication.js"></script>
 		<script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script>
 
 	</head>
@@ -38,6 +39,7 @@
 				i10-index: <span class="dtcGoogleI10IndexAll"> -0 </span> </p>
 
 			<h1 class="header_title"> Article Papers </h1>
+
 			<ol class="paper_list" style="width:980px;">
 
 				<li> <span class="publisher_abbr">TMC'20</span>
@@ -153,6 +155,7 @@
 					 <span class="date"> 2013 </span>
 				</li>
 
+				<!-- <button id="article_btn" style="position: absolute;left: 30%; margin-top: 5px; margin-bottom: 20px; font-size: 110%;" disabled> Show All Article Papers </button> -->
 			</ol>
 		</section>
 
@@ -369,6 +372,7 @@
 					 <span class="conference_location"> Shijiazhuang, China </span>
 				</li>
 
+				<button onclick="button_clicked(this)" id="conference_btn" style="position: absolute;left: 30%; margin-top: 5px; margin-bottom: 20px; font-size: 110%;"> Show All Conference Papers </button>
 			</ol>
 		</section>
 
