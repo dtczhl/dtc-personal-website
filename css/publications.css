@@ -9,7 +9,7 @@ section{
 }
 
 .header_title {
-	margin-top: 30px;
+	margin-top: 20px;
 }
 
 .paper_list {
@@ -192,13 +192,4 @@ section{
 
 .note a span{
 	color: blue;
-}
-
-/* For Google Scholar Citations */
-.publication_count_valid {
-	display: list-item;
-}
-
-.publication_count_na {
-	display: none;
 }

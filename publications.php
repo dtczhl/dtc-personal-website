@@ -20,7 +20,6 @@
 
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script>
-		<script src="js/format_publication.js"></script>
 		<script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script>
 
 	</head>
@@ -154,8 +153,6 @@
 					 <span class="page_number"> 192-203 </span>
 					 <span class="date"> 2013 </span>
 				</li>
-
-				<!-- <button id="article_btn" style="position: absolute;left: 30%; margin-top: 5px; margin-bottom: 20px; font-size: 110%;" disabled> Show All Article Papers </button> -->
 			</ol>
 		</section>
 
@@ -371,8 +368,6 @@
 					 <span class="page_number"> 2682-2685 </span>
 					 <span class="conference_location"> Shijiazhuang, China </span>
 				</li>
-
-				<button onclick="button_clicked(this)" id="conference_btn" style="position: absolute;left: 30%; margin-top: 5px; margin-bottom: 20px; font-size: 110%;"> Show All Conference Papers </button>
 			</ol>
 		</section>
 
