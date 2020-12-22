@@ -20,7 +20,8 @@
 
 		<script src="js/jquery-3.2.1.js"></script>
 		<script src="js/icon_bind.js"></script>
-		<script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script>
+		<!-- <script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script> -->
+		<script src="dtc-google-scholar-helper/Python_Offline/dtcGoogleScholarHelper.js"> </script>
 
 	</head>
 
@@ -528,7 +529,8 @@
 </div> <!-- end of main wrapper -->
 
 		<script>
-			dtcGoogleScholarHelper('https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en');
+			// dtcGoogleScholarHelper('https://scholar.google.com/citations?user=Xm4NYnsAAAAJ&hl=en');
+			dtcGoogleScholarHelper();
 		</script>
 
 		<?php include 'footer.php'; ?>

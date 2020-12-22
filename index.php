@@ -35,7 +35,7 @@
 
 		</br> </br> Ongoing Projects
 			<div style="margin-left:0px;margin-top:-10px;">
-				<ul style="font-size:80%;">
+				<ul style="font-size:90%;">
 					<li> NSF Convergence Accelerator 2020. Data-Driven Disease Control and Prevention in Veterinary Health.
 						Collaborated with <i>Prof.</i> <a class="block_advisor_link" href="https://www.vetmed.ucdavis.edu/faculty/beatriz-martinez-lopez" target="_blank"> Beatriz Martinez Lopez </a> from the School of Veterinary Medicine, UC Davis,
 						and  <i>Prof.</i> <a class="block_advisor_link" href="https://vetmed.iastate.edu/users/mclavijo" target="_blank"> Maria Clavijo </a> from the School of Veterinary Medicine, ISU. </li>
