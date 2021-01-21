@@ -33,10 +33,11 @@
 
 		<section id="content_start">
 
-			<p style="font-size:150%; width:900px;" title="Realtime Statistics from Google Scholar">
+			<p style="font-size:150%; width:900px;" title="Statistics from Google Scholar">
 				Total Citations: <span class="dtcGoogleCitationsAll"> -0 </span>, &nbsp;&nbsp;
 				h-index: <span class="dtcGoogleHIndexAll"> -0 </span>, &nbsp;&nbsp;
 				i10-index: <span class="dtcGoogleI10IndexAll"> -0 </span> </p>
+			<p style="margin-top: -15px;"> Last update: <span class="dtcGoogleUpdateTime"> 0:0:0 </span> </p>
 
 			<h1 class="header_title"> Article Papers </h1>
 
@@ -44,7 +45,7 @@
 
 				<li> <span class="publisher_abbr">TMC'20</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -63,7 +64,7 @@
 
 				<li> <span class="publisher_abbr">TMC'19</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -82,7 +83,7 @@
 
 				<li> <span class="publisher_abbr">TMC'18</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -102,7 +103,7 @@
 
 				<li> <span class="publisher_abbr">TON'17</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -121,7 +122,7 @@
 
 				<li> <span class="publisher_abbr">IJCS'14</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -138,7 +139,7 @@
 
 				<li> <span class="publisher_abbr">AISS'13</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -161,9 +162,26 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
+				<li> <span class="publisher_abbr">ICIOT'21</span>
+					<div class="block_right">
+						<div class="citation_div" title="Google Scholar Citation Count">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+						</div>
+					</div>
+					<span class="paper_title dtcGooglePaperTitle"> Early Mobility Activity Recognition for Intensive Care Unit Patients Using Accelerometers </span>
+					<span class="author"> Rex Liu, Sarina Fazio, Albara Ah Ramli, <span class="meAuthor">Huanle Zhang</span> and Xin Liu</span>
+					<span class="publisher"> IEEE International Conference on Internet of Things </span>
+					<span class="page_number"> 1-6 </span>
+					<span class="conference_location"> Istanbul, Turkey </span>
+					<span class="date"> 2021 </span>
+				</li>
+
 				<li> <span class="publisher_abbr">MASS'20</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -183,7 +201,7 @@
 
 				<li> <span class="publisher_abbr">ICCCN'20 <span style="color:red;">(Invited Paper)</span></span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -203,7 +221,7 @@
 
 				<li> <span class="publisher_abbr">WoWMoM'20</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -221,7 +239,7 @@
 
 				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -242,7 +260,7 @@
 
 				<li> <span class="publisher_abbr">ICPADS'18</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -262,7 +280,7 @@
 
 				<li> <span class="publisher_abbr">MobiCom'16</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -283,7 +301,7 @@
 
 				<li> <span class="publisher_abbr">SenSys'15 <span style="color:red;">(Best Paper Award)</span></span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -301,7 +319,7 @@
 
 				<li> <span class="publisher_abbr">GLOBECOM'13 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -319,7 +337,7 @@
 
 				<li> <span class="publisher_abbr">CCT'13</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -337,7 +355,7 @@
 
 				<li> <span class="publisher_abbr">MINES'13</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -355,7 +373,7 @@
 
 				<li> <span class="publisher_abbr">SEIS'13</span>
 					<div class="block_right">
-						<div class="citation_div" title="Realtime Citation Count">
+						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
@@ -373,7 +391,7 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (alphabeticallly order by last names) </span> </h1>
+			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (alphabetical order by last names) </span> </h1>
 			<ol class="paper_list" style="width:900px;">
 
 				<li>
@@ -495,7 +513,7 @@
 
 					<li> <span class="publisher_abbr">arXiv</span>
 						<div class="block_right">
-							<div class="citation_div" title="Realtime Citation Count">
+							<div class="citation_div" title="Google Scholar Citation Count">
 								<p class="citation_label"> Citation </p>
 								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 							</div>
@@ -515,7 +533,7 @@
 		<div class="note" style="width:800px;">
 			<p> <b>Note</b>: Click
 				<a href="https://github.com/dtczhl/dtc-google-scholar-helper" target="_blank"> <span> HERE </span> </a>
-				to get my code of extracting and showing real-time Google Scholar information </p>
+				to get my code of extracting and showing Google Scholar citation information </p>
 		</div>
 
 		<!-- Use icons from Internet. Below are the credits. -->
