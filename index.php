@@ -38,7 +38,10 @@
 				<ul style="font-size:90%;">
 					<li> NSF Convergence Accelerator 2020: Data-Driven Disease Control and Prevention in Veterinary Health.
 						Collaborated with <i>Prof.</i> <a class="block_advisor_link" href="https://www.vetmed.ucdavis.edu/faculty/beatriz-martinez-lopez" target="_blank"> Beatriz Martinez Lopez </a> from the School of Veterinary Medicine, UC Davis,
-						and <i>Prof.</i> <a class="block_advisor_link" href="https://vetmed.iastate.edu/users/mclavijo" target="_blank"> Maria Clavijo </a> from the School of Veterinary Medicine, ISU. </li>
+						and <i>Prof.</i> <a class="block_advisor_link" href="https://vetmed.iastate.edu/users/mclavijo" target="_blank"> Maria Clavijo </a> from the School of Veterinary Medicine, ISU. <a class="block_advisor_link" href="https://bioportal.ucdavis.edu/" target="_blank"> https://bioportal.ucdavis.edu/ </a> </li>
+
+					<li> AI Institute for Food Systems. Collaborated with <i>Prof.</i><a class="block_advisor_link" href="https://foodscience.ucdavis.edu/people/nitin-nitin#/" target="_blank"> Nitin Nitin</a> from the Department of Food Science and Technology, UC Davis. <a class="block_advisor_link" href="https://aifs.ucdavis.edu/" target="_blank"> https://aifs.ucdavis.edu </a> </li>
+
 					<li> Army Research Project: Generalized Game-Theoretic Models for Multiple Defenders and Agile Attackers. Collaborated with <i>Prof.</i><a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" target="_blank"> Prasant Mohapatra</a> from the Department of Computer Science, UC Davis,
 						and <i>Prof.</i><a class="block_advisor_link" href="https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/" target="_blank"> Cleotilde Gonzalez</a> from the Department of Social & Decision Sciences, CMU.</li>
 				</ul>
@@ -210,7 +213,11 @@
 
 		<section style="width:700px;">
 			<h1 class="header_title"> Research Topics </h1>
-			<p style="margin-left:20px;margin-top:5px;"> VR/AR; Mobile Systems &amp; Applications; 5G; IoT; Machine Learning </p>
+			<p style="margin-left:20px;margin-top:5px;"> Mobile Systems &amp; Applications;  Internet of Things (IoT); Artificial Intelligence (AI) </p>
+		</section>
+
+		<section style="width:700px;">
+			<p style="margin-left:20px;margin-top:5px;"> PhD Dissertation:  Accelerating Vision Systems on Mobile Devices <a href="./document/phd_dissertation.pdf" target="_blank"><img style="margin-left:5px;display:inline;" src="./image/icon/pdf.png" width="30"/></a> </p>
 		</section>
 
 		<section style="width:700px;">
@@ -220,7 +227,7 @@
 
 
 			<div style="width:700px;">
-				<a href="./document/cv/CV_Huanle_Zhang_full.pdf" target="_blank"><img style="margin-left:12px;margin-top:5px;" src="./image/icon/cv.png" width="50"/></a>
+				<a href="./document/cv/CV_Huanle_Zhang_full.pdf" target="_blank"><img style="margin-left:12px;margin-top:10px;" src="./image/icon/cv.png" width="40"/></a>
 				<a href="https://github.com/dtczhl" target="_blank" ref="external"><img  style="margin-left:10px;" src="./image/icon/github.png" width="40"></a>
 				<a href="https://www.linkedin.com/in/huanle-zhang-24b745a6/" target="_blank" ref="external"><img  style="margin-left:10px; margin-bottom: -3px;" src="./image/icon/linkedin.png" width="40"></a>
 			</div>

@@ -162,23 +162,6 @@
 		<h1 class="header_title"> Conference Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
 
-				<li> <span class="publisher_abbr">ICIOT'21</span>
-					<div class="block_right">
-						<div class="citation_div" title="Google Scholar Citation Count">
-							<p class="citation_label"> Citation </p>
-							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
-						</div>
-						<div class="download">
-						</div>
-					</div>
-					<span class="paper_title dtcGooglePaperTitle"> Early Mobility Activity Recognition for Intensive Care Unit Patients Using Accelerometers </span>
-					<span class="author"> Rex Liu, Sarina Fazio, Albara Ah Ramli, <span class="meAuthor">Huanle Zhang</span> and Xin Liu</span>
-					<span class="publisher"> IEEE International Conference on Internet of Things </span>
-					<span class="page_number"> 1-6 </span>
-					<span class="conference_location"> Istanbul, Turkey </span>
-					<span class="date"> 2021 </span>
-				</li>
-
 				<li> <span class="publisher_abbr">MASS'20</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
@@ -489,6 +472,7 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li>  MDPI Technologies: 2021 </li>
 					<li> ACM Transactions on Internet of Things (TIOT): 2020 </li>
 					<li> IEEE Transactions on Mobile Computing (TMC): 2019 </li>
 					<li> IEEE Transactions on Services Computing (TSC): 2019 </li>
@@ -502,6 +486,7 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Conference Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> ACM Symposium on User Interface Software and Technology (UIST): 2021 </li>
 					<li> IEEE Global Communications Conference (IEEE GLOBECOM): 2014 </li>
 				</ol>
 			</ul>
