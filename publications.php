@@ -171,6 +171,7 @@
 						<div class="download">
 							<a href="publication/conference/slimmer_mass_20/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 							<a href="publication/conference/slimmer_mass_20/slides.pdf" target="_blank" ref="author" class="slides"></a>
+							<a href="https://github.com/dtczhl/Slimmer" target="_blank" rel="author" class="github"></a>
 							<a href="https://youtu.be/TtFMLoaBKBE" target="_blank" ref="external" class="video"></a>
 						</div>
 					</div>
