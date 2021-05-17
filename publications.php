@@ -375,8 +375,8 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (alphabetical order by last names) </span> </h1>
-			<ol class="paper_list" style="width:900px;">
+			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (author list in alphabetical order by last names) </span> </h1>
+			<ol class="paper_list" style="width:950px;">
 
 				<li>
 					<div class="block_very_narrow_right">
@@ -391,9 +391,10 @@
 				<li>
 					<div class="block_very_narrow_right">
 						<div class="download" style="margin-top:8px;">
+								<a href="publication/patent/augmented_onboarding/patent.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
-					<span class="publisher_abbr">US Patent App. 16/247,797 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
+					<span class="publisher_abbr">US Patent 20200228958A1 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
 					<span class="author"> Fang Hao,  Sarit Mukherjee, Mostafa Uddin and Huanle Zhang</span>
 				</li>
@@ -451,12 +452,12 @@
 			</ol>
 		</section>
 
-		<section>
+		<!-- <section>
 			<h1 class="header_title"> Invited Talks </h1>
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;">
 				<li> Mobile Support for Deep-Learning based Augmented Reality, UC Merced, Host: Wan Du, 2019 </li>
 			</ul>
-		</section>
+		</section> -->
 
 		<section>
 			<h1 class="header_title"> Professional Services </h1>
@@ -473,6 +474,7 @@
 			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li>  MDPI Sensors: 2021 </li>
 					<li>  MDPI Technologies: 2021 </li>
 					<li> ACM Transactions on Internet of Things (TIOT): 2020 </li>
 					<li> IEEE Transactions on Mobile Computing (TMC): 2019 </li>
@@ -494,7 +496,7 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Papers Under Review </h1>
+			<h1 class="header_title"> Arxiv Papers </h1>
 				<ol class="paper_list" style="width:1200px;">
 
 					<li> <span class="publisher_abbr">arXiv</span>
