@@ -159,8 +159,26 @@
 		</section>
 
 		<section>
-		<h1 class="header_title"> Conference Papers </h1>
+		<h1 class="header_title" style="width:1000px;"> Conference and Workshop Papers </h1>
 			<ol class="paper_list" style="width:1200px;">
+
+				<li> <span class="publisher_abbr">AIoT'21</span>
+					<div class="block_right">
+						<div class="citation_div" title="Google Scholar Citation Count">
+							<p class="citation_label"> Citation </p>
+							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+						</div>
+						<div class="download">
+							<!-- <a href="publication/conference/slimmer_mass_20/paper.pdf" target="_blank" ref="author" class="pdf"></a> -->
+						</div>
+					</div>
+					<span class="paper_title dtcGooglePaperTitle"> Early Mobility Recognition for Intensive Care Unit Patients Using Accelerometers </span>
+					<span class="author"> Rex Liu, Sarina A Fazio, <span class="meAuthor">Huanle Zhang</span>, Albara Ah Ramli, Xin Liu and Jason Yeates Adams</span>
+					<span class="publisher"> KDD Workshop on Artificial Intelligence of Things </span>
+					<span class="page_number"> 1-6 </span>
+					<span class="conference_location"> Singapore </span>
+					<span class="date"> 2021 </span>
+				</li>
 
 				<li> <span class="publisher_abbr">MASS'20</span>
 					<div class="block_right">
@@ -375,7 +393,7 @@
 		</section>
 
 		<section>
-			<h1 class="header_title"> Patents <span style="font-size: 80%;"> (author list in alphabetical order by last names) </span> </h1>
+			<h1 class="header_title"> Patents </h1>
 			<ol class="paper_list" style="width:950px;">
 
 				<li>
@@ -396,7 +414,7 @@
 					</div>
 					<span class="publisher_abbr">US Patent 20200228958A1 <span style="color:red;">(Nokia National Patent Filing Award)</span></span>
 					<span>  Augmented Onboarding of Internet-of-Things Devices</span>
-					<span class="author"> Fang Hao,  Sarit Mukherjee, Mostafa Uddin and Huanle Zhang</span>
+					<span class="author"> Mostafa Uddin, Fang Hao, Sarit Mukherjee and Huanle Zhang</span>
 				</li>
 			</ol>
 		</section>
@@ -466,16 +484,18 @@
 				<li> Technical Program Committee </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
 					<li> ACM International Symposium on Mobile Ad Hoc Networking and Computing (MobiHoc): 2021 </li>
-					<li> International Conference on Wireless and Mobile Communications (ICWMC): 2020</li>
-					<li> International Conference on Evolving Internet (INTERNET): 2020</li>
+					<li> International Conference on Wireless and Mobile Communications (ICWMC): 2020-21</li>
+					<li> International Conference on Evolving Internet (INTERNET): 2020-21</li>
 				</ol>
 			</ul>
 
-			<ul style="width:750px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
+			<ul style="width:1000px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
-					<li>  MDPI Sensors: 2021 </li>
-					<li>  MDPI Technologies: 2021 </li>
+					<li> MDPI Sensors: 2021 </li>
+					<li> MDPI Technologies: 2021 </li>
+					<li> MDPI Electronics: 2021 </li>
+					<li> MDPI Applied Sciences: 2021  </li>
 					<li> ACM Transactions on Internet of Things (TIOT): 2020 </li>
 					<li> IEEE Transactions on Mobile Computing (TMC): 2019 </li>
 					<li> IEEE Transactions on Services Computing (TSC): 2019 </li>
@@ -497,7 +517,52 @@
 
 		<section>
 			<h1 class="header_title"> Arxiv Papers </h1>
-				<ol class="paper_list" style="width:1200px;">
+				<ol class="paper_list" style="width:1300px;">
+
+					<li> <span class="publisher_abbr">arXiv</span>
+						<div class="block_right">
+							<div class="citation_div" title="Google Scholar Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<a href="https://arxiv.org/abs/2105.06295" target="_blank" ref="author" class="pdf"></a>
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> Gait Characterization in Duchenne Muscular Dystrophy (DMD) Using a Single-Sensor Accelerometer: Classical Machine Learning and Deep Learning Approaches </span>
+						<span class="author">Albara Ah Ramli, <span class="meAuthor">Huanle Zhang</span>, Jiahui Hou, Rex Liu, Alina Nicorici, Daniel Aranki, Corey Owens, Poonam Prasad, Craig McDonald, and Erik Henricson </span>
+						<span class="publisher"> 	arXiv:2105.06295 </span>
+					</li>
+
+					<li> <span class="publisher_abbr">arXiv</span>
+						<div class="block_right">
+							<div class="citation_div" title="Google Scholar Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<a href="https://arxiv.org/abs/2103.15990" target="_blank" ref="author" class="pdf"></a>
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> An Overview of Human Activity Recognition Using Wearable Sensors: Healthcare and Artificial Intelligence </span>
+						<span class="author">Rex Liu, Albara Ah Ramli, <span class="meAuthor">Huanle Zhang</span>, Esha Datta, Erik Henricson, and Xin Liu </span>
+						<span class="publisher"> 	arXiv:2103.15990 </span>
+					</li>
+
+					<li> <span class="publisher_abbr">arXiv</span>
+						<div class="block_right">
+							<div class="citation_div" title="Google Scholar Citation Count">
+								<p class="citation_label"> Citation </p>
+								<span class="citation_count dtcGoogleCitationCount" > -0 </span>
+							</div>
+							<div class="download">
+								<a href="https://arxiv.org/abs/2105.14675" target="_blank" ref="author" class="pdf"></a>
+							</div>
+						</div>
+						<span class="paper_title dtcGooglePaperTitle"> Towards a Federated Learning Framework for Heterogeneous Devices of Internet of Things </span>
+						<span class="author"><span class="meAuthor">Huanle Zhang</span>, and Jeonghoon Kim </span>
+						<span class="publisher"> 	arXiv:2105.14675 </span>
+					</li>
 
 					<li> <span class="publisher_abbr">arXiv</span>
 						<div class="block_right">
