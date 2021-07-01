@@ -22,6 +22,8 @@
 		<script src="js/icon_bind.js"></script>
 		<!-- <script src="dtc-google-scholar-helper/dtcGoogleScholarHelper.js"></script> -->
 		<script src="dtc-google-scholar-helper/Python_Offline/dtcGoogleScholarHelper.js"> </script>
+		<script src="js/dtc-show-papers.js"></script>
+
 
 	</head>
 
@@ -159,10 +161,13 @@
 		</section>
 
 		<section>
-		<h1 class="header_title" style="width:1000px;"> Conference and Workshop Papers </h1>
+		<h1 class="header_title" style="width:1000px;"> Conference and Workshop Papers
+			<button type="button" style="margin-left:10px; margin-top:-30px; padding-bottom:2px;font-size:20px;" onclick="dtcConferencePaperShowRecent10();" id="conferenceRecent10Btn" disabled> Show Recent 10</button>
+			<button type="button" style="margin-left:10px; margin-top:-30px; padding-bottom:2px;font-size:20px;" onclick="dtcConferencePaperShowAll();" id="conferenceAllBtn"> Show All</button>
+		</h1>
 			<ol class="paper_list" style="width:1200px;">
 
-				<li> <span class="publisher_abbr">AIoT'21</span>
+				<li class="conf_li"> <span class="publisher_abbr">AIoT'21</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -180,7 +185,7 @@
 					<span class="date"> 2021 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">MASS'20</span>
+				<li class="conf_li"> <span class="publisher_abbr">MASS'20</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -201,7 +206,7 @@
 					<span class="date"> 2020 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">ICCCN'20 <span style="color:red;">(Invited Paper)</span></span>
+				<li class="conf_li"> <span class="publisher_abbr">ICCCN'20 <span style="color:red;">(Invited Paper)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -221,7 +226,7 @@
 					<span class="date"> 2020 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">WoWMoM'20</span>
+				<li class="conf_li"> <span class="publisher_abbr">WoWMoM'20</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -239,7 +244,7 @@
 					<span class="date"> 2020 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
+				<li class="conf_li"> <span class="publisher_abbr">HotMobile'19 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -260,7 +265,7 @@
 					<span class="date"> 2019 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">ICPADS'18</span>
+				<li class="conf_li"> <span class="publisher_abbr">ICPADS'18</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -280,7 +285,7 @@
 					 <span class="date"> 2018 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">MobiCom'16</span>
+				<li class="conf_li"> <span class="publisher_abbr">MobiCom'16</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -301,7 +306,7 @@
 					 <span class="date"> 2016 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">SenSys'15 <span style="color:red;">(Best Paper Award)</span></span>
+				<li class="conf_li"> <span class="publisher_abbr">SenSys'15 <span style="color:red;">(Best Paper Award)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -319,7 +324,7 @@
 					 <span class="date"> 2015 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">GLOBECOM'13 <span style="color:red;">(Student Travel Grant)</span></span>
+				<li class="conf_li"> <span class="publisher_abbr">GLOBECOM'13 <span style="color:red;">(Student Travel Grant)</span></span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -337,7 +342,7 @@
 					 <span class="date"> 2013 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">CCT'13</span>
+				<li class="conf_li"> <span class="publisher_abbr">CCT'13</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -355,7 +360,7 @@
 					 <span class="date"> 2013 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">MINES'13</span>
+				<li class="conf_li"> <span class="publisher_abbr">MINES'13</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -373,7 +378,7 @@
 					 <span class="date"> 2013 </span>
 				</li>
 
-				<li> <span class="publisher_abbr">SEIS'13</span>
+				<li class="conf_li"> <span class="publisher_abbr">SEIS'13</span>
 					<div class="block_right">
 						<div class="citation_div" title="Google Scholar Citation Count">
 							<p class="citation_label"> Citation </p>
@@ -492,6 +497,7 @@
 			<ul style="width:1000px;margin-top:-15px;margin-left:-20px;font-size:110%;font-weight: bold;">
 				<li> Journal Reviewer </li>
 				<ol style="margin-left:-20px;font-weight: normal;">
+					<li> MDPI Applied System Innovation (ASI): 2021 </li>
 					<li> MDPI Sensors: 2021 </li>
 					<li> MDPI Technologies: 2021 </li>
 					<li> MDPI Electronics: 2021 </li>

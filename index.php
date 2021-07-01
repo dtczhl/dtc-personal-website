@@ -29,23 +29,18 @@
 
 		<section id="content_start">
 
-		<div style="margin-left: 20px;font-size:120%; border-style: none;border-width: 2px;width:600px;padding:20px 20px 20px 20px;">
-			Hello, everyone. My name is Huanle Zhang, a postdoc scholar at the University of California, Davis (UC Davis), under the supervision of <i>Prof.</i><a class="block_advisor_link" href="https://www.cs.ucdavis.edu/~liu/" target="_blank"> Xin Liu</a>.
-			I got my Ph.D. degree from UC Davis in September 2020, under the advisory of  <i>Prof.</i><a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" target="_blank"> Prasant Mohapatra</a>.
 
-		</br> </br> Ongoing Projects
-			<div style="margin-left:0px;margin-top:-10px;">
-				<ul style="font-size:90%;">
-					<li> NSF Convergence Accelerator 2020: Data-Driven Disease Control and Prevention in Veterinary Health.
-						Collaborated with <i>Prof.</i> <a class="block_advisor_link" href="https://www.vetmed.ucdavis.edu/faculty/beatriz-martinez-lopez" target="_blank"> Beatriz Martinez Lopez </a> from the School of Veterinary Medicine, UC Davis,
-						and <i>Prof.</i> <a class="block_advisor_link" href="https://vetmed.iastate.edu/users/mclavijo" target="_blank"> Maria Clavijo </a> from the School of Veterinary Medicine, ISU. <a class="block_advisor_link" href="https://bioportal.ucdavis.edu/" target="_blank"> https://bioportal.ucdavis.edu/ </a> </li>
 
-					<li> AI Institute for Food Systems. Collaborated with <i>Prof.</i><a class="block_advisor_link" href="https://foodscience.ucdavis.edu/people/nitin-nitin#/" target="_blank"> Nitin Nitin</a> from the Department of Food Science and Technology, UC Davis. <a class="block_advisor_link" href="https://aifs.ucdavis.edu/" target="_blank"> https://aifs.ucdavis.edu </a> </li>
+		<div style="margin-left: 0px;font-size:120%; border-style: none;border-width: 2px;width:600px; height: 200px; padding:20px 0px 0px 0px;">
 
-					<li> Army Research Project: Generalized Game-Theoretic Models for Multiple Defenders and Agile Attackers. Collaborated with <i>Prof.</i><a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" target="_blank"> Prasant Mohapatra</a> from the Department of Computer Science, UC Davis,
-						and <i>Prof.</i><a class="block_advisor_link" href="https://www.cmu.edu/dietrich/sds/ddmlab/cotyweb/" target="_blank"> Cleotilde Gonzalez</a> from the Department of Social & Decision Sciences, CMU.</li>
-				</ul>
-			</div>
+			<img src="./image/portrait.png" width="150" align="left">
+
+			<p style="margin-left: 180px">
+				Hello, everyone. My name is Huanle Zhang, a postdoc scholar at the University of California, Davis (UC Davis), under the supervision of <i>Prof.</i><a class="block_advisor_link" href="https://www.cs.ucdavis.edu/~liu/" target="_blank"> Xin Liu</a>.
+				I got my Ph.D. degree from UC Davis in 2020, under the advisory of  <i>Prof.</i><a class="block_advisor_link" href="https://faculty.engineering.ucdavis.edu/mohapatra/" target="_blank"> Prasant Mohapatra</a>.
+				I am interested in mobile systems and applications, wireless networking, applied machine learning, and federated learning.
+			</p>
+
 		</div>
 
 			<h1 class="header_title"> Education </h1>
@@ -59,7 +54,7 @@
 						<a href="https://www.ucdavis.edu/" target="_blank"><img src="./image/institution/ucdavis.png" width="80" class="block_img" style="margin-top:-8px;"/></a>
 					</div>
 					<div class="block_div_detail" style="width:440px;">
-							<span class="block_time"> 2016.09 - 2020.09, </span>
+							<span class="block_time"> 2016.09 - 2020.12, </span>
 							<span class="block_research"> Computer &amp; Information Sciences </span>
 							<span class="block_institution"> University of California, Davis, USA </span>
 							<span class="block_advisor_modifier"> Advisor: <i>Prof.</i> </span>
@@ -206,19 +201,11 @@
 
 		</section>
 
-		<section style="width:700px;">
-			<h1 class="header_title"> Teaching Assistant </h1>
-			<p style="margin-left:20px;margin-top:5px;"> ECS 60: Data Structure and Programming. 2017 Fall Quarter at UC Davis </p>
+		<section style="width:700px;margin-left:50px;margin-top:20px;">
+			<p> PhD Dissertation:  Accelerating Vision Systems on Mobile Devices <a href="./document/phd_dissertation.pdf" target="_blank"><img style="margin-left:5px;display:inline;" src="./image/icon/pdf.png" width="30"/></a> </p>
+			<p> Teaching Assistant at ECS 60 Data Structure and Programming. 2017 Fall Quarter at UC Davis </p>
 		</section>
 
-		<section style="width:700px;">
-			<h1 class="header_title"> Research Topics </h1>
-			<p style="margin-left:20px;margin-top:5px;"> Mobile Systems &amp; Applications;  Internet of Things (IoT); Artificial Intelligence (AI) </p>
-		</section>
-
-		<section style="width:700px;">
-			<p style="margin-left:20px;margin-top:5px;"> PhD Dissertation:  Accelerating Vision Systems on Mobile Devices <a href="./document/phd_dissertation.pdf" target="_blank"><img style="margin-left:5px;display:inline;" src="./image/icon/pdf.png" width="30"/></a> </p>
-		</section>
 
 		<section style="width:700px;">
 			<h1 class="header_title"> Contact Me </h1>

@@ -193,3 +193,10 @@ section{
 .note a span{
 	color: blue;
 }
+
+
+.btn_disable{
+	font-size: 200px;
+   cursor: not-allowed;
+   pointer-events: none;
+}
