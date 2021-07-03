@@ -174,7 +174,7 @@
 							<span class="citation_count dtcGoogleCitationCount" > -0 </span>
 						</div>
 						<div class="download">
-							<!-- <a href="publication/conference/slimmer_mass_20/paper.pdf" target="_blank" ref="author" class="pdf"></a> -->
+							<a href="publication/conference/icu_aiot_21/paper.pdf" target="_blank" ref="author" class="pdf"></a>
 						</div>
 					</div>
 					<span class="paper_title dtcGooglePaperTitle"> Early Mobility Recognition for Intensive Care Unit Patients Using Accelerometers </span>
